@@ -1,0 +1,63 @@
+{
+  "id": 1209652255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.11528,-8.56972,127.11528,-8.56972",
+    "geom:latitude":-8.56972,
+    "geom:longitude":127.11528,
+    "gn:admin1_code":"LA",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90108.0",
+    "gn:asciiname":"Lopohoho",
+    "gn:country_code":"TL",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945282,
+    "gn:latitude":-8.56972,
+    "gn:longitude":127.11528,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Lopohoho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945282
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"fc7b153a7887e9c74f2acce638f8f27e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209652255
+        }
+    ],
+    "wof:id":1209652255,
+    "wof:lastmodified":1536280543,
+    "wof:name":"Lopohoho",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.11528,
+    -8.56972,
+    127.11528,
+    -8.56972
+],
+  "geometry": {"coordinates":[127.11528,-8.56972],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293327187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.60611,-8.885,125.60611,-8.885",
+    "geom:latitude":-8.885,
+    "geom:longitude":125.60611,
+    "gn:admin1_code":"AN",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"10304.0",
+    "gn:asciiname":"Lientuto",
+    "gn:country_code":"TL",
+    "gn:dem":1782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944910,
+    "gn:latitude":-8.885,
+    "gn:longitude":125.60611,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Lientuto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944910
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"8d65e38a659fa338da0743e0c4eadcca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1293327187,
+            "region_id":85678963
+        }
+    ],
+    "wof:id":1293327187,
+    "wof:lastmodified":1537017457,
+    "wof:name":"Lientuto",
+    "wof:parent_id":85678963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.60611000000002,
+    -8.885,
+    125.60611000000002,
+    -8.885
+],
+  "geometry": {"coordinates":[125.60611000000002,-8.885],"type":"Point"}
+}

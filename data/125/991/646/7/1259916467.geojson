@@ -1,0 +1,67 @@
+{
+  "id": 1259916467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.63145,-8.59488,125.63145,-8.59488",
+    "geom:latitude":-8.59488,
+    "geom:longitude":125.63145,
+    "gn:admin1_code":"AL",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20402.0",
+    "gn:asciiname":"Darlau",
+    "gn:country_code":"TL",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942650,
+    "gn:latitude":-8.59488,
+    "gn:longitude":125.63145,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Darlau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942650
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"e92b30979c2c8f39dbc184a815c728b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1259916467,
+            "region_id":85678943
+        }
+    ],
+    "wof:id":1259916467,
+    "wof:lastmodified":1536731829,
+    "wof:name":"Darlau",
+    "wof:parent_id":85678943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.63145,
+    -8.59488,
+    125.63145,
+    -8.59488
+],
+  "geometry": {"coordinates":[125.63145,-8.59488],"type":"Point"}
+}

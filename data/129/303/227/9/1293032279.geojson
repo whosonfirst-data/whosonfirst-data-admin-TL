@@ -1,0 +1,67 @@
+{
+  "id": 1293032279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.36811,-9.01836,125.36811,-9.01836",
+    "geom:latitude":-9.01836,
+    "geom:longitude":125.36811,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40607.0",
+    "gn:asciiname":"Ohobin",
+    "gn:country_code":"TL",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945244,
+    "gn:latitude":-9.01836,
+    "gn:longitude":125.36811,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Ohobin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945244
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"6006db1d37d4abc53ad21f369595527d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1293032279,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1293032279,
+    "wof:lastmodified":1536946800,
+    "wof:name":"Ohobin",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.36811000000002,
+    -9.01836,
+    125.36811000000002,
+    -9.01836
+],
+  "geometry": {"coordinates":[125.36811000000002,-9.01836],"type":"Point"}
+}

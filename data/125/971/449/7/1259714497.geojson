@@ -1,0 +1,70 @@
+{
+  "id": 1259714497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.65701,-8.49959,126.65701,-8.49959",
+    "geom:latitude":-8.49959,
+    "geom:longitude":126.65701,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30207.0",
+    "gn:asciiname":"Tinlolo",
+    "gn:country_code":"TL",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944223,
+    "gn:latitude":-8.49959,
+    "gn:longitude":126.65701,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Tinlolo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tirilolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944223
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"ca967f7fc6f99c6ad9b1affdbe6661b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1259714497,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1259714497,
+    "wof:lastmodified":1537706425,
+    "wof:name":"Tinlolo",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.65701,
+    -8.49959,
+    126.65701,
+    -8.49959
+],
+  "geometry": {"coordinates":[126.65701,-8.49959],"type":"Point"}
+}

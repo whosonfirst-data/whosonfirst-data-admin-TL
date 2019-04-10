@@ -1,0 +1,83 @@
+{
+  "id": 1293234401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.36472,-8.8575,126.36472,-8.8575",
+    "geom:latitude":-8.8575,
+    "geom:longitude":126.36472,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1304.0",
+    "gn:admin3_code":"130407.0",
+    "gn:asciiname":"Viqueque",
+    "gn:country_code":"TL",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":1622471,
+    "gn:latitude":-8.8575,
+    "gn:longitude":126.36472,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Viqueque",
+    "gn:population":6078,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ube44\ucf00\ucf00"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043a\u0435\u043a\u0435"
+    ],
+    "name:und_x_variant":[
+        "Vikeke",
+        "Viqueque"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u514b\u514b"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1622471
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"077067a667b045a9f07d51e9e940b888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1293234401,
+            "region_id":85678993
+        }
+    ],
+    "wof:id":1293234401,
+    "wof:lastmodified":1537706417,
+    "wof:name":"Viqueque",
+    "wof:parent_id":85678993,
+    "wof:placetype":"locality",
+    "wof:population":6078,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.36472,
+    -8.8575,
+    126.36472,
+    -8.8575
+],
+  "geometry": {"coordinates":[126.36472000000001,-8.8575],"type":"Point"}
+}

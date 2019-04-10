@@ -1,0 +1,67 @@
+{
+  "id": 1310140847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.37072,-8.67494,126.37072,-8.67494",
+    "geom:latitude":-8.67494,
+    "geom:longitude":126.37072,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1302.0",
+    "gn:admin3_code":"130202.0",
+    "gn:asciiname":"Builale",
+    "gn:country_code":"TL",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8644078,
+    "gn:latitude":-8.67494,
+    "gn:longitude":126.37072,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Builale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8644078
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"53ba4a734ae473bbfe12db7bff3c1ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1310140847,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1310140847,
+    "wof:lastmodified":1536945932,
+    "wof:name":"Builale",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.37072,
+    -8.67494,
+    126.37072,
+    -8.67494
+],
+  "geometry": {"coordinates":[126.37072000000001,-8.67494],"type":"Point"}
+}

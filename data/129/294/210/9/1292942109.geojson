@@ -1,0 +1,67 @@
+{
+  "id": 1292942109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.20222,-8.63167,125.20222,-8.63167",
+    "geom:latitude":-8.63167,
+    "geom:longitude":125.20222,
+    "gn:admin1_code":"LI",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"80306.0",
+    "gn:asciiname":"Pabalebu",
+    "gn:country_code":"TL",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943409,
+    "gn:latitude":-8.63167,
+    "gn:longitude":125.20222,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Pabalebu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943409
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"4da6ba23a9e72a98152360e01d22dbd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1292942109,
+            "region_id":85678951
+        }
+    ],
+    "wof:id":1292942109,
+    "wof:lastmodified":1537073157,
+    "wof:name":"Pabalebu",
+    "wof:parent_id":85678951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.20222,
+    -8.63167,
+    125.20222,
+    -8.63167
+],
+  "geometry": {"coordinates":[125.20222,-8.63167],"type":"Point"}
+}

@@ -1,0 +1,315 @@
+{
+  "id": 85678993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.155242,
+    "geom:area_square_m":1896965783.885099,
+    "geom:bbox":"126.033682082,-8.99990553691,126.73896203,-8.60717457345",
+    "geom:latitude":-8.807169,
+    "geom:longitude":126.34744,
+    "gn:population":70177,
+    "iso:country":"TL",
+    "label:eng_x_preferred_longname":[
+        "Viqueque District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-8.82207,
+    "lbl:longitude":126.32338,
+    "mps:latitude":-8.82207,
+    "mps:longitude":126.32338,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0641\u064a\u0643\u064a\u0643"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09bf\u0995\u09c1\u09af\u09bc\u09c7\u0995\u09c1\u09af\u09bc\u09c7 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u043a\u0443\u043a\u0435"
+    ],
+    "name:chi_x_preferred":[
+        "\u7dad\u514b\u514b\u7e23"
+    ],
+    "name:dan_x_preferred":[
+        "Viqueque Municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Viqueque"
+    ],
+    "name:eng_x_preferred":[
+        "Viqueque"
+    ],
+    "name:eng_x_variant":[
+        "Viqueque District",
+        "Viqueque Municipality"
+    ],
+    "name:fin_x_preferred":[
+        "Viquequen alue"
+    ],
+    "name:fra_x_preferred":[
+        "Viqueque"
+    ],
+    "name:fre_x_preferred":[
+        "Viqueque"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d8\u10d9\u10d4\u10d9\u10d4\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Viqueque"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03b9\u03ba\u03ad\u03ba\u03b5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0abf\u0a95\u0ac7\u0a95 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05e7\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093f\u0915\u094d\u0935\u0947\u0915\u094d\u0935\u0947 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Kabupaten Viqueque"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Viqueque"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30b1\u30b1\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0c95\u0ccd\u0c95\u0ccd \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10d9\u10d4\u10d9\u10d4\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\ucf00\ucf00 \ud604"
+    ],
+    "name:lav_x_preferred":[
+        "Vikekes pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Vikek\u0117s apskritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u093f\u092f\u0941\u0915 \u092e\u094d\u092f\u0941\u0928\u093f\u0938\u093f\u092a\u0932\u093f\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Viqueque Municipality"
+    ],
+    "name:nob_x_preferred":[
+        "Viqueque"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0648\u06cc\u06a9\u06cc\u0648\u06a9\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Viqueque"
+    ],
+    "name:por_x_preferred":[
+        "Distrito Viqueque"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043a\u0435\u043a\u0435"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd2\u0d9a\u0dd4\u0d91\u0d8b\u0d9a\u0dd9 \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Viqueque"
+    ],
+    "name:swe_x_preferred":[
+        "Viqueque"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbf\u0baf\u0bc2\u0baf\u0bc2 \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c3f\u0c15\u0c4d\u0c35\u0c46\u0c15\u0c4d \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tet_x_preferred":[
+        "Distritu Viqueque"
+    ],
+    "name:tet_x_variant":[
+        "Vikeke"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e27\u0e35\u0e40\u0e01\u0e40\u0e01"
+    ],
+    "name:tur_x_preferred":[
+        "Viqueque Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043a\u0435\u043a\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Kabupaten Vikeke"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0642\u06cc\u0642\u06cc \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Viqueque"
+    ],
+    "name:war_x_preferred":[
+        "Viqueque"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u514b\u514b\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"TLS",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"TLS-552",
+    "ne:adm1_code":"TLS-552",
+    "ne:admin":"East Timor",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"TP.VQ",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"552",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"TT00",
+    "ne:fips_alt":"CG02",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"East Timor",
+    "ne:gn_a1_code":"TL.VI",
+    "ne:gn_id":"1622470",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Distrito Viqueque",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"TT13",
+    "ne:gns_id":"-2702182",
+    "ne:gns_lang":"por",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Viqueque, Distrito",
+    "ne:gns_region":"",
+    "ne:gu_a3":"TLS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"TL-",
+    "ne:iso_a2":"TL",
+    "ne:labelrank":"9",
+    "ne:latitude":"-8.82470000000",
+    "ne:longitude":"126.38600000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":4,
+    "ne:name":"Viqueque",
+    "ne:name_alt":"Vikeke",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"VQ",
+    "ne:provnum_ne":"7",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"TLS",
+    "ne:sub_code":"",
+    "ne:type":"Distrik|Kabupaten",
+    "ne:type_en":"District|Regencies",
+    "ne:wikipedia":"",
+    "ne:woe_id":24549903,
+    "ne:woe_label":"Viqueque, TL, East Timor",
+    "ne:woe_name":"Viqueque",
+    "qs:a0":"East Timor",
+    "qs:a0_lc":"TL",
+    "qs:a1":"Viqueque",
+    "qs:a1_lc":"TLS-552",
+    "qs:adm0":"East Timor",
+    "qs:adm0_a3":"TLS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District|Regencies",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-07-11",
+    "statoids:area_km":"1,781",
+    "statoids:area_mi":"687",
+    "statoids:as_of_date":"2010-07-11",
+    "statoids:capital":"Viqueque",
+    "statoids:country":"TL",
+    "statoids:gec":"TT13",
+    "statoids:hasc":"TL.VQ",
+    "statoids:iso":"VI",
+    "statoids:name":"Viqueque",
+    "statoids:population":"70177",
+    "statoids:timezone":"+9",
+    "statoids:type":"district",
+    "unlc:subdivision":"TL-VI",
+    "wof:belongsto":[
+        102191569,
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"TT13",
+        "gn:id":1622470,
+        "gp:id":24549903,
+        "hasc:id":"TL.VQ",
+        "iso:id":"TL-VI",
+        "qs:id":268703,
+        "unlc:id":"TL-VI",
+        "wd:id":"Q610726",
+        "wk:page":"Viqueque District"
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"3b422b12872ae51055afa9a9339dfe39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "region_id":85678993
+        }
+    ],
+    "wof:id":85678993,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "tet",
+        "por"
+    ],
+    "wof:lang_x_spoken":[
+        "tet",
+        "por"
+    ],
+    "wof:lastmodified":1553550517,
+    "wof:name":"Viqueque",
+    "wof:parent_id":85632583,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":70177,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:shortcode":"VQ",
+    "wof:subdivision":"TL-VI",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.03368208206246,
+    -8.99990553691094,
+    126.73896203007371,
+    -8.60717457344776
+],
+  "geometry": {"coordinates":[[[126.51882042901968,-8.68324228260519],[126.55954145697274,-8.67662769880923],[126.58599979125745,-8.68014169718151],[126.60253624894881,-8.68985686550189],[126.61555871006647,-8.68365569375521],[126.62734093593554,-8.66009124111781],[126.65111209504721,-8.6487224254995],[126.68356489460427,-8.65843759471915],[126.70671593609165,-8.66463876646583],[126.724906041081,-8.67828134520789],[126.73896203007371,-8.69647144929792],[126.73544803260074,-8.70122568112026],[126.72821333207969,-8.72623707368194],[126.72836836171064,-8.76096363726202],[126.72836847682379,-8.76098944330812],[126.69418378985006,-8.7634416643013],[126.67237389384024,-8.76864999799898],[126.66065514391983,-8.77418385210302],[126.63135826866926,-8.79583098790971],[126.62403405053112,-8.79900481591949],[126.6154891295198,-8.80087655960551],[126.59351647240737,-8.80201588282671],[126.58326256611463,-8.80584075254865],[126.54411868642831,-8.85027434648384],[126.50782311344597,-8.91187916479157],[126.47242272203107,-8.94280364387299],[126.4301863939869,-8.95468515399659],[126.16586347681812,-8.98837656013012],[126.13801531495483,-8.99990553691094],[126.13765506363029,-8.99867522478178],[126.11140343581997,-8.9660157196497],[126.09424686140358,-8.94121103266298],[126.08329145693529,-8.91144540827895],[126.07895063716228,-8.88994801229092],[126.07833052043725,-8.86845061630288],[126.05724653469986,-8.83000334967483],[126.03368208206246,-8.79403655354406],[126.03698937396052,-8.77460621510471],[126.05021854065319,-8.75765634446469],[126.06882205589318,-8.74546070654634],[126.07998416593659,-8.7196224907853],[126.09197309827994,-8.68799651442754],[126.11140343581997,-8.6749740542092],[126.13124718630866,-8.67807463963288],[126.14003218044081,-8.68107187316838],[126.18085656118137,-8.69481780379857],[126.23439334467719,-8.69585133167357],[126.28172895732553,-8.67828134520789],[126.33113162572397,-8.67538746445985],[126.37433312417443,-8.68489592900386],[126.40637251168209,-8.69626474372291],[126.43221072834251,-8.70639332409257],[126.44936730365816,-8.69357756854993],[126.44543989503518,-8.66339853301582],[126.44854048135824,-8.63342620215747],[126.45536176982989,-8.60717457344776],[126.4747921082693,-8.62619150163647],[126.49174197800994,-8.67001311591252],[126.51882042901968,-8.68324228260519]]],"type":"Polygon"}
+}

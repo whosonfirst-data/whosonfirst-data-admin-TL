@@ -1,0 +1,68 @@
+{
+  "id": 1293036027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.08333,-9.28333,125.08333,-9.28333",
+    "geom:latitude":-9.28333,
+    "geom:longitude":125.08333,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"50301.0",
+    "gn:asciiname":"Fohoren",
+    "gn:country_code":"TL",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8630040,
+    "gn:latitude":-9.28333,
+    "gn:longitude":125.08333,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Fohoren",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8630040,
+        "wk:page":"Fohoren"
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"aea168a4eff6cd26e48a12e21bdbbfc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1293036027,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1293036027,
+    "wof:lastmodified":1537574438,
+    "wof:name":"Fohoren",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.08333,
+    -9.28333,
+    125.08333,
+    -9.28333
+],
+  "geometry": {"coordinates":[125.08333,-9.28333],"type":"Point"}
+}

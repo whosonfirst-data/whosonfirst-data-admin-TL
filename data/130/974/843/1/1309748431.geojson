@@ -1,0 +1,67 @@
+{
+  "id": 1309748431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.48333,-9.0,125.48333,-9.0",
+    "geom:latitude":-9.0,
+    "geom:longitude":125.48333,
+    "gn:admin1_code":"AN",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10106.0",
+    "gn:asciiname":"Mau-Ulo",
+    "gn:country_code":"TL",
+    "gn:dem":885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8630037,
+    "gn:latitude":-9.0,
+    "gn:longitude":125.48333,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Mau-Ulo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8630037
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"f985a49a032a242eb128e2813773565c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1309748431,
+            "region_id":85678963
+        }
+    ],
+    "wof:id":1309748431,
+    "wof:lastmodified":1537013080,
+    "wof:name":"Mau-Ulo",
+    "wof:parent_id":85678963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.48333,
+    -9.0,
+    125.48333,
+    -9.0
+],
+  "geometry": {"coordinates":[125.48333,-9.0],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293323685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.93694,-8.86056,125.93694,-8.86056",
+    "geom:latitude":-8.86056,
+    "geom:longitude":125.93694,
+    "gn:admin1_code":"MT",
+    "gn:admin2_code":"1104.0",
+    "gn:admin3_code":"110401.0",
+    "gn:asciiname":"Soibada",
+    "gn:country_code":"TL",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1626686,
+    "gn:latitude":-8.86056,
+    "gn:longitude":125.93694,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Soibada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soilaoa",
+        "Saibada",
+        "Soibada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1626686
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"1aa860ab91aa09fc4b5a34ae85d200b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1293323685,
+            "region_id":85678985
+        }
+    ],
+    "wof:id":1293323685,
+    "wof:lastmodified":1537706418,
+    "wof:name":"Soibada",
+    "wof:parent_id":85678985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.93694,
+    -8.86056,
+    125.93694,
+    -8.86056
+],
+  "geometry": {"coordinates":[125.93694000000001,-8.86056],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293523455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.07528,-8.99139,125.07528,-8.99139",
+    "geom:latitude":-8.99139,
+    "geom:longitude":125.07528,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40302.0",
+    "gn:asciiname":"Wiwik",
+    "gn:country_code":"TL",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943630,
+    "gn:latitude":-8.99139,
+    "gn:longitude":125.07528,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Wiwik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943630
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"061cf2059ebc834a608204131a738515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1293523455,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1293523455,
+    "wof:lastmodified":1536735336,
+    "wof:name":"Wiwik",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.07528,
+    -8.99139,
+    125.07528,
+    -8.99139
+],
+  "geometry": {"coordinates":[125.07528000000001,-8.99139],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209751511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.02472,-8.52639,126.02472,-8.52639",
+    "geom:latitude":-8.52639,
+    "geom:longitude":126.02472,
+    "gn:admin1_code":"MT",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110103.0",
+    "gn:asciiname":"Soraha",
+    "gn:country_code":"TL",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943285,
+    "gn:latitude":-8.52639,
+    "gn:longitude":126.02472,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Soraha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943285
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"c280780d8103aaa41d80f0273c9a28b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1209751511,
+            "region_id":85678985
+        }
+    ],
+    "wof:id":1209751511,
+    "wof:lastmodified":1536392544,
+    "wof:name":"Soraha",
+    "wof:parent_id":85678985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.02472,
+    -8.52639,
+    126.02472,
+    -8.52639
+],
+  "geometry": {"coordinates":[126.02472,-8.52639],"type":"Point"}
+}

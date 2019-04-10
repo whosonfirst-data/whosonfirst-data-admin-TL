@@ -1,0 +1,67 @@
+{
+  "id": 1193197729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.33333,-8.75,125.33333,-8.75",
+    "geom:latitude":-8.75,
+    "geom:longitude":125.33333,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70513.0",
+    "gn:asciiname":"Sao Francisco",
+    "gn:country_code":"TL",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629365,
+    "gn:latitude":-8.75,
+    "gn:longitude":125.33333,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"S\u00e3o Francisco",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629365
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"c76c50a450a43cfc71b2fa51b6b955f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1193197729,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1193197729,
+    "wof:lastmodified":1536376110,
+    "wof:name":"Sao Francisco",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.33333,
+    -8.75,
+    125.33333,
+    -8.75
+],
+  "geometry": {"coordinates":[125.33333,-8.75],"type":"Point"}
+}

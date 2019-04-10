@@ -1,0 +1,67 @@
+{
+  "id": 1360033481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.43889,-8.85167,125.43889,-8.85167",
+    "geom:latitude":-8.85167,
+    "geom:longitude":125.43889,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"703.0",
+    "gn:admin3_code":"70302.0",
+    "gn:asciiname":"Riatoni",
+    "gn:country_code":"TL",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944583,
+    "gn:latitude":-8.85167,
+    "gn:longitude":125.43889,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Riatoni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944583
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"86817ac5e515fecd044ed97a38a87641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1360033481,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1360033481,
+    "wof:lastmodified":1537019376,
+    "wof:name":"Riatoni",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.43889,
+    -8.85167,
+    125.43889,
+    -8.85167
+],
+  "geometry": {"coordinates":[125.43889,-8.85167],"type":"Point"}
+}

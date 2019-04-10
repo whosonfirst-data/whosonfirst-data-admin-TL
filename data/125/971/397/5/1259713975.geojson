@@ -1,0 +1,67 @@
+{
+  "id": 1259713975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.57139,-8.92861,125.57139,-8.92861",
+    "geom:latitude":-8.92861,
+    "geom:longitude":125.57139,
+    "gn:admin1_code":"AN",
+    "gn:admin2_code":"102.0",
+    "gn:admin3_code":"10201.0",
+    "gn:asciiname":"Ernaro",
+    "gn:country_code":"TL",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944859,
+    "gn:latitude":-8.92861,
+    "gn:longitude":125.57139,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Ernaro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944859
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"46992b31f86241c7154aa87e14a1e287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1259713975,
+            "region_id":85678963
+        }
+    ],
+    "wof:id":1259713975,
+    "wof:lastmodified":1537022277,
+    "wof:name":"Ernaro",
+    "wof:parent_id":85678963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.57139,
+    -8.92861,
+    125.57139,
+    -8.92861
+],
+  "geometry": {"coordinates":[125.57138999999999,-8.92861],"type":"Point"}
+}

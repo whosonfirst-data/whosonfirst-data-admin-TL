@@ -1,0 +1,67 @@
+{
+  "id": 1243488677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.27472,-9.30639,124.27472,-9.30639",
+    "geom:latitude":-9.30639,
+    "geom:longitude":124.27472,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120105.0",
+    "gn:asciiname":"Nemun",
+    "gn:country_code":"TL",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944380,
+    "gn:latitude":-9.30639,
+    "gn:longitude":124.27472,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Nemun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944380
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"64a28478bd0ae88ed3b1ec870ed11283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243488677,
+            "region_id":85678953
+        }
+    ],
+    "wof:id":1243488677,
+    "wof:lastmodified":1536744346,
+    "wof:name":"Nemun",
+    "wof:parent_id":85678953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.27472,
+    -9.30639,
+    124.27472,
+    -9.30639
+],
+  "geometry": {"coordinates":[124.27472,-9.30639],"type":"Point"}
+}

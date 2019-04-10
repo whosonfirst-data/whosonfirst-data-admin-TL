@@ -1,0 +1,67 @@
+{
+  "id": 1293517911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.65528,-9.01333,125.65528,-9.01333",
+    "geom:latitude":-9.01333,
+    "geom:longitude":125.65528,
+    "gn:admin1_code":"MF",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100101.0",
+    "gn:asciiname":"Akadiruhun",
+    "gn:country_code":"TL",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945009,
+    "gn:latitude":-9.01333,
+    "gn:longitude":125.65528,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Akadiruhun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945009
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"a77768aec2d56d73ae4460b97dae3c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1293517911,
+            "region_id":85678989
+        }
+    ],
+    "wof:id":1293517911,
+    "wof:lastmodified":1536743074,
+    "wof:name":"Akadiruhun",
+    "wof:parent_id":85678989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.65528,
+    -9.01333,
+    125.65528,
+    -9.01333
+],
+  "geometry": {"coordinates":[125.65528,-9.01333],"type":"Point"}
+}

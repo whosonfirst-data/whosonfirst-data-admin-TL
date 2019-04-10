@@ -1,0 +1,71 @@
+{
+  "id": 1360120729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.29055,-9.22229,124.29055,-9.22229",
+    "geom:latitude":-9.22229,
+    "geom:longitude":124.29055,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120102.0",
+    "gn:asciiname":"Tulaika",
+    "gn:country_code":"TL",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1623092,
+    "gn:latitude":-9.22229,
+    "gn:longitude":124.29055,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Tulaika",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tulham",
+        "Foel Ikan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1623092
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"f5e7e85c48ed53c67f19b1091318ae34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1360120729,
+            "region_id":85678953
+        }
+    ],
+    "wof:id":1360120729,
+    "wof:lastmodified":1537706418,
+    "wof:name":"Tulaika",
+    "wof:parent_id":85678953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.29055,
+    -9.22229,
+    124.29055,
+    -9.22229
+],
+  "geometry": {"coordinates":[124.29055,-9.22229],"type":"Point"}
+}

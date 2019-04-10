@@ -1,0 +1,67 @@
+{
+  "id": 1243399641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.09833,-9.25205,125.09833,-9.25205",
+    "geom:latitude":-9.25205,
+    "geom:longitude":125.09833,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"50302.0",
+    "gn:asciiname":"Klobor",
+    "gn:country_code":"TL",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944191,
+    "gn:latitude":-9.25205,
+    "gn:longitude":125.09833,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Klobor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944191
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"f186730ff2a75c6ba20abc4ee0bd5edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243399641,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1243399641,
+    "wof:lastmodified":1536872020,
+    "wof:name":"Klobor",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.09833,
+    -9.25205,
+    125.09833,
+    -9.25205
+],
+  "geometry": {"coordinates":[125.09833,-9.25205],"type":"Point"}
+}

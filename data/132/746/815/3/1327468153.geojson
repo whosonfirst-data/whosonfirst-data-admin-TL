@@ -1,0 +1,67 @@
+{
+  "id": 1327468153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.88389,-8.55056,125.88389,-8.55056",
+    "geom:latitude":-8.55056,
+    "geom:longitude":125.88389,
+    "gn:admin1_code":"MT",
+    "gn:admin2_code":"1103.0",
+    "gn:admin3_code":"110301.0",
+    "gn:asciiname":"Tahagamo",
+    "gn:country_code":"TL",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944987,
+    "gn:latitude":-8.55056,
+    "gn:longitude":125.88389,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Tahagamo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944987
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"c99353bfe7dcb0a8105dc9980b1b0c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1327468153,
+            "region_id":85678985
+        }
+    ],
+    "wof:id":1327468153,
+    "wof:lastmodified":1536627376,
+    "wof:name":"Tahagamo",
+    "wof:parent_id":85678985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.88389,
+    -8.55056,
+    125.88389,
+    -8.55056
+],
+  "geometry": {"coordinates":[125.88388999999999,-8.55056],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209546493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.82333,-8.44722,126.82333,-8.44722",
+    "geom:latitude":-8.44722,
+    "geom:longitude":126.82333,
+    "gn:admin1_code":"LA",
+    "gn:admin2_code":"902.0",
+    "gn:admin3_code":"90203.0",
+    "gn:asciiname":"Ailafa",
+    "gn:country_code":"TL",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943011,
+    "gn:latitude":-8.44722,
+    "gn:longitude":126.82333,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Ailafa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943011
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"0a264ab3ec854551040aee950e10eec9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209546493
+        }
+    ],
+    "wof:id":1209546493,
+    "wof:lastmodified":1536283827,
+    "wof:name":"Ailafa",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.82333,
+    -8.44722,
+    126.82333,
+    -8.44722
+],
+  "geometry": {"coordinates":[126.82333,-8.44722],"type":"Point"}
+}

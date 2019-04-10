@@ -1,0 +1,63 @@
+{
+  "id": 1209251471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.23569,-9.24284,125.23569,-9.24284",
+    "geom:latitude":-9.24284,
+    "geom:longitude":125.23569,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50402.0",
+    "gn:asciiname":"Bergel",
+    "gn:country_code":"TL",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8630257,
+    "gn:latitude":-9.24284,
+    "gn:longitude":125.23569,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Bergel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8630257
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"4691f5b513028a8c2e858bf0e75fd597",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209251471
+        }
+    ],
+    "wof:id":1209251471,
+    "wof:lastmodified":1536292991,
+    "wof:name":"Bergel",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.23569,
+    -9.24284,
+    125.23569,
+    -9.24284
+],
+  "geometry": {"coordinates":[125.23569000000001,-9.24284],"type":"Point"}
+}

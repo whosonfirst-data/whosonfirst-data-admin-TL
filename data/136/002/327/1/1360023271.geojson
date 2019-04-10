@@ -1,0 +1,67 @@
+{
+  "id": 1360023271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.5058,-8.67263,125.5058,-8.67263",
+    "geom:latitude":-8.67263,
+    "geom:longitude":125.5058,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"701.0",
+    "gn:admin3_code":"70108.0",
+    "gn:asciiname":"Lebudo",
+    "gn:country_code":"TL",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943168,
+    "gn:latitude":-8.67263,
+    "gn:longitude":125.5058,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Lebudo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943168
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"a307da436a0e0ac77d9679af9b84387e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1360023271,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1360023271,
+    "wof:lastmodified":1537033307,
+    "wof:name":"Lebudo",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.5058,
+    -8.67263,
+    125.5058,
+    -8.67263
+],
+  "geometry": {"coordinates":[125.50579999999999,-8.67263],"type":"Point"}
+}

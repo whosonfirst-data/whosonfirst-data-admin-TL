@@ -1,0 +1,67 @@
+{
+  "id": 1242614321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.44306,-9.16556,125.44306,-9.16556",
+    "geom:latitude":-9.16556,
+    "geom:longitude":125.44306,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50702.0",
+    "gn:asciiname":"Maliseran",
+    "gn:country_code":"TL",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945290,
+    "gn:latitude":-9.16556,
+    "gn:longitude":125.44306,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Maliseran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945290
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"38149ae6c801947611cbc3fd33d94c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1242614321,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1242614321,
+    "wof:lastmodified":1537010008,
+    "wof:name":"Maliseran",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.44306,
+    -9.16556,
+    125.44306,
+    -9.16556
+],
+  "geometry": {"coordinates":[125.44306,-9.16556],"type":"Point"}
+}

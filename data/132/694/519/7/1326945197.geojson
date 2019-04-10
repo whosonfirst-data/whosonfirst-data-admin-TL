@@ -1,0 +1,64 @@
+{
+  "id": 1326945197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.63333,-8.18333,125.63333,-8.18333",
+    "geom:latitude":-8.18333,
+    "geom:longitude":125.63333,
+    "gn:asciiname":"Biqueli",
+    "gn:country_code":"TL",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629070,
+    "gn:latitude":-8.18333,
+    "gn:longitude":125.63333,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Biqueli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629070
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"072af2e2284c64a93d5836864c308c64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1326945197,
+            "region_id":85678943
+        }
+    ],
+    "wof:id":1326945197,
+    "wof:lastmodified":1536885560,
+    "wof:name":"Biqueli",
+    "wof:parent_id":85678943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.63333,
+    -8.18333,
+    125.63333,
+    -8.18333
+],
+  "geometry": {"coordinates":[125.63333,-8.18333],"type":"Point"}
+}

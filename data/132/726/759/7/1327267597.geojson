@@ -1,0 +1,67 @@
+{
+  "id": 1327267597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.53806,-8.59528,126.53806,-8.59528",
+    "geom:latitude":-8.59528,
+    "geom:longitude":126.53806,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"303.0",
+    "gn:admin3_code":"30305.0",
+    "gn:asciiname":"Letemumo",
+    "gn:country_code":"TL",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942876,
+    "gn:latitude":-8.59528,
+    "gn:longitude":126.53806,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Letemumo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942876
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"e125f79ae557d0d890d617ba24cfc603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1327267597,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1327267597,
+    "wof:lastmodified":1536919482,
+    "wof:name":"Letemumo",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.53806000000002,
+    -8.59528,
+    126.53806000000002,
+    -8.59528
+],
+  "geometry": {"coordinates":[126.53806000000002,-8.59528],"type":"Point"}
+}

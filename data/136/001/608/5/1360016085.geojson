@@ -1,0 +1,67 @@
+{
+  "id": 1360016085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.38333,-8.63333,126.38333,-8.63333",
+    "geom:latitude":-8.63333,
+    "geom:longitude":126.38333,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"306.0",
+    "gn:admin3_code":"30608.0",
+    "gn:asciiname":"Uma Ana Ico",
+    "gn:country_code":"TL",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629237,
+    "gn:latitude":-8.63333,
+    "gn:longitude":126.38333,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Uma Ana Ico",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629237
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"51d9fcc2add216755d72d62f94d545a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1360016085,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1360016085,
+    "wof:lastmodified":1537043505,
+    "wof:name":"Uma Ana Ico",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.38333,
+    -8.63333,
+    126.38333,
+    -8.63333
+],
+  "geometry": {"coordinates":[126.38333,-8.63333],"type":"Point"}
+}

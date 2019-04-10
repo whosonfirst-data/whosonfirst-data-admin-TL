@@ -1,0 +1,67 @@
+{
+  "id": 1226680285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.65142,-8.67895,126.65142,-8.67895",
+    "geom:latitude":-8.67895,
+    "geom:longitude":126.65142,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130104.0",
+    "gn:asciiname":"Laisorulai de cima",
+    "gn:country_code":"TL",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629786,
+    "gn:latitude":-8.67895,
+    "gn:longitude":126.65142,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Laisorulai de cima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629786
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"3d9ede55dc838845eca6bae018067074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1226680285,
+            "region_id":85678993
+        }
+    ],
+    "wof:id":1226680285,
+    "wof:lastmodified":1536809356,
+    "wof:name":"Laisorulai de cima",
+    "wof:parent_id":85678993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.65142,
+    -8.67895,
+    126.65142,
+    -8.67895
+],
+  "geometry": {"coordinates":[126.65142,-8.67895],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225787087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.42083,-8.88861,125.42083,-8.88861",
+    "geom:latitude":-8.88861,
+    "geom:longitude":125.42083,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"703.0",
+    "gn:admin3_code":"70303.0",
+    "gn:asciiname":"Lauana",
+    "gn:country_code":"TL",
+    "gn:dem":1470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944773,
+    "gn:latitude":-8.88861,
+    "gn:longitude":125.42083,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Lauana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944773
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"31d3af9802a31cd74bef2c24aa1212ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1225787087,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1225787087,
+    "wof:lastmodified":1537095082,
+    "wof:name":"Lauana",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.42083,
+    -8.88861,
+    125.42083,
+    -8.88861
+],
+  "geometry": {"coordinates":[125.42083,-8.88861],"type":"Point"}
+}

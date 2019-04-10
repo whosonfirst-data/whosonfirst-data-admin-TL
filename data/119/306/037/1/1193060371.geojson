@@ -1,0 +1,67 @@
+{
+  "id": 1193060371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.38333,-8.95,125.38333,-8.95",
+    "geom:latitude":-8.95,
+    "geom:longitude":125.38333,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"704.0",
+    "gn:admin3_code":"70402.0",
+    "gn:asciiname":"Atara",
+    "gn:country_code":"TL",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629075,
+    "gn:latitude":-8.95,
+    "gn:longitude":125.38333,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Atara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629075
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"8f6882bce472f7d563c248c8ece3cf82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1193060371,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1193060371,
+    "wof:lastmodified":1536378442,
+    "wof:name":"Atara",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.38333,
+    -8.95,
+    125.38333,
+    -8.95
+],
+  "geometry": {"coordinates":[125.38333,-8.95],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259718235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.29917,-9.44194,124.29917,-9.44194",
+    "geom:latitude":-9.44194,
+    "geom:longitude":124.29917,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1204.0",
+    "gn:admin3_code":"120402.0",
+    "gn:asciiname":"Besatoko",
+    "gn:country_code":"TL",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944472,
+    "gn:latitude":-9.44194,
+    "gn:longitude":124.29917,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Besatoko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944472
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"74e249fb56d02fb1da00bd3a22c0b4cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1259718235,
+            "region_id":85678953
+        }
+    ],
+    "wof:id":1259718235,
+    "wof:lastmodified":1537016295,
+    "wof:name":"Besatoko",
+    "wof:parent_id":85678953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.29917,
+    -9.44194,
+    124.29917,
+    -9.44194
+],
+  "geometry": {"coordinates":[124.29917,-9.44194],"type":"Point"}
+}

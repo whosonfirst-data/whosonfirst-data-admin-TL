@@ -1,0 +1,67 @@
+{
+  "id": 1276482857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.37278,-8.73833,125.37278,-8.73833",
+    "geom:latitude":-8.73833,
+    "geom:longitude":125.37278,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70511.0",
+    "gn:asciiname":"Tataeulu",
+    "gn:country_code":"TL",
+    "gn:dem":1124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943755,
+    "gn:latitude":-8.73833,
+    "gn:longitude":125.37278,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Tataeulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943755
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"6e102351069633a504e0000b043dd2a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276482857,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1276482857,
+    "wof:lastmodified":1537072433,
+    "wof:name":"Tataeulu",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.37278,
+    -8.73833,
+    125.37278,
+    -8.73833
+],
+  "geometry": {"coordinates":[125.37278000000001,-8.73833],"type":"Point"}
+}

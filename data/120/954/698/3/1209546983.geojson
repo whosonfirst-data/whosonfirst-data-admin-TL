@@ -1,0 +1,63 @@
+{
+  "id": 1209546983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.57333,-8.5825,126.57333,-8.5825",
+    "geom:latitude":-8.5825,
+    "geom:longitude":126.57333,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"303.0",
+    "gn:admin3_code":"30304.0",
+    "gn:asciiname":"Uaitame",
+    "gn:country_code":"TL",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942916,
+    "gn:latitude":-8.5825,
+    "gn:longitude":126.57333,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Uaitame",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942916
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"86156f2894ff02f3076c9adf8a6becbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209546983
+        }
+    ],
+    "wof:id":1209546983,
+    "wof:lastmodified":1536283814,
+    "wof:name":"Uaitame",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.57333,
+    -8.5825,
+    126.57333,
+    -8.5825
+],
+  "geometry": {"coordinates":[126.57333,-8.5825],"type":"Point"}
+}

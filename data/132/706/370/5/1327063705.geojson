@@ -1,0 +1,67 @@
+{
+  "id": 1327063705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.71444,-8.7425,126.71444,-8.7425",
+    "geom:latitude":-8.7425,
+    "geom:longitude":126.71444,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130101.0",
+    "gn:asciiname":"Taradiga",
+    "gn:country_code":"TL",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943493,
+    "gn:latitude":-8.7425,
+    "gn:longitude":126.71444,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Taradiga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943493
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"194a807d2cb4206e88d40cab50ace136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1327063705,
+            "region_id":85678993
+        }
+    ],
+    "wof:id":1327063705,
+    "wof:lastmodified":1536715680,
+    "wof:name":"Taradiga",
+    "wof:parent_id":85678993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.71444,
+    -8.7425,
+    126.71444,
+    -8.7425
+],
+  "geometry": {"coordinates":[126.71444,-8.7425],"type":"Point"}
+}

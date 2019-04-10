@@ -1,0 +1,67 @@
+{
+  "id": 1309942859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.23806,-8.67278,125.23806,-8.67278",
+    "geom:latitude":-8.67278,
+    "geom:longitude":125.23806,
+    "gn:admin1_code":"LI",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"80301.0",
+    "gn:asciiname":"Lebuhae",
+    "gn:country_code":"TL",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943422,
+    "gn:latitude":-8.67278,
+    "gn:longitude":125.23806,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Lebuhae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943422
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"654c29ad7d16ac2ea6acf2941466c88b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1309942859,
+            "region_id":85678951
+        }
+    ],
+    "wof:id":1309942859,
+    "wof:lastmodified":1536733735,
+    "wof:name":"Lebuhae",
+    "wof:parent_id":85678951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.23806,
+    -8.67278,
+    125.23806,
+    -8.67278
+],
+  "geometry": {"coordinates":[125.23806,-8.67278],"type":"Point"}
+}

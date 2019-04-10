@@ -1,0 +1,66 @@
+{
+  "id": 1243002491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.2,-8.61667,125.2,-8.61667",
+    "geom:latitude":-8.61667,
+    "geom:longitude":125.2,
+    "gn:admin1_code":"LI",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"80306.0",
+    "gn:asciiname":"Vaviquinia",
+    "gn:country_code":"TL",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629972,
+    "gn:latitude":-8.61667,
+    "gn:longitude":125.2,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Vaviquinia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629972
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"b55d82c4ef26743253efe3d3509fd71f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243002491,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243002491,
+    "wof:lastmodified":1536949009,
+    "wof:name":"Vaviquinia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.2,
+    -8.61667,
+    125.2,
+    -8.61667
+],
+  "geometry": {"coordinates":[125.2,-8.61667],"type":"Point"}
+}

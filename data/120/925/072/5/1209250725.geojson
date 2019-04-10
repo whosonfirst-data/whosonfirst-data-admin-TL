@@ -1,0 +1,63 @@
+{
+  "id": 1209250725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.27972,-9.08889,125.27972,-9.08889",
+    "geom:latitude":-9.08889,
+    "geom:longitude":125.27972,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40609.0",
+    "gn:asciiname":"Lebertas",
+    "gn:country_code":"TL",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945152,
+    "gn:latitude":-9.08889,
+    "gn:longitude":125.27972,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Lebertas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945152
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"325be5af2b7790131b9651f29945c434",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209250725
+        }
+    ],
+    "wof:id":1209250725,
+    "wof:lastmodified":1536293013,
+    "wof:name":"Lebertas",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.27972,
+    -9.08889,
+    125.27972,
+    -9.08889
+],
+  "geometry": {"coordinates":[125.27972,-9.08889],"type":"Point"}
+}

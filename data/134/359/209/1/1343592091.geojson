@@ -1,0 +1,67 @@
+{
+  "id": 1343592091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.08317,-9.34804,124.08317,-9.34804",
+    "geom:latitude":-9.34804,
+    "geom:longitude":124.08317,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1202.0",
+    "gn:admin3_code":"120202.0",
+    "gn:asciiname":"Oehoso",
+    "gn:country_code":"TL",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943553,
+    "gn:latitude":-9.34804,
+    "gn:longitude":124.08317,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Oehoso",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943553
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"83d1d310280eb60bf12670c78fccb071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1343592091,
+            "region_id":85678953
+        }
+    ],
+    "wof:id":1343592091,
+    "wof:lastmodified":1537051669,
+    "wof:name":"Oehoso",
+    "wof:parent_id":85678953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.08317,
+    -9.34804,
+    124.08317,
+    -9.34804
+],
+  "geometry": {"coordinates":[124.08317,-9.34804],"type":"Point"}
+}

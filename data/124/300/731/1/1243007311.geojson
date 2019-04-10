@@ -1,0 +1,67 @@
+{
+  "id": 1243007311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.29759,-9.13651,125.29759,-9.13651",
+    "geom:latitude":-9.13651,
+    "geom:longitude":125.29759,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40503.0",
+    "gn:asciiname":"Gudatas",
+    "gn:country_code":"TL",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945586,
+    "gn:latitude":-9.13651,
+    "gn:longitude":125.29759,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Gudatas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945586
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"98bd6baf55b637d2cc30e4c0fb9cefd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243007311,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1243007311,
+    "wof:lastmodified":1536942250,
+    "wof:name":"Gudatas",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.29759,
+    -9.13651,
+    125.29759,
+    -9.13651
+],
+  "geometry": {"coordinates":[125.29759,-9.13651],"type":"Point"}
+}

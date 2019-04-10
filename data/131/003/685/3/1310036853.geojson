@@ -1,0 +1,67 @@
+{
+  "id": 1310036853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.0,-9.01667,126.0,-9.01667",
+    "geom:latitude":-9.01667,
+    "geom:longitude":126.0,
+    "gn:admin1_code":"MF",
+    "gn:admin2_code":"1003.0",
+    "gn:admin3_code":"100302.0",
+    "gn:asciiname":"Saluquim",
+    "gn:country_code":"TL",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629401,
+    "gn:latitude":-9.01667,
+    "gn:longitude":126.0,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Saluquim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629401
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"cc8288f6ae67e01af5735bc6d4a01a59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1310036853,
+            "region_id":85678989
+        }
+    ],
+    "wof:id":1310036853,
+    "wof:lastmodified":1537092308,
+    "wof:name":"Saluquim",
+    "wof:parent_id":85678989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.0,
+    -9.01667,
+    126.0,
+    -9.01667
+],
+  "geometry": {"coordinates":[126.0,-9.01667],"type":"Point"}
+}

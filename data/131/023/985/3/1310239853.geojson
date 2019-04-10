@@ -1,0 +1,71 @@
+{
+  "id": 1310239853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.25583,-8.93,126.25583,-8.93",
+    "geom:latitude":-8.93,
+    "geom:longitude":126.25583,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1304.0",
+    "gn:admin3_code":"130410.0",
+    "gn:asciiname":"Umabot",
+    "gn:country_code":"TL",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943829,
+    "gn:latitude":-8.93,
+    "gn:longitude":126.25583,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Umabot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uma Boot (East)",
+        "Umabot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943829
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"f11a5a29684164dcf7cbcc0f471ade50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1310239853,
+            "region_id":85678993
+        }
+    ],
+    "wof:id":1310239853,
+    "wof:lastmodified":1537706425,
+    "wof:name":"Umabot",
+    "wof:parent_id":85678993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.25583,
+    -8.93,
+    126.25583,
+    -8.93
+],
+  "geometry": {"coordinates":[126.25583,-8.93],"type":"Point"}
+}

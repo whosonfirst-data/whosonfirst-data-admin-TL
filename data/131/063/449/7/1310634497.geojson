@@ -1,0 +1,67 @@
+{
+  "id": 1310634497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.70694,-9.15,125.70694,-9.15",
+    "geom:latitude":-9.15,
+    "geom:longitude":125.70694,
+    "gn:admin1_code":"MF",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100104.0",
+    "gn:asciiname":"Lalica",
+    "gn:country_code":"TL",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945497,
+    "gn:latitude":-9.15,
+    "gn:longitude":125.70694,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Lalica",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945497
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"cea122caea9565d53b48c3dfdc0bcbb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1310634497,
+            "region_id":85678989
+        }
+    ],
+    "wof:id":1310634497,
+    "wof:lastmodified":1536731176,
+    "wof:name":"Lalica",
+    "wof:parent_id":85678989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.70694,
+    -9.15,
+    125.70694,
+    -9.15
+],
+  "geometry": {"coordinates":[125.70694,-9.15],"type":"Point"}
+}

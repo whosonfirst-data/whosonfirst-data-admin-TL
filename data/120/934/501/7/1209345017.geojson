@@ -1,0 +1,63 @@
+{
+  "id": 1209345017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.46556,-8.52611,126.46556,-8.52611",
+    "geom:latitude":-8.52611,
+    "geom:longitude":126.46556,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"30105.0",
+    "gn:asciiname":"Ossoluga",
+    "gn:country_code":"TL",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942969,
+    "gn:latitude":-8.52611,
+    "gn:longitude":126.46556,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Ossoluga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942969
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"5615f429d42aca951f40f6e391885ed9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209345017
+        }
+    ],
+    "wof:id":1209345017,
+    "wof:lastmodified":1536289941,
+    "wof:name":"Ossoluga",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.46556,
+    -8.526110000000001,
+    126.46556,
+    -8.526110000000001
+],
+  "geometry": {"coordinates":[126.46556,-8.52611],"type":"Point"}
+}

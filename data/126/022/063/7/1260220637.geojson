@@ -1,0 +1,67 @@
+{
+  "id": 1260220637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.3275,-8.97556,125.3275,-8.97556",
+    "geom:latitude":-8.97556,
+    "geom:longitude":125.3275,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40618.0",
+    "gn:asciiname":"Asobea",
+    "gn:country_code":"TL",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944821,
+    "gn:latitude":-8.97556,
+    "gn:longitude":125.3275,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Asobea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944821
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"088efa0c0279b6fd55ed7adbef455c3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1260220637,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1260220637,
+    "wof:lastmodified":1536797418,
+    "wof:name":"Asobea",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.3275,
+    -8.97556,
+    125.3275,
+    -8.97556
+],
+  "geometry": {"coordinates":[125.3275,-8.97556],"type":"Point"}
+}

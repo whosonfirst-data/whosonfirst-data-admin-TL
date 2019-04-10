@@ -1,0 +1,67 @@
+{
+  "id": 1226683247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.31447,-9.20418,124.31447,-9.20418",
+    "geom:latitude":-9.20418,
+    "geom:longitude":124.31447,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120102.0",
+    "gn:asciiname":"Lifau",
+    "gn:country_code":"TL",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629790,
+    "gn:latitude":-9.20418,
+    "gn:longitude":124.31447,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Lifau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629790,
+        "wk:page":"Lifau"
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"e8a75f8f6635a6ddf13e78c7ca9561da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1226683247,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226683247,
+    "wof:lastmodified":1537574438,
+    "wof:name":"Lifau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.31447,
+    -9.20418,
+    124.31447,
+    -9.20418
+],
+  "geometry": {"coordinates":[124.31447,-9.20418],"type":"Point"}
+}

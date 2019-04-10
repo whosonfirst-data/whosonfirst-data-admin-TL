@@ -1,0 +1,63 @@
+{
+  "id": 1209244089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.06694,-9.28778,125.06694,-9.28778",
+    "geom:latitude":-9.28778,
+    "geom:longitude":125.06694,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"50303.0",
+    "gn:asciiname":"Aitos",
+    "gn:country_code":"TL",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944177,
+    "gn:latitude":-9.28778,
+    "gn:longitude":125.06694,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Aitos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944177
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"301a29282ceaeef24cf0e7b7e5ce41a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209244089
+        }
+    ],
+    "wof:id":1209244089,
+    "wof:lastmodified":1536293224,
+    "wof:name":"Aitos",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.06694,
+    -9.28778,
+    125.06694,
+    -9.28778
+],
+  "geometry": {"coordinates":[125.06694,-9.28778],"type":"Point"}
+}

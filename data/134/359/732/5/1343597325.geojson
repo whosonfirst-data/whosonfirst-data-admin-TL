@@ -1,0 +1,67 @@
+{
+  "id": 1343597325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.535,-8.95056,125.535,-8.95056",
+    "geom:latitude":-8.95056,
+    "geom:longitude":125.535,
+    "gn:admin1_code":"AN",
+    "gn:admin2_code":"102.0",
+    "gn:admin3_code":"10202.0",
+    "gn:asciiname":"Nonomoguelao",
+    "gn:country_code":"TL",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944804,
+    "gn:latitude":-8.95056,
+    "gn:longitude":125.535,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Nonomoguelao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944804
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"3820191e008080a5c424b54615e504ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1343597325,
+            "region_id":85678963
+        }
+    ],
+    "wof:id":1343597325,
+    "wof:lastmodified":1537044255,
+    "wof:name":"Nonomoguelao",
+    "wof:parent_id":85678963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.535,
+    -8.95056,
+    125.535,
+    -8.95056
+],
+  "geometry": {"coordinates":[125.535,-8.95056],"type":"Point"}
+}

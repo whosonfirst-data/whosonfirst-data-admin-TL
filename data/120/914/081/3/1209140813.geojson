@@ -1,0 +1,66 @@
+{
+  "id": 1209140813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.64917,-8.49694,126.64917,-8.49694",
+    "geom:latitude":-8.49694,
+    "geom:longitude":126.64917,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30207.0",
+    "gn:asciiname":"Larimu",
+    "gn:country_code":"TL",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944222,
+    "gn:latitude":-8.49694,
+    "gn:longitude":126.64917,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Larimu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Larimuta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944222
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"04729f62c1c5554452010e2561e78761",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209140813
+        }
+    ],
+    "wof:id":1209140813,
+    "wof:lastmodified":1537706425,
+    "wof:name":"Larimu",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.64917,
+    -8.49694,
+    126.64917,
+    -8.49694
+],
+  "geometry": {"coordinates":[126.64917,-8.49694],"type":"Point"}
+}

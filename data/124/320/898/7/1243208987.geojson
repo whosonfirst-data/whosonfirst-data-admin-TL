@@ -1,0 +1,70 @@
+{
+  "id": 1243208987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.35702,-8.45023,126.35702,-8.45023",
+    "geom:latitude":-8.45023,
+    "geom:longitude":126.35702,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"30109.0",
+    "gn:asciiname":"Ossowa",
+    "gn:country_code":"TL",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942491,
+    "gn:latitude":-8.45023,
+    "gn:longitude":126.35702,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Ossowa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Osso-Ua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942491
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"5bfd62ebf4b3038d4c03fbaad967f438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243208987,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1243208987,
+    "wof:lastmodified":1537706424,
+    "wof:name":"Ossowa",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.35702,
+    -8.45023,
+    126.35702,
+    -8.45023
+],
+  "geometry": {"coordinates":[126.35702000000001,-8.45023],"type":"Point"}
+}

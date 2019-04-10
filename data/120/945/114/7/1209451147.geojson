@@ -1,0 +1,63 @@
+{
+  "id": 1209451147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.60889,-8.60167,126.60889,-8.60167",
+    "geom:latitude":-8.60167,
+    "geom:longitude":126.60889,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"303.0",
+    "gn:admin3_code":"30304.0",
+    "gn:asciiname":"Uadaboro",
+    "gn:country_code":"TL",
+    "gn:dem":1200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942921,
+    "gn:latitude":-8.60167,
+    "gn:longitude":126.60889,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Uadaboro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942921
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"a3e1edfd1cd160c3ff9bc29d52526970",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209451147
+        }
+    ],
+    "wof:id":1209451147,
+    "wof:lastmodified":1536286668,
+    "wof:name":"Uadaboro",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.60889,
+    -8.60167,
+    126.60889,
+    -8.60167
+],
+  "geometry": {"coordinates":[126.60889,-8.60167],"type":"Point"}
+}

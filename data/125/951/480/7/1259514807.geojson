@@ -1,0 +1,67 @@
+{
+  "id": 1259514807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.29094,-8.70117,125.29094,-8.70117",
+    "geom:latitude":-8.70117,
+    "geom:longitude":125.29094,
+    "gn:admin1_code":"LI",
+    "gn:admin2_code":"802.0",
+    "gn:admin3_code":"80207.0",
+    "gn:asciiname":"Lepa",
+    "gn:country_code":"TL",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643549,
+    "gn:latitude":-8.70117,
+    "gn:longitude":125.29094,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Lepa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643549
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"05286e97e8aa4d235d6d73f479070ad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1259514807,
+            "region_id":85678951
+        }
+    ],
+    "wof:id":1259514807,
+    "wof:lastmodified":1536813222,
+    "wof:name":"Lepa",
+    "wof:parent_id":85678951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.29094,
+    -8.70117,
+    125.29094,
+    -8.70117
+],
+  "geometry": {"coordinates":[125.29094000000001,-8.70117],"type":"Point"}
+}

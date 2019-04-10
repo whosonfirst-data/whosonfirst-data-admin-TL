@@ -1,0 +1,67 @@
+{
+  "id": 1242812005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.58443,-9.1267,125.58443,-9.1267",
+    "geom:latitude":-9.1267,
+    "geom:longitude":125.58443,
+    "gn:admin1_code":"AN",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10401.0",
+    "gn:asciiname":"Luru",
+    "gn:country_code":"TL",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945482,
+    "gn:latitude":-9.1267,
+    "gn:longitude":125.58443,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Luru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945482
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"a6ddf7fc8d9d029a6fc830ecaa813eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1242812005,
+            "region_id":85678963
+        }
+    ],
+    "wof:id":1242812005,
+    "wof:lastmodified":1536726519,
+    "wof:name":"Luru",
+    "wof:parent_id":85678963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.58443,
+    -9.1267,
+    125.58443,
+    -9.1267
+],
+  "geometry": {"coordinates":[125.58443,-9.1267],"type":"Point"}
+}

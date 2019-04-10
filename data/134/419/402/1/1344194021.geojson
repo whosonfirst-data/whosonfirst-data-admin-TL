@@ -1,0 +1,67 @@
+{
+  "id": 1344194021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.68647,-8.48429,126.68647,-8.48429",
+    "geom:latitude":-8.48429,
+    "geom:longitude":126.68647,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30208.0",
+    "gn:asciiname":"Buboloma",
+    "gn:country_code":"TL",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944458,
+    "gn:latitude":-8.48429,
+    "gn:longitude":126.68647,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Buboloma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944458
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"44a1869c8823a012edfbecf78c7bea0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1344194021,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1344194021,
+    "wof:lastmodified":1536682755,
+    "wof:name":"Buboloma",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.68647,
+    -8.48429,
+    126.68647,
+    -8.48429
+],
+  "geometry": {"coordinates":[126.68647,-8.48429],"type":"Point"}
+}

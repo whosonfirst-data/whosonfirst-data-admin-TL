@@ -1,0 +1,63 @@
+{
+  "id": 1209645859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.45602,-8.45823,126.45602,-8.45823",
+    "geom:latitude":-8.45823,
+    "geom:longitude":126.45602,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"30103.0",
+    "gn:asciiname":"Teolale",
+    "gn:country_code":"TL",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942564,
+    "gn:latitude":-8.45823,
+    "gn:longitude":126.45602,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Teolale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942564
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"7d34b1a41165ddfc28a227822affa9aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209645859
+        }
+    ],
+    "wof:id":1209645859,
+    "wof:lastmodified":1536280738,
+    "wof:name":"Teolale",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.45602,
+    -8.45823,
+    126.45602,
+    -8.45823
+],
+  "geometry": {"coordinates":[126.45602,-8.45823],"type":"Point"}
+}

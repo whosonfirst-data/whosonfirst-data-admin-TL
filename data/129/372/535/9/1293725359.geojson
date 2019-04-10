@@ -1,0 +1,67 @@
+{
+  "id": 1293725359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.51472,-8.54,126.51472,-8.54",
+    "geom:latitude":-8.54,
+    "geom:longitude":126.51472,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"30110.0",
+    "gn:asciiname":"Festau",
+    "gn:country_code":"TL",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942786,
+    "gn:latitude":-8.54,
+    "gn:longitude":126.51472,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Festau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942786
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"ef4ef3cf4335dfe2ce2ab29084969366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1293725359,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1293725359,
+    "wof:lastmodified":1536942004,
+    "wof:name":"Festau",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.51472,
+    -8.54,
+    126.51472,
+    -8.54
+],
+  "geometry": {"coordinates":[126.51472,-8.54],"type":"Point"}
+}

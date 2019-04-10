@@ -1,0 +1,67 @@
+{
+  "id": 1343793163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.68917,-8.69056,126.68917,-8.69056",
+    "geom:latitude":-8.69056,
+    "geom:longitude":126.68917,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130106.0",
+    "gn:asciiname":"Macaussa",
+    "gn:country_code":"TL",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943336,
+    "gn:latitude":-8.69056,
+    "gn:longitude":126.68917,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Macaussa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943336
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"2a723a83c0daebf8d1f113560d602440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1343793163,
+            "region_id":85678993
+        }
+    ],
+    "wof:id":1343793163,
+    "wof:lastmodified":1536764193,
+    "wof:name":"Macaussa",
+    "wof:parent_id":85678993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.68917,
+    -8.69056,
+    126.68917,
+    -8.69056
+],
+  "geometry": {"coordinates":[126.68917,-8.69056],"type":"Point"}
+}

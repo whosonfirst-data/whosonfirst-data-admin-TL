@@ -1,0 +1,67 @@
+{
+  "id": 1225978609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.18,-8.87278,125.18,-8.87278",
+    "geom:latitude":-8.87278,
+    "geom:longitude":125.18,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40404.0",
+    "gn:asciiname":"Hataz",
+    "gn:country_code":"TL",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643563,
+    "gn:latitude":-8.87278,
+    "gn:longitude":125.18,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Hataz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643563
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"75f497f0071e25528e52e56e60d88503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1225978609,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1225978609,
+    "wof:lastmodified":1536821051,
+    "wof:name":"Hataz",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.18,
+    -8.87278,
+    125.18,
+    -8.87278
+],
+  "geometry": {"coordinates":[125.18000000000001,-8.87278],"type":"Point"}
+}

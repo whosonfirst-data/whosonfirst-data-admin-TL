@@ -1,0 +1,67 @@
+{
+  "id": 1226177095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.65333,-8.76694,126.65333,-8.76694",
+    "geom:latitude":-8.76694,
+    "geom:longitude":126.65333,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1303.0",
+    "gn:admin3_code":"130304.0",
+    "gn:asciiname":"Daradobi",
+    "gn:country_code":"TL",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943812,
+    "gn:latitude":-8.76694,
+    "gn:longitude":126.65333,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Daradobi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943812
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"24257f05291198821205de927ff7b2cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1226177095,
+            "region_id":85678993
+        }
+    ],
+    "wof:id":1226177095,
+    "wof:lastmodified":1537031149,
+    "wof:name":"Daradobi",
+    "wof:parent_id":85678993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.65333,
+    -8.76694,
+    126.65333,
+    -8.76694
+],
+  "geometry": {"coordinates":[126.65333,-8.76694],"type":"Point"}
+}

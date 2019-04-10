@@ -1,0 +1,67 @@
+{
+  "id": 1259618185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.28835,-9.30012,125.28835,-9.30012",
+    "geom:latitude":-9.30012,
+    "geom:longitude":125.28835,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"505.0",
+    "gn:admin3_code":"50505.0",
+    "gn:asciiname":"Holbelis",
+    "gn:country_code":"TL",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1937103,
+    "gn:latitude":-9.30012,
+    "gn:longitude":125.28835,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Holbelis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1937103
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"c96564c6cf8306d78742bdf945db2e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1259618185,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1259618185,
+    "wof:lastmodified":1536664757,
+    "wof:name":"Holbelis",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.28835,
+    -9.30012,
+    125.28835,
+    -9.30012
+],
+  "geometry": {"coordinates":[125.28834999999999,-9.30012],"type":"Point"}
+}

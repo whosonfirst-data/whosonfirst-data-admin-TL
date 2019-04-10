@@ -1,0 +1,67 @@
+{
+  "id": 1243393663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.81889,-8.48556,126.81889,-8.48556",
+    "geom:latitude":-8.48556,
+    "geom:longitude":126.81889,
+    "gn:admin1_code":"LA",
+    "gn:admin2_code":"902.0",
+    "gn:admin3_code":"90203.0",
+    "gn:asciiname":"Afabubu",
+    "gn:country_code":"TL",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643021,
+    "gn:latitude":-8.48556,
+    "gn:longitude":126.81889,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Afabubu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643021
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"fb10af4c4ade94e9e084d1514820cbcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243393663,
+            "region_id":85678997
+        }
+    ],
+    "wof:id":1243393663,
+    "wof:lastmodified":1536881124,
+    "wof:name":"Afabubu",
+    "wof:parent_id":85678997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.81889,
+    -8.48556,
+    126.81889,
+    -8.48556
+],
+  "geometry": {"coordinates":[126.81889,-8.48556],"type":"Point"}
+}

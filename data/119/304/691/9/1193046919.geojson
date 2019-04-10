@@ -1,0 +1,67 @@
+{
+  "id": 1193046919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.30861,-8.66028,125.30861,-8.66028",
+    "geom:latitude":-8.66028,
+    "geom:longitude":125.30861,
+    "gn:admin1_code":"LI",
+    "gn:admin2_code":"802.0",
+    "gn:admin3_code":"80207.0",
+    "gn:asciiname":"Tolema",
+    "gn:country_code":"TL",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943619,
+    "gn:latitude":-8.66028,
+    "gn:longitude":125.30861,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Tolema",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943619
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"d33c0e619496be1f84c5ab2a18104bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1193046919,
+            "region_id":85678951
+        }
+    ],
+    "wof:id":1193046919,
+    "wof:lastmodified":1536369878,
+    "wof:name":"Tolema",
+    "wof:parent_id":85678951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.30861000000002,
+    -8.66028,
+    125.30861000000002,
+    -8.66028
+],
+  "geometry": {"coordinates":[125.30861000000002,-8.66028],"type":"Point"}
+}

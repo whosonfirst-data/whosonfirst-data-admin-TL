@@ -1,0 +1,63 @@
+{
+  "id": 1209547109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.67917,-8.84861,125.67917,-8.84861",
+    "geom:latitude":-8.84861,
+    "geom:longitude":125.67917,
+    "gn:admin1_code":"AN",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"10303.0",
+    "gn:asciiname":"Lebululi",
+    "gn:country_code":"TL",
+    "gn:dem":1236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945627,
+    "gn:latitude":-8.84861,
+    "gn:longitude":125.67917,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Lebululi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945627
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"6971b937da05c88fd9815dd09a2b970c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209547109
+        }
+    ],
+    "wof:id":1209547109,
+    "wof:lastmodified":1536283810,
+    "wof:name":"Lebululi",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.67917,
+    -8.84861,
+    125.67917,
+    -8.84861
+],
+  "geometry": {"coordinates":[125.67917,-8.84861],"type":"Point"}
+}

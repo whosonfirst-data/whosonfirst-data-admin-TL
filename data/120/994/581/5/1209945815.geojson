@@ -1,0 +1,67 @@
+{
+  "id": 1209945815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.20194,-8.83972,126.20194,-8.83972",
+    "geom:latitude":-8.83972,
+    "geom:longitude":126.20194,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1305.0",
+    "gn:admin3_code":"130501.0",
+    "gn:asciiname":"Microde",
+    "gn:country_code":"TL",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942861,
+    "gn:latitude":-8.83972,
+    "gn:longitude":126.20194,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Microde",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942861
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"04a67e6aa17805e9cac043f327a17489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1209945815,
+            "region_id":85678993
+        }
+    ],
+    "wof:id":1209945815,
+    "wof:lastmodified":1536386441,
+    "wof:name":"Microde",
+    "wof:parent_id":85678993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.20194,
+    -8.83972,
+    126.20194,
+    -8.83972
+],
+  "geometry": {"coordinates":[126.20193999999999,-8.83972],"type":"Point"}
+}

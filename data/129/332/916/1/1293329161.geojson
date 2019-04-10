@@ -1,0 +1,74 @@
+{
+  "id": 1293329161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.27222,-8.91896,125.27222,-8.91896",
+    "geom:latitude":-8.91896,
+    "geom:longitude":125.27222,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"402.0",
+    "gn:admin3_code":"40207.0",
+    "gn:asciiname":"Guenu Lai",
+    "gn:country_code":"TL",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643092,
+    "gn:latitude":-8.91896,
+    "gn:longitude":125.27222,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Guenu Lai",
+    "gn:population":348,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guenulai",
+        "Guenolai"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643092
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"151603bc73d09a3e31e36d54a4ad0116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1293329161,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1293329161,
+    "wof:lastmodified":1537706427,
+    "wof:name":"Guenu Lai",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:population":348,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.27222,
+    -8.91896,
+    125.27222,
+    -8.91896
+],
+  "geometry": {"coordinates":[125.27222,-8.91896],"type":"Point"}
+}

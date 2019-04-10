@@ -1,0 +1,67 @@
+{
+  "id": 1276594545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.39639,-8.90556,125.39639,-8.90556",
+    "geom:latitude":-8.90556,
+    "geom:longitude":125.39639,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"704.0",
+    "gn:admin3_code":"70412.0",
+    "gn:asciiname":"Ilat",
+    "gn:country_code":"TL",
+    "gn:dem":958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1938336,
+    "gn:latitude":-8.90556,
+    "gn:longitude":125.39639,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Ilat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1938336
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"deaf51afa06725166082d6e158bb39bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276594545,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1276594545,
+    "wof:lastmodified":1536926859,
+    "wof:name":"Ilat",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.39639,
+    -8.90556,
+    125.39639,
+    -8.90556
+],
+  "geometry": {"coordinates":[125.39639,-8.90556],"type":"Point"}
+}

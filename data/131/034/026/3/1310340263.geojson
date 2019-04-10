@@ -1,0 +1,67 @@
+{
+  "id": 1310340263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.83333,-8.51278,126.83333,-8.51278",
+    "geom:latitude":-8.51278,
+    "geom:longitude":126.83333,
+    "gn:admin1_code":"LA",
+    "gn:admin2_code":"904.0",
+    "gn:admin3_code":"90403.0",
+    "gn:asciiname":"Lakawa",
+    "gn:country_code":"TL",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945372,
+    "gn:latitude":-8.51278,
+    "gn:longitude":126.83333,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Lakawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945372
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"92dee7ec4ab6a896124b6e257e0efb19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1310340263,
+            "region_id":85678997
+        }
+    ],
+    "wof:id":1310340263,
+    "wof:lastmodified":1536657912,
+    "wof:name":"Lakawa",
+    "wof:parent_id":85678997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.83333,
+    -8.51278,
+    126.83333,
+    -8.51278
+],
+  "geometry": {"coordinates":[126.83333,-8.51278],"type":"Point"}
+}

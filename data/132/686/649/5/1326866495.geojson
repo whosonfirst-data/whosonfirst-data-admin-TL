@@ -1,0 +1,67 @@
+{
+  "id": 1326866495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.27556,-8.99167,125.27556,-8.99167",
+    "geom:latitude":-8.99167,
+    "geom:longitude":125.27556,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40103.0",
+    "gn:asciiname":"Maganutu",
+    "gn:country_code":"TL",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944802,
+    "gn:latitude":-8.99167,
+    "gn:longitude":125.27556,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Maganutu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944802
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"43849d528972e3ab71bad8f3d02a109b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1326866495,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1326866495,
+    "wof:lastmodified":1536998573,
+    "wof:name":"Maganutu",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.27556,
+    -8.99167,
+    125.27556,
+    -8.99167
+],
+  "geometry": {"coordinates":[125.27556,-8.99167],"type":"Point"}
+}

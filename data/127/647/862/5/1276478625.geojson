@@ -1,0 +1,67 @@
+{
+  "id": 1276478625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.04194,-8.96611,125.04194,-8.96611",
+    "geom:latitude":-8.96611,
+    "geom:longitude":125.04194,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40301.0",
+    "gn:asciiname":"Dadubere",
+    "gn:country_code":"TL",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943380,
+    "gn:latitude":-8.96611,
+    "gn:longitude":125.04194,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Dadubere",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943380
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"4306bbe1b51bd50ea9af82b3f26bfc89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276478625,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1276478625,
+    "wof:lastmodified":1537078190,
+    "wof:name":"Dadubere",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.04194,
+    -8.96611,
+    125.04194,
+    -8.96611
+],
+  "geometry": {"coordinates":[125.04194,-8.96611],"type":"Point"}
+}

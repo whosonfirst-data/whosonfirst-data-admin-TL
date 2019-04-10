@@ -1,0 +1,63 @@
+{
+  "id": 1209549353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.64441,-8.56055,125.64441,-8.56055",
+    "geom:latitude":-8.56055,
+    "geom:longitude":125.64441,
+    "gn:admin1_code":"DI",
+    "gn:admin2_code":"606.0",
+    "gn:admin3_code":"60604.0",
+    "gn:asciiname":"Raimia",
+    "gn:country_code":"TL",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942655,
+    "gn:latitude":-8.56055,
+    "gn:longitude":125.64441,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Raimia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942655
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"ff58ab8b52d40a4610e7a8df828c47c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209549353
+        }
+    ],
+    "wof:id":1209549353,
+    "wof:lastmodified":1536283743,
+    "wof:name":"Raimia",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.64441,
+    -8.56055,
+    125.64441,
+    -8.56055
+],
+  "geometry": {"coordinates":[125.64440999999999,-8.56055],"type":"Point"}
+}

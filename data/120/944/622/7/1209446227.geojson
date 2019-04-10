@@ -1,0 +1,63 @@
+{
+  "id": 1209446227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.44056,-9.30306,124.44056,-9.30306",
+    "geom:latitude":-9.30306,
+    "geom:longitude":124.44056,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120104.0",
+    "gn:asciiname":"Laukfoan",
+    "gn:country_code":"TL",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944292,
+    "gn:latitude":-9.30306,
+    "gn:longitude":124.44056,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Laukfoan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944292
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"871469545abbcbd8f443be853f17fe2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209446227
+        }
+    ],
+    "wof:id":1209446227,
+    "wof:lastmodified":1536286810,
+    "wof:name":"Laukfoan",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.44056,
+    -9.30306,
+    124.44056,
+    -9.30306
+],
+  "geometry": {"coordinates":[124.44056,-9.30306],"type":"Point"}
+}

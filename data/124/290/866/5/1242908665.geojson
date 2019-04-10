@@ -1,0 +1,67 @@
+{
+  "id": 1242908665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.66556,-8.60056,126.66556,-8.60056",
+    "geom:latitude":-8.60056,
+    "geom:longitude":126.66556,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"304.0",
+    "gn:admin3_code":"30407.0",
+    "gn:asciiname":"Iraosso",
+    "gn:country_code":"TL",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1946119,
+    "gn:latitude":-8.60056,
+    "gn:longitude":126.66556,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Iraosso",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1946119
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"702afa7fd9a50d15c288eb9250d9773c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1242908665,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1242908665,
+    "wof:lastmodified":1537080686,
+    "wof:name":"Iraosso",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.66556,
+    -8.60056,
+    126.66556,
+    -8.60056
+],
+  "geometry": {"coordinates":[126.66556,-8.60056],"type":"Point"}
+}

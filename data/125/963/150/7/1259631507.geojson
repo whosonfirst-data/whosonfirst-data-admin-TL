@@ -1,0 +1,67 @@
+{
+  "id": 1259631507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.37194,-8.71028,125.37194,-8.71028",
+    "geom:latitude":-8.71028,
+    "geom:longitude":125.37194,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"702.0",
+    "gn:admin3_code":"70202.0",
+    "gn:asciiname":"Sacoco",
+    "gn:country_code":"TL",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943759,
+    "gn:latitude":-8.71028,
+    "gn:longitude":125.37194,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Sacoco",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943759
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"6043211018a7058cb0065c4c7e6472eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1259631507,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1259631507,
+    "wof:lastmodified":1536645016,
+    "wof:name":"Sacoco",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.37194,
+    -8.71028,
+    125.37194,
+    -8.71028
+],
+  "geometry": {"coordinates":[125.37194,-8.71028],"type":"Point"}
+}

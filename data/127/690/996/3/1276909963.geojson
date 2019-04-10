@@ -1,0 +1,67 @@
+{
+  "id": 1276909963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.63528,-9.00667,125.63528,-9.00667",
+    "geom:latitude":-9.00667,
+    "geom:longitude":125.63528,
+    "gn:admin1_code":"MF",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100103.0",
+    "gn:asciiname":"Manico",
+    "gn:country_code":"TL",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945030,
+    "gn:latitude":-9.00667,
+    "gn:longitude":125.63528,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Manico",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945030
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"b80b2ca5e087d27b691e804146b4c918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276909963,
+            "region_id":85678989
+        }
+    ],
+    "wof:id":1276909963,
+    "wof:lastmodified":1537000141,
+    "wof:name":"Manico",
+    "wof:parent_id":85678989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.63528,
+    -9.00667,
+    125.63528,
+    -9.00667
+],
+  "geometry": {"coordinates":[125.63527999999999,-9.00667],"type":"Point"}
+}

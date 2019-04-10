@@ -1,0 +1,66 @@
+{
+  "id": 1243485399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.46444,-8.57111,125.46444,-8.57111",
+    "geom:latitude":-8.57111,
+    "geom:longitude":125.46444,
+    "gn:admin1_code":"LI",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80109.0",
+    "gn:asciiname":"Cassait",
+    "gn:country_code":"TL",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942357,
+    "gn:latitude":-8.57111,
+    "gn:longitude":125.46444,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Cassait",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942357
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"b1fbece3e072dfe691d35a946d046fc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243485399,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243485399,
+    "wof:lastmodified":1536749292,
+    "wof:name":"Cassait",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.46444,
+    -8.57111,
+    125.46444,
+    -8.57111
+],
+  "geometry": {"coordinates":[125.46444,-8.57111],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243009249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.58884,-8.71575,125.58884,-8.71575",
+    "geom:latitude":-8.71575,
+    "geom:longitude":125.58884,
+    "gn:admin1_code":"AL",
+    "gn:admin2_code":"201.0",
+    "gn:admin3_code":"20110.0",
+    "gn:asciiname":"Saboria",
+    "gn:country_code":"TL",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943149,
+    "gn:latitude":-8.71575,
+    "gn:longitude":125.58884,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Saboria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943149,
+        "wk:page":"Saboria"
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"a1ec1b07bb0ac74146afd9d597750265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243009249,
+            "region_id":85678957
+        }
+    ],
+    "wof:id":1243009249,
+    "wof:lastmodified":1537574437,
+    "wof:name":"Saboria",
+    "wof:parent_id":85678957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.58884,
+    -8.71575,
+    125.58884,
+    -8.71575
+],
+  "geometry": {"coordinates":[125.58884,-8.71575],"type":"Point"}
+}

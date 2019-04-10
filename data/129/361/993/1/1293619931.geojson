@@ -1,0 +1,67 @@
+{
+  "id": 1293619931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.14278,-8.65889,125.14278,-8.65889",
+    "geom:latitude":-8.65889,
+    "geom:longitude":125.14278,
+    "gn:admin1_code":"LI",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"80307.0",
+    "gn:asciiname":"Palistela",
+    "gn:country_code":"TL",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943435,
+    "gn:latitude":-8.65889,
+    "gn:longitude":125.14278,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Palistela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943435
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"4a0fc143677cfe73d32e5c5cc2b60c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1293619931,
+            "region_id":85678951
+        }
+    ],
+    "wof:id":1293619931,
+    "wof:lastmodified":1537090178,
+    "wof:name":"Palistela",
+    "wof:parent_id":85678951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.14278,
+    -8.65889,
+    125.14278,
+    -8.65889
+],
+  "geometry": {"coordinates":[125.14278,-8.65889],"type":"Point"}
+}

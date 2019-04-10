@@ -1,0 +1,67 @@
+{
+  "id": 1326464467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.47028,-8.51972,126.47028,-8.51972",
+    "geom:latitude":-8.51972,
+    "geom:longitude":126.47028,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"30106.0",
+    "gn:asciiname":"Sorolai",
+    "gn:country_code":"TL",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942967,
+    "gn:latitude":-8.51972,
+    "gn:longitude":126.47028,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Sorolai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942967
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"1e00acd385ba6eafce118f5b4b19544c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1326464467,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1326464467,
+    "wof:lastmodified":1537078505,
+    "wof:name":"Sorolai",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.47028,
+    -8.51972,
+    126.47028,
+    -8.51972
+],
+  "geometry": {"coordinates":[126.47028,-8.51972],"type":"Point"}
+}

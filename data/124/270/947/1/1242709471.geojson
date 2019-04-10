@@ -1,0 +1,67 @@
+{
+  "id": 1242709471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.89889,-8.56444,125.89889,-8.56444",
+    "geom:latitude":-8.56444,
+    "geom:longitude":125.89889,
+    "gn:admin1_code":"MT",
+    "gn:admin2_code":"1103.0",
+    "gn:admin3_code":"110301.0",
+    "gn:asciiname":"Sucatin",
+    "gn:country_code":"TL",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945049,
+    "gn:latitude":-8.56444,
+    "gn:longitude":125.89889,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Sucatin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945049
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"b227c440c4df31a7fecfceefc42533f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1242709471,
+            "region_id":85678985
+        }
+    ],
+    "wof:id":1242709471,
+    "wof:lastmodified":1536872849,
+    "wof:name":"Sucatin",
+    "wof:parent_id":85678985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.89889,
+    -8.56444,
+    125.89889,
+    -8.56444
+],
+  "geometry": {"coordinates":[125.89888999999999,-8.56444],"type":"Point"}
+}

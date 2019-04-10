@@ -1,0 +1,63 @@
+{
+  "id": 1209152409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.40806,-8.76472,125.40806,-8.76472",
+    "geom:latitude":-8.76472,
+    "geom:longitude":125.40806,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"702.0",
+    "gn:admin3_code":"70204.0",
+    "gn:asciiname":"Railurin",
+    "gn:country_code":"TL",
+    "gn:dem":1340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944667,
+    "gn:latitude":-8.76472,
+    "gn:longitude":125.40806,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Railurin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944667
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"06cc8e43330d5e9ed48d5ecc579bc531",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209152409
+        }
+    ],
+    "wof:id":1209152409,
+    "wof:lastmodified":1536296162,
+    "wof:name":"Railurin",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.40806,
+    -8.76472,
+    125.40806,
+    -8.76472
+],
+  "geometry": {"coordinates":[125.40806000000001,-8.76472],"type":"Point"}
+}

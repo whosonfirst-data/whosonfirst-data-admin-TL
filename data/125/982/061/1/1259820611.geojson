@@ -1,0 +1,67 @@
+{
+  "id": 1259820611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.60444,-8.87778,125.60444,-8.87778",
+    "geom:latitude":-8.87778,
+    "geom:longitude":125.60444,
+    "gn:admin1_code":"AN",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"10304.0",
+    "gn:asciiname":"Russulau",
+    "gn:country_code":"TL",
+    "gn:dem":1873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944911,
+    "gn:latitude":-8.87778,
+    "gn:longitude":125.60444,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Russulau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944911
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"290d1a1fbb4004d773afe7d019e29d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1259820611,
+            "region_id":85678963
+        }
+    ],
+    "wof:id":1259820611,
+    "wof:lastmodified":1536868610,
+    "wof:name":"Russulau",
+    "wof:parent_id":85678963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.60444,
+    -8.87778,
+    125.60444,
+    -8.87778
+],
+  "geometry": {"coordinates":[125.60444,-8.87778],"type":"Point"}
+}

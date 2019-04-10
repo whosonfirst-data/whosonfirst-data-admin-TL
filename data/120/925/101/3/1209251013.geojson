@@ -1,0 +1,63 @@
+{
+  "id": 1209251013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.39,-8.58194,126.39,-8.58194",
+    "geom:latitude":-8.58194,
+    "geom:longitude":126.39,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"306.0",
+    "gn:admin3_code":"30606.0",
+    "gn:asciiname":"Nunudoco",
+    "gn:country_code":"TL",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942935,
+    "gn:latitude":-8.58194,
+    "gn:longitude":126.39,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Nunudoco",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942935
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"493d2b71b46bb0b79619fe98607b3164",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209251013
+        }
+    ],
+    "wof:id":1209251013,
+    "wof:lastmodified":1536293004,
+    "wof:name":"Nunudoco",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.39,
+    -8.58194,
+    126.39,
+    -8.58194
+],
+  "geometry": {"coordinates":[126.39,-8.58194],"type":"Point"}
+}

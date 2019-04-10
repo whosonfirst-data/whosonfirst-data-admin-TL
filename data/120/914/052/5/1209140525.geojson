@@ -1,0 +1,63 @@
+{
+  "id": 1209140525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.24111,-8.68417,125.24111,-8.68417",
+    "geom:latitude":-8.68417,
+    "geom:longitude":125.24111,
+    "gn:admin1_code":"LI",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"80301.0",
+    "gn:asciiname":"Pelelor",
+    "gn:country_code":"TL",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943448,
+    "gn:latitude":-8.68417,
+    "gn:longitude":125.24111,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Pelelor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943448
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"01a647b3a080b8ecf46b91da7f3d223a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209140525
+        }
+    ],
+    "wof:id":1209140525,
+    "wof:lastmodified":1536296519,
+    "wof:name":"Pelelor",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.24111,
+    -8.68417,
+    125.24111,
+    -8.68417
+],
+  "geometry": {"coordinates":[125.24111000000001,-8.68417],"type":"Point"}
+}

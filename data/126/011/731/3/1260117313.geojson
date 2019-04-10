@@ -1,0 +1,68 @@
+{
+  "id": 1260117313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.56667,-8.73333,125.56667,-8.73333",
+    "geom:latitude":-8.73333,
+    "geom:longitude":125.56667,
+    "gn:admin1_code":"AL",
+    "gn:admin2_code":"201.0",
+    "gn:admin3_code":"20108.0",
+    "gn:asciiname":"Seloi Malere",
+    "gn:country_code":"TL",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629986,
+    "gn:latitude":-8.73333,
+    "gn:longitude":125.56667,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Seloi Malere",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629986,
+        "wk:page":"Seloi_Malere"
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"850b17fa1636104c0241746102a6bd1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1260117313,
+            "region_id":85678957
+        }
+    ],
+    "wof:id":1260117313,
+    "wof:lastmodified":1537574438,
+    "wof:name":"Seloi Malere",
+    "wof:parent_id":85678957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.56667,
+    -8.73333,
+    125.56667,
+    -8.73333
+],
+  "geometry": {"coordinates":[125.56667,-8.73333],"type":"Point"}
+}

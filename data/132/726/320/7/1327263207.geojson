@@ -1,0 +1,67 @@
+{
+  "id": 1327263207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.40806,-9.32194,124.40806,-9.32194",
+    "geom:latitude":-9.32194,
+    "geom:longitude":124.40806,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120108.0",
+    "gn:asciiname":"Nuabatan",
+    "gn:country_code":"TL",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944264,
+    "gn:latitude":-9.32194,
+    "gn:longitude":124.40806,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Nuabatan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944264
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"26bf1981d3307c24297e39c144aa1119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1327263207,
+            "region_id":85678953
+        }
+    ],
+    "wof:id":1327263207,
+    "wof:lastmodified":1536925895,
+    "wof:name":"Nuabatan",
+    "wof:parent_id":85678953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.40806,
+    -9.32194,
+    124.40806,
+    -9.32194
+],
+  "geometry": {"coordinates":[124.40806000000001,-9.32194],"type":"Point"}
+}

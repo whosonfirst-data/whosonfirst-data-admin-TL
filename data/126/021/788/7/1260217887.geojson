@@ -1,0 +1,67 @@
+{
+  "id": 1260217887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.48521,-9.18271,125.48521,-9.18271",
+    "geom:latitude":-9.18271,
+    "geom:longitude":125.48521,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50701.0",
+    "gn:asciiname":"Harekain",
+    "gn:country_code":"TL",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945278,
+    "gn:latitude":-9.18271,
+    "gn:longitude":125.48521,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Harekain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945278
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"133e27942a96567f7f6542f84b6900c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1260217887,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1260217887,
+    "wof:lastmodified":1536801049,
+    "wof:name":"Harekain",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.48521,
+    -9.18271,
+    125.48521,
+    -9.18271
+],
+  "geometry": {"coordinates":[125.48521,-9.18271],"type":"Point"}
+}

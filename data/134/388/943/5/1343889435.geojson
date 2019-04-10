@@ -1,0 +1,67 @@
+{
+  "id": 1343889435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.03333,-9.23333,125.03333,-9.23333",
+    "geom:latitude":-9.23333,
+    "geom:longitude":125.03333,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50201.0",
+    "gn:asciiname":"Fatumea",
+    "gn:country_code":"TL",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8630039,
+    "gn:latitude":-9.23333,
+    "gn:longitude":125.03333,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Fatumea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8630039
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"0a82cc2a3c2176f1f3bebbcbe256e6bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1343889435,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1343889435,
+    "wof:lastmodified":1536622855,
+    "wof:name":"Fatumea",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.03333,
+    -9.23333,
+    125.03333,
+    -9.23333
+],
+  "geometry": {"coordinates":[125.03333000000001,-9.23333],"type":"Point"}
+}

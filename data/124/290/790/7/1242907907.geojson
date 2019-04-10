@@ -1,0 +1,65 @@
+{
+  "id": 1242907907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.35,-9.38444,124.35,-9.38444",
+    "geom:latitude":-9.38444,
+    "geom:longitude":124.35,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1203.0",
+    "gn:admin3_code":"120301.0",
+    "gn:asciiname":"Fatututa",
+    "gn:country_code":"TL",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944512,
+    "gn:latitude":-9.38444,
+    "gn:longitude":124.35,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Fatututa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944512
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"f56d25e728b7fa0380509f8517ed7cc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1242907907,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242907907,
+    "wof:lastmodified":1537081780,
+    "wof:name":"Fatututa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.35,
+    -9.38444,
+    124.35,
+    -9.38444
+],
+  "geometry": {"coordinates":[124.34999999999999,-9.38444],"type":"Point"}
+}

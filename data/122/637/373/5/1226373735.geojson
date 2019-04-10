@@ -1,0 +1,66 @@
+{
+  "id": 1226373735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.4475,-8.57222,125.4475,-8.57222",
+    "geom:latitude":-8.57222,
+    "geom:longitude":125.4475,
+    "gn:admin1_code":"LI",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80109.0",
+    "gn:asciiname":"Kampungbaru",
+    "gn:country_code":"TL",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942350,
+    "gn:latitude":-8.57222,
+    "gn:longitude":125.4475,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Kampungbaru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942350
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"0a09ecd473bb58a24f08fa69b8d25026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1226373735,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226373735,
+    "wof:lastmodified":1536749184,
+    "wof:name":"Kampungbaru",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.4475,
+    -8.57222,
+    125.4475,
+    -8.57222
+],
+  "geometry": {"coordinates":[125.44750000000001,-8.57222],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360023275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.41722,-8.74278,125.41722,-8.74278",
+    "geom:latitude":-8.74278,
+    "geom:longitude":125.41722,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"702.0",
+    "gn:admin3_code":"70203.0",
+    "gn:asciiname":"Raibiute",
+    "gn:country_code":"TL",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942803,
+    "gn:latitude":-8.74278,
+    "gn:longitude":125.41722,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Raibiute",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942803
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"91ed1fb952d65ef2dc8895d01f26b442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1360023275,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1360023275,
+    "wof:lastmodified":1537033304,
+    "wof:name":"Raibiute",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.41722,
+    -8.74278,
+    125.41722,
+    -8.74278
+],
+  "geometry": {"coordinates":[125.41722,-8.74278],"type":"Point"}
+}

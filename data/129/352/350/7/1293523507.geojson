@@ -1,0 +1,67 @@
+{
+  "id": 1293523507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.35611,-8.64222,125.35611,-8.64222",
+    "geom:latitude":-8.64222,
+    "geom:longitude":125.35611,
+    "gn:admin1_code":"LI",
+    "gn:admin2_code":"802.0",
+    "gn:admin3_code":"80204.0",
+    "gn:asciiname":"Metagao",
+    "gn:country_code":"TL",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943587,
+    "gn:latitude":-8.64222,
+    "gn:longitude":125.35611,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Metagao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943587
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"bd4cbee58040c2ed29eb3903c2cf5e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1293523507,
+            "region_id":85678951
+        }
+    ],
+    "wof:id":1293523507,
+    "wof:lastmodified":1536735273,
+    "wof:name":"Metagao",
+    "wof:parent_id":85678951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.35611000000002,
+    -8.64222,
+    125.35611000000002,
+    -8.64222
+],
+  "geometry": {"coordinates":[125.35611000000002,-8.64222],"type":"Point"}
+}

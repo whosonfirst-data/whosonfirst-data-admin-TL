@@ -1,0 +1,67 @@
+{
+  "id": 1226679779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.58773,-8.72071,125.58773,-8.72071",
+    "geom:latitude":-8.72071,
+    "geom:longitude":125.58773,
+    "gn:admin1_code":"AL",
+    "gn:admin2_code":"201.0",
+    "gn:admin3_code":"20103.0",
+    "gn:asciiname":"Sidole",
+    "gn:country_code":"TL",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943150,
+    "gn:latitude":-8.72071,
+    "gn:longitude":125.58773,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Sidole",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943150
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"236b798ff71ebe10ea4404a1a45ac973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1226679779,
+            "region_id":85678957
+        }
+    ],
+    "wof:id":1226679779,
+    "wof:lastmodified":1536810070,
+    "wof:name":"Sidole",
+    "wof:parent_id":85678957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.58773,
+    -8.72071,
+    125.58773,
+    -8.72071
+],
+  "geometry": {"coordinates":[125.58772999999999,-8.72071],"type":"Point"}
+}

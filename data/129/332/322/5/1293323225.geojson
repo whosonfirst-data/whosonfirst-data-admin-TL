@@ -1,0 +1,67 @@
+{
+  "id": 1293323225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.27389,-9.34528,124.27389,-9.34528",
+    "geom:latitude":-9.34528,
+    "geom:longitude":124.27389,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1202.0",
+    "gn:admin3_code":"120204.0",
+    "gn:asciiname":"Oelpab",
+    "gn:country_code":"TL",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944355,
+    "gn:latitude":-9.34528,
+    "gn:longitude":124.27389,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Oelpab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944355
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"ffecbaf187f366148fd1f41f651967c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1293323225,
+            "region_id":85678953
+        }
+    ],
+    "wof:id":1293323225,
+    "wof:lastmodified":1537022945,
+    "wof:name":"Oelpab",
+    "wof:parent_id":85678953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.27389,
+    -9.34528,
+    124.27389,
+    -9.34528
+],
+  "geometry": {"coordinates":[124.27388999999999,-9.34528],"type":"Point"}
+}

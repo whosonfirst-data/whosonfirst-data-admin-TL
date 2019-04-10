@@ -1,0 +1,67 @@
+{
+  "id": 1276804285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.45778,-8.57333,125.45778,-8.57333",
+    "geom:latitude":-8.57333,
+    "geom:longitude":125.45778,
+    "gn:admin1_code":"LI",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80109.0",
+    "gn:asciiname":"Besite",
+    "gn:country_code":"TL",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942353,
+    "gn:latitude":-8.57333,
+    "gn:longitude":125.45778,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Besite",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942353
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"a8bfefbf4101df2340d49bcf2b593114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276804285,
+            "region_id":85678951
+        }
+    ],
+    "wof:id":1276804285,
+    "wof:lastmodified":1536644137,
+    "wof:name":"Besite",
+    "wof:parent_id":85678951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.45778,
+    -8.57333,
+    125.45778,
+    -8.57333
+],
+  "geometry": {"coordinates":[125.45778,-8.57333],"type":"Point"}
+}

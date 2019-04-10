@@ -1,0 +1,67 @@
+{
+  "id": 1259720453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.22898,-9.32928,125.22898,-9.32928",
+    "geom:latitude":-9.32928,
+    "geom:longitude":125.22898,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"505.0",
+    "gn:admin3_code":"50502.0",
+    "gn:asciiname":"Busakukun",
+    "gn:country_code":"TL",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943982,
+    "gn:latitude":-9.32928,
+    "gn:longitude":125.22898,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Busakukun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943982
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"14b9df7c734a34278810241f788a7169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1259720453,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1259720453,
+    "wof:lastmodified":1537012994,
+    "wof:name":"Busakukun",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.22898,
+    -9.32928,
+    125.22898,
+    -9.32928
+],
+  "geometry": {"coordinates":[125.22898000000001,-9.32928],"type":"Point"}
+}

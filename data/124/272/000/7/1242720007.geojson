@@ -1,0 +1,67 @@
+{
+  "id": 1242720007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.35889,-8.74111,125.35889,-8.74111",
+    "geom:latitude":-8.74111,
+    "geom:longitude":125.35889,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70511.0",
+    "gn:asciiname":"Hatupa",
+    "gn:country_code":"TL",
+    "gn:dem":1162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943752,
+    "gn:latitude":-8.74111,
+    "gn:longitude":125.35889,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Hatupa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943752
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"04395014b0208166801db990a20d9010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1242720007,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1242720007,
+    "wof:lastmodified":1536857437,
+    "wof:name":"Hatupa",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.35889,
+    -8.74111,
+    125.35889,
+    -8.74111
+],
+  "geometry": {"coordinates":[125.35889,-8.74111],"type":"Point"}
+}

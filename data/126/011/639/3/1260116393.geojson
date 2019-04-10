@@ -1,0 +1,67 @@
+{
+  "id": 1260116393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.13583,-8.66889,125.13583,-8.66889",
+    "geom:latitude":-8.66889,
+    "geom:longitude":125.13583,
+    "gn:admin1_code":"LI",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"80304.0",
+    "gn:asciiname":"Waupu",
+    "gn:country_code":"TL",
+    "gn:dem":867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943437,
+    "gn:latitude":-8.66889,
+    "gn:longitude":125.13583,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Waupu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943437
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"d363ec5856af6b4b47e79927461f4268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1260116393,
+            "region_id":85678951
+        }
+    ],
+    "wof:id":1260116393,
+    "wof:lastmodified":1536941274,
+    "wof:name":"Waupu",
+    "wof:parent_id":85678951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.13583,
+    -8.66889,
+    125.13583,
+    -8.66889
+],
+  "geometry": {"coordinates":[125.13583,-8.66889],"type":"Point"}
+}

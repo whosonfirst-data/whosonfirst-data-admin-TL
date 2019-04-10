@@ -1,0 +1,69 @@
+{
+  "id": 1259618189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.35,-9.41667,124.35,-9.41667",
+    "geom:latitude":-9.41667,
+    "geom:longitude":124.35,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1203.0",
+    "gn:admin3_code":"120302.0",
+    "gn:asciiname":"Nubin",
+    "gn:country_code":"TL",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629930,
+    "gn:latitude":-9.41667,
+    "gn:longitude":124.35,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Nubin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672037,
+        102073179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629930
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"6a8ea77129ba122f5e796b514a8dc819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073179,
+            "locality_id":1259618189,
+            "region_id":85672037
+        }
+    ],
+    "wof:id":1259618189,
+    "wof:lastmodified":1536664752,
+    "wof:name":"Nubin",
+    "wof:parent_id":102073179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.35,
+    -9.41667,
+    124.35,
+    -9.41667
+],
+  "geometry": {"coordinates":[124.34999999999999,-9.41667],"type":"Point"}
+}

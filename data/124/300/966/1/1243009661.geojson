@@ -1,0 +1,67 @@
+{
+  "id": 1243009661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.205,-8.83944,126.205,-8.83944",
+    "geom:latitude":-8.83944,
+    "geom:longitude":126.205,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1305.0",
+    "gn:admin3_code":"130501.0",
+    "gn:asciiname":"Santontonio",
+    "gn:country_code":"TL",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942860,
+    "gn:latitude":-8.83944,
+    "gn:longitude":126.205,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Santontonio",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942860
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"22190f9abd8fea235c1ef3b9372c0612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243009661,
+            "region_id":85678993
+        }
+    ],
+    "wof:id":1243009661,
+    "wof:lastmodified":1536938950,
+    "wof:name":"Santontonio",
+    "wof:parent_id":85678993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.205,
+    -8.83944,
+    126.205,
+    -8.83944
+],
+  "geometry": {"coordinates":[126.205,-8.83944],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260016519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.18694,-8.75667,125.18694,-8.75667",
+    "geom:latitude":-8.75667,
+    "geom:longitude":125.18694,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40402.0",
+    "gn:asciiname":"Oekiar",
+    "gn:country_code":"TL",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943727,
+    "gn:latitude":-8.75667,
+    "gn:longitude":125.18694,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Oekiar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943727
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"bf54086ae46683cbfe4303e9d4f1e823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1260016519,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1260016519,
+    "wof:lastmodified":1537081192,
+    "wof:name":"Oekiar",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.18694,
+    -8.75667,
+    125.18694,
+    -8.75667
+],
+  "geometry": {"coordinates":[125.18694000000001,-8.75667],"type":"Point"}
+}

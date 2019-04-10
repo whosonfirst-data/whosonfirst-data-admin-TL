@@ -1,0 +1,67 @@
+{
+  "id": 1276473355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.37222,-8.68472,126.37222,-8.68472",
+    "geom:latitude":-8.68472,
+    "geom:longitude":126.37222,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1302.0",
+    "gn:admin3_code":"130202.0",
+    "gn:asciiname":"Henihuta",
+    "gn:country_code":"TL",
+    "gn:dem":910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943186,
+    "gn:latitude":-8.68472,
+    "gn:longitude":126.37222,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Henihuta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943186
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"cac6065797ee02195db9236aaa414e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276473355,
+            "region_id":85678993
+        }
+    ],
+    "wof:id":1276473355,
+    "wof:lastmodified":1537085360,
+    "wof:name":"Henihuta",
+    "wof:parent_id":85678993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.37222,
+    -8.68472,
+    126.37222,
+    -8.68472
+],
+  "geometry": {"coordinates":[126.37222,-8.68472],"type":"Point"}
+}

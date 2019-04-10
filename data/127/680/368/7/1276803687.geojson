@@ -1,0 +1,67 @@
+{
+  "id": 1276803687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.48028,-8.70333,126.48028,-8.70333",
+    "geom:latitude":-8.70333,
+    "geom:longitude":126.48028,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1302.0",
+    "gn:admin3_code":"130203.0",
+    "gn:asciiname":"Raila",
+    "gn:country_code":"TL",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943210,
+    "gn:latitude":-8.70333,
+    "gn:longitude":126.48028,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Raila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943210
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"a0f185ca6ea26c98e54476e07a0bc6a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276803687,
+            "region_id":85678993
+        }
+    ],
+    "wof:id":1276803687,
+    "wof:lastmodified":1536645068,
+    "wof:name":"Raila",
+    "wof:parent_id":85678993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.48028,
+    -8.70333,
+    126.48028,
+    -8.70333
+],
+  "geometry": {"coordinates":[126.48027999999999,-8.70333],"type":"Point"}
+}

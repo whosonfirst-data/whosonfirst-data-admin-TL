@@ -1,0 +1,67 @@
+{
+  "id": 1277019199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.26108,-9.29097,124.26108,-9.29097",
+    "geom:latitude":-9.29097,
+    "geom:longitude":124.26108,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120105.0",
+    "gn:asciiname":"Bioni",
+    "gn:country_code":"TL",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643777,
+    "gn:latitude":-9.29097,
+    "gn:longitude":124.26108,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Bioni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643777
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"5958bde1126e7613775d0e8a96af0a00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1277019199,
+            "region_id":85678953
+        }
+    ],
+    "wof:id":1277019199,
+    "wof:lastmodified":1536853207,
+    "wof:name":"Bioni",
+    "wof:parent_id":85678953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.26108,
+    -9.29097,
+    124.26108,
+    -9.29097
+],
+  "geometry": {"coordinates":[124.26108000000001,-9.29097],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360218863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.35,-8.52083,126.35,-8.52083",
+    "geom:latitude":-8.52083,
+    "geom:longitude":126.35,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"30108.0",
+    "gn:asciiname":"Uaiboila",
+    "gn:country_code":"TL",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942354,
+    "gn:latitude":-8.52083,
+    "gn:longitude":126.35,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Uaiboila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942354
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"dbd0881148825d96c952f59efde64d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1360218863,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1360218863,
+    "wof:lastmodified":1536752635,
+    "wof:name":"Uaiboila",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.35,
+    -8.52083,
+    126.35,
+    -8.52083
+],
+  "geometry": {"coordinates":[126.34999999999999,-8.52083],"type":"Point"}
+}

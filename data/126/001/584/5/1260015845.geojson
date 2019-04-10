@@ -1,0 +1,67 @@
+{
+  "id": 1260015845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.66187,-8.48503,126.66187,-8.48503",
+    "geom:latitude":-8.48503,
+    "geom:longitude":126.66187,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30204.0",
+    "gn:asciiname":"Loilaku",
+    "gn:country_code":"TL",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944242,
+    "gn:latitude":-8.48503,
+    "gn:longitude":126.66187,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Loilaku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944242
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"63378be8e7358e1bd04fcb46a659bc20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1260015845,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1260015845,
+    "wof:lastmodified":1537082168,
+    "wof:name":"Loilaku",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.66187,
+    -8.48503,
+    126.66187,
+    -8.48503
+],
+  "geometry": {"coordinates":[126.66186999999999,-8.48503],"type":"Point"}
+}

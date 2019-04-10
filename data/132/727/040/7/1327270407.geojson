@@ -1,0 +1,67 @@
+{
+  "id": 1327270407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.18028,-9.21111,125.18028,-9.21111",
+    "geom:latitude":-9.21111,
+    "geom:longitude":125.18028,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50102.0",
+    "gn:asciiname":"Makous",
+    "gn:country_code":"TL",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944037,
+    "gn:latitude":-9.21111,
+    "gn:longitude":125.18028,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Makous",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944037
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"ceaf48330c350e185456dc6102d3fdb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1327270407,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1327270407,
+    "wof:lastmodified":1536915156,
+    "wof:name":"Makous",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.18028,
+    -9.21111,
+    125.18028,
+    -9.21111
+],
+  "geometry": {"coordinates":[125.18028,-9.21111],"type":"Point"}
+}

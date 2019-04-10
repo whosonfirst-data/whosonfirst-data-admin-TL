@@ -1,0 +1,67 @@
+{
+  "id": 1343298057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.32083,-8.59944,125.32083,-8.59944",
+    "geom:latitude":-8.59944,
+    "geom:longitude":125.32083,
+    "gn:admin1_code":"LI",
+    "gn:admin2_code":"802.0",
+    "gn:admin3_code":"80201.0",
+    "gn:asciiname":"Kemalelara",
+    "gn:country_code":"TL",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943453,
+    "gn:latitude":-8.59944,
+    "gn:longitude":125.32083,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Kemalelara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943453
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"ee1b50701e9de9cbcbcc4675cbf5b23b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1343298057,
+            "region_id":85678951
+        }
+    ],
+    "wof:id":1343298057,
+    "wof:lastmodified":1536979928,
+    "wof:name":"Kemalelara",
+    "wof:parent_id":85678951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.32083,
+    -8.59944,
+    125.32083,
+    -8.59944
+],
+  "geometry": {"coordinates":[125.32083,-8.59944],"type":"Point"}
+}

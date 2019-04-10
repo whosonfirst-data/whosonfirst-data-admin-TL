@@ -1,0 +1,67 @@
+{
+  "id": 1343895095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.24361,-8.79778,125.24361,-8.79778",
+    "geom:latitude":-8.79778,
+    "geom:longitude":125.24361,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"402.0",
+    "gn:admin3_code":"40205.0",
+    "gn:asciiname":"Aimia",
+    "gn:country_code":"TL",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943722,
+    "gn:latitude":-8.79778,
+    "gn:longitude":125.24361,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Aimia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943722
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"a740efab16a2ecd8aae3304d79f40900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1343895095,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1343895095,
+    "wof:lastmodified":1536614140,
+    "wof:name":"Aimia",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.24361,
+    -8.79778,
+    125.24361,
+    -8.79778
+],
+  "geometry": {"coordinates":[125.24361,-8.79778],"type":"Point"}
+}

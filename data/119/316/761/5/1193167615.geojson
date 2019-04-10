@@ -1,0 +1,68 @@
+{
+  "id": 1193167615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.33833,-8.48556,126.33833,-8.48556",
+    "geom:latitude":-8.48556,
+    "geom:longitude":126.33833,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"30102.0",
+    "gn:asciiname":"Bucoli",
+    "gn:country_code":"TL",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942483,
+    "gn:latitude":-8.48556,
+    "gn:longitude":126.33833,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Bucoli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942483,
+        "wk:page":"Bucoli"
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"12fb90ccf56732ae6c55d9e62f3fec56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1193167615,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1193167615,
+    "wof:lastmodified":1537574437,
+    "wof:name":"Bucoli",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.33833,
+    -8.48556,
+    126.33833,
+    -8.48556
+],
+  "geometry": {"coordinates":[126.33833,-8.48556],"type":"Point"}
+}

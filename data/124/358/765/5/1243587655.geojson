@@ -1,0 +1,67 @@
+{
+  "id": 1243587655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.58303,-8.60001,125.58303,-8.60001",
+    "geom:latitude":-8.60001,
+    "geom:longitude":125.58303,
+    "gn:admin1_code":"DI",
+    "gn:admin2_code":"601.0",
+    "gn:admin3_code":"60107.0",
+    "gn:asciiname":"Boromata",
+    "gn:country_code":"TL",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942518,
+    "gn:latitude":-8.60001,
+    "gn:longitude":125.58303,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Boromata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942518
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"37d14a582391cd8db5ce51ebf10a1c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243587655,
+            "region_id":85678943
+        }
+    ],
+    "wof:id":1243587655,
+    "wof:lastmodified":1537095719,
+    "wof:name":"Boromata",
+    "wof:parent_id":85678943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.58303,
+    -8.60001,
+    125.58303,
+    -8.60001
+],
+  "geometry": {"coordinates":[125.58302999999999,-8.60001],"type":"Point"}
+}

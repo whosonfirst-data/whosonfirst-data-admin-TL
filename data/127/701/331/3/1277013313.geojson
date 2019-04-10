@@ -1,0 +1,66 @@
+{
+  "id": 1277013313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.42583,-8.56611,125.42583,-8.56611",
+    "geom:latitude":-8.56611,
+    "geom:longitude":125.42583,
+    "gn:admin1_code":"LI",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80104.0",
+    "gn:asciiname":"Kaitcho",
+    "gn:country_code":"TL",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942338,
+    "gn:latitude":-8.56611,
+    "gn:longitude":125.42583,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Kaitcho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942338
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"841a581f1163e3e0986b232e65f79454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1277013313,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277013313,
+    "wof:lastmodified":1536860937,
+    "wof:name":"Kaitcho",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.42583,
+    -8.56611,
+    125.42583,
+    -8.56611
+],
+  "geometry": {"coordinates":[125.42583,-8.56611],"type":"Point"}
+}

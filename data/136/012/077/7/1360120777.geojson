@@ -1,0 +1,67 @@
+{
+  "id": 1360120777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.21398,-9.12173,125.21398,-9.12173",
+    "geom:latitude":-9.12173,
+    "geom:longitude":125.21398,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40507.0",
+    "gn:asciiname":"Gildapil",
+    "gn:country_code":"TL",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943951,
+    "gn:latitude":-9.12173,
+    "gn:longitude":125.21398,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Gildapil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943951
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"8d214fa1818257c47b1570e6a7eaf89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1360120777,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1360120777,
+    "wof:lastmodified":1536893835,
+    "wof:name":"Gildapil",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.21398,
+    -9.12173,
+    125.21398,
+    -9.12173
+],
+  "geometry": {"coordinates":[125.21398000000001,-9.12173],"type":"Point"}
+}

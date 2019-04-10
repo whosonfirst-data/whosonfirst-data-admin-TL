@@ -1,0 +1,67 @@
+{
+  "id": 1344000039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.43528,-8.89028,125.43528,-8.89028",
+    "geom:latitude":-8.89028,
+    "geom:longitude":125.43528,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"703.0",
+    "gn:admin3_code":"70304.0",
+    "gn:asciiname":"Hatulete",
+    "gn:country_code":"TL",
+    "gn:dem":1767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944763,
+    "gn:latitude":-8.89028,
+    "gn:longitude":125.43528,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Hatulete",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944763
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"ef0a4e1e60d5497db94d406cb37b327e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1344000039,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1344000039,
+    "wof:lastmodified":1536962706,
+    "wof:name":"Hatulete",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.43528,
+    -8.89028,
+    125.43528,
+    -8.89028
+],
+  "geometry": {"coordinates":[125.43528000000001,-8.89028],"type":"Point"}
+}

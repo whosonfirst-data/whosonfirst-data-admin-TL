@@ -1,0 +1,67 @@
+{
+  "id": 1293231365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5775,-8.80478,126.5775,-8.80478",
+    "geom:latitude":-8.80478,
+    "geom:longitude":126.5775,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1303.0",
+    "gn:admin3_code":"130305.0",
+    "gn:asciiname":"Daralari",
+    "gn:country_code":"TL",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643600,
+    "gn:latitude":-8.80478,
+    "gn:longitude":126.5775,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Daralari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643600
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"edb75a6e6f63a740526392c0a7003be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1293231365,
+            "region_id":85678993
+        }
+    ],
+    "wof:id":1293231365,
+    "wof:lastmodified":1536659489,
+    "wof:name":"Daralari",
+    "wof:parent_id":85678993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5775,
+    -8.80478,
+    126.5775,
+    -8.80478
+],
+  "geometry": {"coordinates":[126.5775,-8.80478],"type":"Point"}
+}

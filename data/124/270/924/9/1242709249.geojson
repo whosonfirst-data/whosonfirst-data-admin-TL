@@ -1,0 +1,67 @@
+{
+  "id": 1242709249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.16,-8.57694,126.16,-8.57694",
+    "geom:latitude":-8.57694,
+    "geom:longitude":126.16,
+    "gn:admin1_code":"MT",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110203.0",
+    "gn:asciiname":"Samalai",
+    "gn:country_code":"TL",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943476,
+    "gn:latitude":-8.57694,
+    "gn:longitude":126.16,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Samalai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943476
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"e0d98e0fa67fe0fc0ecbeb649256be98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1242709249,
+            "region_id":85678985
+        }
+    ],
+    "wof:id":1242709249,
+    "wof:lastmodified":1536873191,
+    "wof:name":"Samalai",
+    "wof:parent_id":85678985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.16,
+    -8.57694,
+    126.16,
+    -8.57694
+],
+  "geometry": {"coordinates":[126.16,-8.57694],"type":"Point"}
+}

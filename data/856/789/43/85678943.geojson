@@ -1,0 +1,297 @@
+{
+  "id": 85678943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.032914,
+    "geom:area_square_m":402575169.95308,
+    "geom:bbox":"125.489831413,-8.62701832394,125.84599328,-8.13502369589",
+    "geom:latitude":-8.438542,
+    "geom:longitude":125.62817,
+    "gn:population":245873,
+    "iso:country":"TL",
+    "label:eng_x_preferred_longname":[
+        "Dili District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-8.559183,
+    "lbl:longitude":125.639539,
+    "mps:latitude":-8.559183,
+    "mps:longitude":125.639539,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u062f\u064a\u0644\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09bf\u09b2\u09bf \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0438\u043b\u0438"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e1d\u529b\u7e23"
+    ],
+    "name:dan_x_preferred":[
+        "Dili municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Dili"
+    ],
+    "name:eng_x_preferred":[
+        "Dili"
+    ],
+    "name:fin_x_preferred":[
+        "Dilin alue"
+    ],
+    "name:fra_x_preferred":[
+        "Dili"
+    ],
+    "name:fre_x_preferred":[
+        "Dili"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d3\u10d8\u10da\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Gemeinde Dili"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03c4\u03af\u03bb\u03b9"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa1\u0ac0\u0ab2\u0ac0 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d3\u05d9\u05dc\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u093f\u0932\u0940 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Kabupaten Dili"
+    ],
+    "name:ita_x_preferred":[
+        "distretto di Dili"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30ea\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca6\u0cbf\u0cb2\u0cbf \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub51c\ub9ac \ud604"
+    ],
+    "name:lav_x_preferred":[
+        "Dili pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Dilio savivaldyb\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u0921\u093f\u0932\u0940 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Dili municipality"
+    ],
+    "name:nob_x_preferred":[
+        "Dili"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Dili"
+    ],
+    "name:por_x_preferred":[
+        "Distrito D\u00edli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043b\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0daf\u0dd2\u0dbd\u0dd2 \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Dili"
+    ],
+    "name:swe_x_preferred":[
+        "Dili"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c21\u0c3f\u0c32\u0c3f \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tet_x_preferred":[
+        "Distritu D\u00edli"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e14\u0e34\u0e25\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Dili"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0456\u043b\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Circunscri\u00e7\u00e3o Civil de D\u00edli"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u0644\u06cc \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Dili"
+    ],
+    "name:war_x_preferred":[
+        "Dili"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"TLS",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"TLS-541",
+    "ne:adm1_code":"TLS-541",
+    "ne:admin":"East Timor",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"TP.DL",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"541",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"TT00",
+    "ne:fips_alt":"CG02",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"East Timor",
+    "ne:gn_a1_code":"TL.DI",
+    "ne:gn_id":"1645456",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Distrito Dili",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"TT06",
+    "ne:gns_id":"-2676853",
+    "ne:gns_lang":"por",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Dili, Distrito",
+    "ne:gns_region":"",
+    "ne:gu_a3":"TLS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"TL-",
+    "ne:iso_a2":"TL",
+    "ne:labelrank":"9",
+    "ne:latitude":"-8.55429000000",
+    "ne:longitude":"125.66800000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":4,
+    "ne:name":"Dili",
+    "ne:name_alt":"Dilli",
+    "ne:name_len":4,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"DL",
+    "ne:provnum_ne":"1",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"9",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"TLS",
+    "ne:sub_code":"",
+    "ne:type":"Distrik|Kabupaten",
+    "ne:type_en":"District|Regencies",
+    "ne:wikipedia":"",
+    "ne:woe_id":24549898,
+    "ne:woe_label":"Dili, TL, East Timor",
+    "ne:woe_name":"Dili",
+    "qs:a0":"East Timor",
+    "qs:a0_lc":"TL",
+    "qs:a1":"Dili",
+    "qs:a1_lc":"TLS-541",
+    "qs:adm0":"East Timor",
+    "qs:adm0_a3":"TLS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District|Regencies",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-07-11",
+    "statoids:area_km":"372",
+    "statoids:area_mi":"143",
+    "statoids:as_of_date":"2010-07-11",
+    "statoids:capital":"Dili",
+    "statoids:country":"TL",
+    "statoids:gec":"TT06",
+    "statoids:hasc":"TL.DL",
+    "statoids:iso":"DI",
+    "statoids:name":"Dili",
+    "statoids:population":"234331",
+    "statoids:timezone":"+9",
+    "statoids:type":"district",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191569,
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"TT06",
+        "gn:id":1645456,
+        "gp:id":24549898,
+        "hasc:id":"TL.DL",
+        "iso:id":"TL-DI",
+        "qs:id":1062993,
+        "wd:id":"Q860901",
+        "wk:page":"Dili District"
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"516839daa52f9ccaac50c946502f91be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "region_id":85678943
+        }
+    ],
+    "wof:id":85678943,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "tet",
+        "por"
+    ],
+    "wof:lang_x_spoken":[
+        "tet",
+        "por"
+    ],
+    "wof:lastmodified":1553550548,
+    "wof:name":"Dili",
+    "wof:parent_id":85632583,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":234331,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:shortcode":"DL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.48983141348901,
+    -8.62701832393645,
+    125.84599327966623,
+    -8.13502369588679
+],
+  "geometry": {"coordinates":[[[[125.84599327966623,-8.51353687872393],[125.83028364517418,-8.53441415798693],[125.81085330583551,-8.54888355902898],[125.78894249869745,-8.57575530356434],[125.763672722818,-8.58283497445444],[125.76165734301208,-8.58340341613467],[125.73437218642732,-8.56748707426902],[125.69592492069864,-8.56500660557032],[125.6500362488739,-8.58733082385839],[125.6161365093925,-8.60572763352343],[125.59215864470571,-8.6104818662451],[125.56032596187367,-8.62123056423911],[125.52105187384495,-8.62701832393645],[125.51185346856278,-8.62024871230818],[125.49748742120755,-8.60965504304573],[125.49128624856155,-8.57740894906368],[125.48983930863722,-8.56826222062494],[125.48983141348901,-8.56821231364734],[125.54151451888004,-8.54501718469527],[125.56592858173872,-8.54208749744004],[125.59180748822507,-8.54957447668073],[125.60352623814549,-8.54892343496851],[125.63086998825941,-8.52157968485454],[125.64926191550501,-8.52955494560422],[125.67888431116205,-8.53036874751962],[125.73316491043238,-8.52157968485454],[125.82854433745126,-8.4909102094386],[125.82857832193213,-8.49095427801745],[125.84599327966623,-8.51353687872393]]],[[[125.58301842466062,-8.31438567455916],[125.57357832118259,-8.31731536271377],[125.56934655050293,-8.31292083093155],[125.562754753729,-8.30917734176086],[125.53052819122308,-8.29949309662908],[125.51758873842959,-8.29216887759156],[125.50709069138236,-8.28036874801927],[125.50367272171877,-8.27076588253942],[125.50635826911889,-8.26100025775565],[125.51417076876601,-8.24773528365637],[125.52662194094989,-8.23577239388084],[125.56202233236479,-8.20916106603033],[125.56934655050293,-8.19638437254071],[125.58025149850789,-8.17896900741374],[125.60515384197629,-8.15300872217472],[125.63249759209032,-8.13502369588679],[125.65064537948069,-8.14283619553396],[125.64210045667085,-8.17473723763334],[125.60352623814549,-8.26881275740277],[125.59669029971758,-8.29924895587459],[125.59229576883467,-8.30730559717551],[125.58301842466062,-8.31438567455916]]]],"type":"MultiPolygon"}
+}

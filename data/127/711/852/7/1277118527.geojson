@@ -1,0 +1,67 @@
+{
+  "id": 1277118527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.32556,-8.7975,125.32556,-8.7975",
+    "geom:latitude":-8.7975,
+    "geom:longitude":125.32556,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70507.0",
+    "gn:asciiname":"Cucara",
+    "gn:country_code":"TL",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945045,
+    "gn:latitude":-8.7975,
+    "gn:longitude":125.32556,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Cucara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945045
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"4aa3b26b067488452a9ed4d89705f8c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1277118527,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1277118527,
+    "wof:lastmodified":1536716386,
+    "wof:name":"Cucara",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.32556,
+    -8.7975,
+    125.32556,
+    -8.7975
+],
+  "geometry": {"coordinates":[125.32556,-8.7975],"type":"Point"}
+}

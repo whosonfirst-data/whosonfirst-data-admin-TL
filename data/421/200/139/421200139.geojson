@@ -1,0 +1,193 @@
+{
+  "id": 421200139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.38333,-9.2,124.38333,-9.2",
+    "geom:latitude":-9.2,
+    "geom:longitude":124.38333,
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0646\u062a \u0645\u0627\u0643\u0627\u0633\u0627\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09a8\u09cd\u09a4\u09c7 \u09ae\u09cd\u09af\u09be\u0995\u09be\u09b8\u09be\u09b0"
+    ],
+    "name:dan_x_preferred":[
+        "Pante Macassar"
+    ],
+    "name:deu_x_preferred":[
+        "Pante Macassar"
+    ],
+    "name:dut_x_preferred":[
+        "Pante Macassar"
+    ],
+    "name:eng_x_preferred":[
+        "Pante Macassar"
+    ],
+    "name:fin_x_preferred":[
+        "Pante Macassar"
+    ],
+    "name:fra_x_preferred":[
+        "Pante Macassar"
+    ],
+    "name:fre_x_preferred":[
+        "Pante Macassar"
+    ],
+    "name:ger_x_preferred":[
+        "Pante Macassar"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03ac\u03bd\u03c4\u03b5 \u039c\u03b1\u03ba\u03b1\u03c3\u03c3\u03ac\u03c1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0ac7\u0aa8\u0acd\u0a9f\u0ac7 \u0aae\u0ac7\u0a95\u0ab8\u0acd\u0ab8\u0ab0"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0948\u0902\u091f  \u092e\u0915\u093e\u0938\u094d\u0938\u0930"
+    ],
+    "name:ind_x_preferred":[
+        "Pante Makasar"
+    ],
+    "name:ita_x_preferred":[
+        "Pante Macassar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30f3\u30c6\u30fb\u30de\u30ab\u30c3\u30b5\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0ccd\u0caf\u0cbe\u0c82\u0c9f\u0cc6 \u0cae\u0c95\u0cbe\u0cb8\u0ccd\u0cb8\u0cbe\u0cb0\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud310\ud2b8\ub9c8\uce74\uc0ac\ub974"
+    ],
+    "name:lav_x_preferred":[
+        "Pante Makasara"
+    ],
+    "name:lit_x_preferred":[
+        "Pante Makasaras"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u0947\u0902\u091f \u092e\u0945\u0915\u0938\u0930"
+    ],
+    "name:may_x_preferred":[
+        "Pante Macassar"
+    ],
+    "name:nld_x_preferred":[
+        "Pante Macassar"
+    ],
+    "name:nob_x_preferred":[
+        "Pante Macassar"
+    ],
+    "name:pol_x_preferred":[
+        "Pante Macassar"
+    ],
+    "name:por_x_preferred":[
+        "Pante Macassar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043d\u0442\u0435-\u041c\u0430\u043a\u0430\u0441\u0430\u0440"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0db1\u0dca\u0da7\u0dda \u0db8\u0d9a\u0dc3\u0dca\u0dc3\u0dbb\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Pante Macassar"
+    ],
+    "name:swe_x_preferred":[
+        "Pante Makasar"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd \u0bae\u0b95\u0bbe\u0bb8\u0bcd\u0bb8\u0bbe\u0bb0\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c3e\u0c02\u0c1f\u0c47 \u0c2e\u0c15\u0c3e\u0c38\u0c30\u0c4d"
+    ],
+    "name:tet_x_preferred":[
+        "Pante-Makas\u00e1r"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1e\u0e32\u0e19\u0e40\u0e17 \u0e21\u0e32\u0e04\u0e32\u0e0b\u0e32\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Pante Macassar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043d\u0442\u0435-\u041c\u0430\u043a\u0430\u0441\u0430\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Vila Taveiro"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0646\u062a\u06d2 \u0645\u0627\u06a9\u0627\u0633\u0627\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Pante Macassar"
+    ],
+    "name:war_x_preferred":[
+        "Pante Macassar"
+    ],
+    "qs:gn_country":"TL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1632533,
+    "qs:gn_pop":0,
+    "qs:name":"Pante Macassar",
+    "qs:name_adm0":"East Timor",
+    "qs:name_adm1":"Oecussi-Ambeno",
+    "qs:photos":10,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1289381,
+    "qs:woe_adm0":23424968,
+    "qs:woe_id":1048089,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":300,
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1632533,
+        "gp:id":1048089,
+        "qs:id":1289381,
+        "wd:id":"Q263005",
+        "wk:page":"Pante Macassar"
+    },
+    "wof:country":"TL",
+    "wof:created":1459010013,
+    "wof:geomhash":"a33c4c0ca87b90bfc3745824f3e5d96c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":421200139
+        }
+    ],
+    "wof:id":421200139,
+    "wof:lastmodified":1527716426,
+    "wof:name":"Pante Macassar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.38333,
+    -9.2,
+    124.38333,
+    -9.2
+],
+  "geometry": {"coordinates":[124.38333,-9.2],"type":"Point"}
+}

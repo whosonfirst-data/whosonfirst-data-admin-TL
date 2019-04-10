@@ -1,0 +1,67 @@
+{
+  "id": 1193167639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.6824,-8.71256,125.6824,-8.71256",
+    "geom:latitude":-8.71256,
+    "geom:longitude":125.6824,
+    "gn:admin1_code":"AL",
+    "gn:admin2_code":"202.0",
+    "gn:admin3_code":"20205.0",
+    "gn:asciiname":"Lebometa",
+    "gn:country_code":"TL",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943107,
+    "gn:latitude":-8.71256,
+    "gn:longitude":125.6824,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Lebometa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943107
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"5785afc40dceec618d23af44a87cafdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1193167639,
+            "region_id":85678957
+        }
+    ],
+    "wof:id":1193167639,
+    "wof:lastmodified":1536383948,
+    "wof:name":"Lebometa",
+    "wof:parent_id":85678957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.6824,
+    -8.71256,
+    125.6824,
+    -8.71256
+],
+  "geometry": {"coordinates":[125.6824,-8.71256],"type":"Point"}
+}

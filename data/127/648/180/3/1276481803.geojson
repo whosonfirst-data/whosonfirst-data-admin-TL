@@ -1,0 +1,64 @@
+{
+  "id": 1276481803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.61202,-8.45929,126.61202,-8.45929",
+    "geom:latitude":-8.45929,
+    "geom:longitude":126.61202,
+    "gn:admin1_code":"BA",
+    "gn:asciiname":"Natarici",
+    "gn:country_code":"TL",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942728,
+    "gn:latitude":-8.45929,
+    "gn:longitude":126.61202,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Natarici",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942728
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"8bd3d055e1250fac4a4066d90514889c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276481803,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276481803,
+    "wof:lastmodified":1537073835,
+    "wof:name":"Natarici",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.61202,
+    -8.45929,
+    126.61202,
+    -8.45929
+],
+  "geometry": {"coordinates":[126.61202,-8.45929],"type":"Point"}
+}

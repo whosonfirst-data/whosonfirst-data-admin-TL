@@ -1,0 +1,67 @@
+{
+  "id": 1259619555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.1856,-8.97919,125.1856,-8.97919",
+    "geom:latitude":-8.97919,
+    "geom:longitude":125.1856,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40104.0",
+    "gn:asciiname":"Odomau",
+    "gn:country_code":"TL",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629043,
+    "gn:latitude":-8.97919,
+    "gn:longitude":125.1856,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Odomau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629043
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"4eb5e1dfa098bcb54fd8b7e24b3d0b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1259619555,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1259619555,
+    "wof:lastmodified":1536662715,
+    "wof:name":"Odomau",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.1856,
+    -8.97919,
+    125.1856,
+    -8.97919
+],
+  "geometry": {"coordinates":[125.18559999999999,-8.97919],"type":"Point"}
+}

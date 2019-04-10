@@ -1,0 +1,67 @@
+{
+  "id": 1260116251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.04056,-8.92528,125.04056,-8.92528",
+    "geom:latitude":-8.92528,
+    "geom:longitude":125.04056,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40305.0",
+    "gn:asciiname":"Maliaben",
+    "gn:country_code":"TL",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943666,
+    "gn:latitude":-8.92528,
+    "gn:longitude":125.04056,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Maliaben",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943666
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"d2c4610001638990d833a0609ad431c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1260116251,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1260116251,
+    "wof:lastmodified":1536941470,
+    "wof:name":"Maliaben",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.04056,
+    -8.92528,
+    125.04056,
+    -8.92528
+],
+  "geometry": {"coordinates":[125.04056,-8.92528],"type":"Point"}
+}

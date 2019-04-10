@@ -1,0 +1,67 @@
+{
+  "id": 1276259937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.65211,-8.60784,126.65211,-8.60784",
+    "geom:latitude":-8.60784,
+    "geom:longitude":126.65211,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"304.0",
+    "gn:admin3_code":"30402.0",
+    "gn:asciiname":"Hae-Coni",
+    "gn:country_code":"TL",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629771,
+    "gn:latitude":-8.60784,
+    "gn:longitude":126.65211,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Hae-Coni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629771
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"011179c16f5f110b3af6021c030282f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276259937,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1276259937,
+    "wof:lastmodified":1536876154,
+    "wof:name":"Hae-Coni",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.65211,
+    -8.60784,
+    126.65211,
+    -8.60784
+],
+  "geometry": {"coordinates":[126.65210999999999,-8.60784],"type":"Point"}
+}

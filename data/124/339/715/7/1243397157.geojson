@@ -1,0 +1,65 @@
+{
+  "id": 1243397157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.56438,-8.48333,126.56438,-8.48333",
+    "geom:latitude":-8.48333,
+    "geom:longitude":126.56438,
+    "gn:admin1_code":"BA",
+    "gn:asciiname":"Saebere",
+    "gn:country_code":"TL",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942692,
+    "gn:latitude":-8.48333,
+    "gn:longitude":126.56438,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Saebere",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942692
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"606f22684a5486974cb68ebbcacbe93d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243397157,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1243397157,
+    "wof:lastmodified":1536875827,
+    "wof:name":"Saebere",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.56438,
+    -8.48333,
+    126.56438,
+    -8.48333
+],
+  "geometry": {"coordinates":[126.56438,-8.48333],"type":"Point"}
+}

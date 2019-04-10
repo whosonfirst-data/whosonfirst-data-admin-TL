@@ -1,0 +1,67 @@
+{
+  "id": 1276157969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.00083,-9.02583,125.00083,-9.02583",
+    "geom:latitude":-9.02583,
+    "geom:longitude":125.00083,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40303.0",
+    "gn:asciiname":"Sukaren",
+    "gn:country_code":"TL",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943962,
+    "gn:latitude":-9.02583,
+    "gn:longitude":125.00083,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Sukaren",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943962
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"062c301208b437c577e4eeccad9448ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276157969,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1276157969,
+    "wof:lastmodified":1537013074,
+    "wof:name":"Sukaren",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.00083,
+    -9.02583,
+    125.00083,
+    -9.02583
+],
+  "geometry": {"coordinates":[125.00082999999999,-9.02583],"type":"Point"}
+}

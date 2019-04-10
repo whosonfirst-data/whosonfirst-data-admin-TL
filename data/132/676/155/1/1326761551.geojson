@@ -1,0 +1,67 @@
+{
+  "id": 1326761551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.74722,-8.43222,126.74722,-8.43222",
+    "geom:latitude":-8.43222,
+    "geom:longitude":126.74722,
+    "gn:admin1_code":"LA",
+    "gn:admin2_code":"902.0",
+    "gn:admin3_code":"90204.0",
+    "gn:asciiname":"Taleta",
+    "gn:country_code":"TL",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944486,
+    "gn:latitude":-8.43222,
+    "gn:longitude":126.74722,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Taleta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944486
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"290ca34508815e47cdccdf636fda2b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1326761551,
+            "region_id":85678997
+        }
+    ],
+    "wof:id":1326761551,
+    "wof:lastmodified":1536653469,
+    "wof:name":"Taleta",
+    "wof:parent_id":85678997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.74722,
+    -8.43222,
+    126.74722,
+    -8.43222
+],
+  "geometry": {"coordinates":[126.74722,-8.43222],"type":"Point"}
+}

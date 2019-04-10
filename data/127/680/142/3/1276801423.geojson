@@ -1,0 +1,67 @@
+{
+  "id": 1276801423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.17611,-8.68917,125.17611,-8.68917",
+    "geom:latitude":-8.68917,
+    "geom:longitude":125.17611,
+    "gn:admin1_code":"LI",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"80302.0",
+    "gn:asciiname":"Vatuvei",
+    "gn:country_code":"TL",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943442,
+    "gn:latitude":-8.68917,
+    "gn:longitude":125.17611,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Vatuvei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943442
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"ff305a1463c636ac591167700e97dd78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276801423,
+            "region_id":85678951
+        }
+    ],
+    "wof:id":1276801423,
+    "wof:lastmodified":1536648387,
+    "wof:name":"Vatuvei",
+    "wof:parent_id":85678951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.17611,
+    -8.68917,
+    125.17611,
+    -8.68917
+],
+  "geometry": {"coordinates":[125.17610999999999,-8.68917],"type":"Point"}
+}

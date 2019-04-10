@@ -1,0 +1,67 @@
+{
+  "id": 1343893163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.56,-8.81,125.56,-8.81",
+    "geom:latitude":-8.81,
+    "geom:longitude":125.56,
+    "gn:admin1_code":"AL",
+    "gn:admin2_code":"201.0",
+    "gn:admin3_code":"20104.0",
+    "gn:asciiname":"Fatubosa",
+    "gn:country_code":"TL",
+    "gn:dem":1301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643417,
+    "gn:latitude":-8.81,
+    "gn:longitude":125.56,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Fatubosa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643417
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"694c014c355fb4e6c3e46cc0ea23ace5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1343893163,
+            "region_id":85678957
+        }
+    ],
+    "wof:id":1343893163,
+    "wof:lastmodified":1536617135,
+    "wof:name":"Fatubosa",
+    "wof:parent_id":85678957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.56,
+    -8.81,
+    125.56,
+    -8.81
+],
+  "geometry": {"coordinates":[125.56,-8.81],"type":"Point"}
+}

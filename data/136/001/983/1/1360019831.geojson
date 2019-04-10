@@ -1,0 +1,71 @@
+{
+  "id": 1360019831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.75,-8.43333,126.75,-8.43333",
+    "geom:latitude":-8.43333,
+    "geom:longitude":126.75,
+    "gn:admin1_code":"LA",
+    "gn:admin2_code":"902.0",
+    "gn:admin3_code":"90204.0",
+    "gn:asciiname":"Nova Ancora",
+    "gn:country_code":"TL",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1633864,
+    "gn:latitude":-8.43333,
+    "gn:longitude":126.75,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Nova \u00c2ncora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laivai",
+        "Nova \u00c2ncora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1633864
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"f2bd4cdbb7a4e6a441f4077932446e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1360019831,
+            "region_id":85678997
+        }
+    ],
+    "wof:id":1360019831,
+    "wof:lastmodified":1537706419,
+    "wof:name":"Nova Ancora",
+    "wof:parent_id":85678997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.75,
+    -8.43333,
+    126.75,
+    -8.43333
+],
+  "geometry": {"coordinates":[126.75,-8.43333],"type":"Point"}
+}

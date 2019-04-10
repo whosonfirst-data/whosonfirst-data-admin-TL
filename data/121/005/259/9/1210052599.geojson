@@ -1,0 +1,67 @@
+{
+  "id": 1210052599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.58139,-9.10806,125.58139,-9.10806",
+    "geom:latitude":-9.10806,
+    "geom:longitude":125.58139,
+    "gn:admin1_code":"AN",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10401.0",
+    "gn:asciiname":"Raesoro",
+    "gn:country_code":"TL",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945489,
+    "gn:latitude":-9.10806,
+    "gn:longitude":125.58139,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Raesoro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945489
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"c54c8540522c0d1d6e7612752eb4a752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1210052599,
+            "region_id":85678963
+        }
+    ],
+    "wof:id":1210052599,
+    "wof:lastmodified":1536371939,
+    "wof:name":"Raesoro",
+    "wof:parent_id":85678963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.58138999999998,
+    -9.10806,
+    125.58138999999998,
+    -9.10806
+],
+  "geometry": {"coordinates":[125.58138999999998,-9.10806],"type":"Point"}
+}

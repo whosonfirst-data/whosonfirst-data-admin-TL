@@ -1,0 +1,71 @@
+{
+  "id": 1276588405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.71028,-8.53361,126.71028,-8.53361",
+    "geom:latitude":-8.53361,
+    "geom:longitude":126.71028,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30205.0",
+    "gn:asciiname":"Naafa",
+    "gn:country_code":"TL",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1946051,
+    "gn:latitude":-8.53361,
+    "gn:longitude":126.71028,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Naafa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nafa",
+        "Naafa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1946051
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"cd4d2b48d261a4f23434f3ee6fa5c16d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276588405,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1276588405,
+    "wof:lastmodified":1537706427,
+    "wof:name":"Naafa",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.71028,
+    -8.53361,
+    126.71028,
+    -8.53361
+],
+  "geometry": {"coordinates":[126.71028,-8.53361],"type":"Point"}
+}

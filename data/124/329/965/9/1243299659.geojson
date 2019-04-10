@@ -1,0 +1,67 @@
+{
+  "id": 1243299659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.05095,-8.97961,126.05095,-8.97961",
+    "geom:latitude":-8.97961,
+    "geom:longitude":126.05095,
+    "gn:admin1_code":"MT",
+    "gn:admin2_code":"1105.0",
+    "gn:admin3_code":"110502.0",
+    "gn:asciiname":"Natarbora",
+    "gn:country_code":"TL",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8740972,
+    "gn:latitude":-8.97961,
+    "gn:longitude":126.05095,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Natarbora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8740972
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"df915cd3e19f90308c82ffa4d533fbf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243299659,
+            "region_id":85678985
+        }
+    ],
+    "wof:id":1243299659,
+    "wof:lastmodified":1537016345,
+    "wof:name":"Natarbora",
+    "wof:parent_id":85678985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.05095,
+    -8.97961,
+    126.05095,
+    -8.97961
+],
+  "geometry": {"coordinates":[126.05095,-8.97961],"type":"Point"}
+}

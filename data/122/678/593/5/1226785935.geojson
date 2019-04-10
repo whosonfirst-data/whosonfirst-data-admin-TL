@@ -1,0 +1,67 @@
+{
+  "id": 1226785935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.63167,-9.13611,125.63167,-9.13611",
+    "geom:latitude":-9.13611,
+    "geom:longitude":125.63167,
+    "gn:admin1_code":"AN",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10402.0",
+    "gn:asciiname":"Buifu",
+    "gn:country_code":"TL",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945520,
+    "gn:latitude":-9.13611,
+    "gn:longitude":125.63167,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Buifu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945520
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"080625271a921e4cb4c20145258c2b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1226785935,
+            "region_id":85678963
+        }
+    ],
+    "wof:id":1226785935,
+    "wof:lastmodified":1536657683,
+    "wof:name":"Buifu",
+    "wof:parent_id":85678963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.63167,
+    -9.13611,
+    125.63167,
+    -9.13611
+],
+  "geometry": {"coordinates":[125.63167,-9.13611],"type":"Point"}
+}

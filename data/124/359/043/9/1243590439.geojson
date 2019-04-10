@@ -1,0 +1,67 @@
+{
+  "id": 1243590439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.27778,-9.34861,124.27778,-9.34861",
+    "geom:latitude":-9.34861,
+    "geom:longitude":124.27778,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1202.0",
+    "gn:admin3_code":"120204.0",
+    "gn:asciiname":"Aijauana",
+    "gn:country_code":"TL",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944358,
+    "gn:latitude":-9.34861,
+    "gn:longitude":124.27778,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Aijauana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944358
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"34ca6aa068879b0074bebcd742a15447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243590439,
+            "region_id":85678953
+        }
+    ],
+    "wof:id":1243590439,
+    "wof:lastmodified":1537091584,
+    "wof:name":"Aijauana",
+    "wof:parent_id":85678953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.27778,
+    -9.34861,
+    124.27778,
+    -9.34861
+],
+  "geometry": {"coordinates":[124.27778000000001,-9.34861],"type":"Point"}
+}

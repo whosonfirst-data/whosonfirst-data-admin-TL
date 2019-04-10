@@ -1,0 +1,63 @@
+{
+  "id": 1209142081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.65694,-8.65167,126.65694,-8.65167",
+    "geom:latitude":-8.65167,
+    "geom:longitude":126.65694,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130104.0",
+    "gn:asciiname":"Samalari",
+    "gn:country_code":"TL",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943345,
+    "gn:latitude":-8.65167,
+    "gn:longitude":126.65694,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Samalari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943345
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"f4c052b1f28c1ba6d298c258101da26e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209142081
+        }
+    ],
+    "wof:id":1209142081,
+    "wof:lastmodified":1536296471,
+    "wof:name":"Samalari",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.65694,
+    -8.65167,
+    126.65694,
+    -8.65167
+],
+  "geometry": {"coordinates":[126.65694000000001,-8.65167],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310436427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.52694,-9.10139,125.52694,-9.10139",
+    "geom:latitude":-9.10139,
+    "geom:longitude":125.52694,
+    "gn:admin1_code":"AN",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10105.0",
+    "gn:asciiname":"Betama",
+    "gn:country_code":"TL",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945503,
+    "gn:latitude":-9.10139,
+    "gn:longitude":125.52694,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Betama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945503
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"60c86b6817a18e380e35589169c12aeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1310436427,
+            "region_id":85678963
+        }
+    ],
+    "wof:id":1310436427,
+    "wof:lastmodified":1537015992,
+    "wof:name":"Betama",
+    "wof:parent_id":85678963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.52694,
+    -9.10139,
+    125.52694,
+    -9.10139
+],
+  "geometry": {"coordinates":[125.52694,-9.10139],"type":"Point"}
+}

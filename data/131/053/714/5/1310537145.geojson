@@ -1,0 +1,66 @@
+{
+  "id": 1310537145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.32361,-9.20222,124.32361,-9.20222",
+    "geom:latitude":-9.20222,
+    "geom:longitude":124.32361,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120102.0",
+    "gn:asciiname":"Postusika",
+    "gn:country_code":"TL",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944168,
+    "gn:latitude":-9.20222,
+    "gn:longitude":124.32361,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Postusika",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944168
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"9afba97aef94192bcddea922ecc57724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1310537145,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310537145,
+    "wof:lastmodified":1536870119,
+    "wof:name":"Postusika",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.32361000000002,
+    -9.20222,
+    124.32361000000002,
+    -9.20222
+],
+  "geometry": {"coordinates":[124.32361000000002,-9.20222],"type":"Point"}
+}

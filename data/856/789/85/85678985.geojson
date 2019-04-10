@@ -1,0 +1,314 @@
+{
+  "id": 85678985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.144486,
+    "geom:area_square_m":1765940932.659779,
+    "geom:bbox":"125.757523228,-9.05730559658,126.179202916,-8.48113372174",
+    "geom:latitude":-8.718755,
+    "geom:longitude":125.96695,
+    "gn:population":43246,
+    "iso:country":"TL",
+    "label:eng_x_preferred_longname":[
+        "Manatuto District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-8.653199,
+    "lbl:longitude":125.941838,
+    "mps:latitude":-8.653199,
+    "mps:longitude":125.941838,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0627\u0646\u0627\u062a\u0648\u062a\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09a8\u09be\u09a4\u09c1\u09a4\u09c1 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043d\u0443\u0442\u0443\u0442\u0443"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u7d0d\u5716\u6258\u7e23"
+    ],
+    "name:dan_x_preferred":[
+        "Manatuto District"
+    ],
+    "name:dut_x_preferred":[
+        "Manatuto"
+    ],
+    "name:eng_x_preferred":[
+        "Manatuto"
+    ],
+    "name:eng_x_variant":[
+        "Manatuto District"
+    ],
+    "name:fin_x_preferred":[
+        "Manatuton alue"
+    ],
+    "name:fra_x_preferred":[
+        "Manatuto"
+    ],
+    "name:fre_x_preferred":[
+        "Manatuto"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10d0\u10dc\u10d0\u10e2\u10e3\u10e2\u10e3\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Manatuto"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b1\u03bd\u03b1\u03c4\u03bf\u03cd\u03c4\u03bf"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0aa3\u0a9f\u0ac1\u0a9f\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05d8\u05d5\u05d8\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0928\u093e\u0924\u0941\u0924\u094b  \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Kabupaten Manatuto"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Manatuto"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ca\u30c8\u30a5\u30c8\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0ca8\u0cbe\u0c9f\u0cca\u0c9f\u0cca \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10dc\u10d0\u10e2\u10e3\u10e2\u10e3\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub098\ud22c\ud22c \ud604"
+    ],
+    "name:lav_x_preferred":[
+        "Manatuto distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Manatuto apskritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0923\u091f\u0941\u091f\u094b \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Manatuto District"
+    ],
+    "name:nob_x_preferred":[
+        "Manatuto"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0645\u0627\u0646\u0627\u0679\u0648\u0679\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Manatuto"
+    ],
+    "name:por_x_preferred":[
+        "Distrito Manatuto"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u0442\u0443\u0442\u0443"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0db1\u0da7\u0dd4\u0da7\u0ddd \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Manatuto"
+    ],
+    "name:swe_x_preferred":[
+        "Manatutodistriktet"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bc1\u0ba4\u0bcb  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c28\u0c3e\u0c1f\u0c41\u0c1f\u0c4b \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tet_x_preferred":[
+        "Distritu Manatuto"
+    ],
+    "name:tet_x_variant":[
+        "Manatutu"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e21\u0e32\u0e19\u0e32\u0e15\u0e39\u0e15\u0e39"
+    ],
+    "name:tur_x_preferred":[
+        "Manatuto District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u0442\u0443\u0442\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Kabupaten Manatuto"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0646\u0627\u062a\u0648\u062a\u0648 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Manatuto"
+    ],
+    "name:war_x_preferred":[
+        "Manatuto"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u7d0d\u5716\u6258\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"TLS",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"TLS-550",
+    "ne:adm1_code":"TLS-550",
+    "ne:admin":"East Timor",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"TP.MT",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"550",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"TT00",
+    "ne:fips_alt":"CG02",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"East Timor",
+    "ne:gn_a1_code":"TL.MT",
+    "ne:gn_id":"1636525",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Distrito Manatuto",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"TT10",
+    "ne:gns_id":"-2686591",
+    "ne:gns_lang":"por",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Manatuto, Distrito",
+    "ne:gns_region":"",
+    "ne:gu_a3":"TLS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"TL-",
+    "ne:iso_a2":"TL",
+    "ne:labelrank":"9",
+    "ne:latitude":"-8.73700000000",
+    "ne:longitude":"125.96800000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":4,
+    "ne:name":"Manatuto",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"MT",
+    "ne:provnum_ne":"6",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"TLS",
+    "ne:sub_code":"",
+    "ne:type":"Distrik|Kabupaten",
+    "ne:type_en":"District|Regencies",
+    "ne:wikipedia":"",
+    "ne:woe_id":24549902,
+    "ne:woe_label":"Manatuto, TL, East Timor",
+    "ne:woe_name":"Manatuto",
+    "qs:a0":"East Timor",
+    "qs:a0_lc":"TL",
+    "qs:a1":"Manatuto",
+    "qs:a1_lc":"TLS-550",
+    "qs:adm0":"East Timor",
+    "qs:adm0_a3":"TLS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District|Regencies",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-07-11",
+    "statoids:area_km":"1,706",
+    "statoids:area_mi":"658",
+    "statoids:as_of_date":"2010-07-11",
+    "statoids:capital":"Manatuto",
+    "statoids:country":"TL",
+    "statoids:gec":"TT10",
+    "statoids:hasc":"TL.MT",
+    "statoids:iso":"MT",
+    "statoids:name":"Manatuto",
+    "statoids:population":"43246",
+    "statoids:timezone":"+9",
+    "statoids:type":"district",
+    "unlc:subdivision":"TL-MT",
+    "wof:belongsto":[
+        102191569,
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"TT10",
+        "gn:id":1636525,
+        "gp:id":24549902,
+        "hasc:id":"TL.MT",
+        "iso:id":"TL-MT",
+        "qs:id":354742,
+        "unlc:id":"TL-MT",
+        "wd:id":"Q860630",
+        "wk:page":"Manatuto District"
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"84ebf2be209fada5977ca8b6301ab965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "region_id":85678985
+        }
+    ],
+    "wof:id":85678985,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "tet",
+        "por"
+    ],
+    "wof:lang_x_spoken":[
+        "tet",
+        "por"
+    ],
+    "wof:lastmodified":1553550516,
+    "wof:name":"Manatuto",
+    "wof:parent_id":85632583,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":43246,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:shortcode":"MT",
+    "wof:subdivision":"TL-MT",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.7575232279147,
+    -9.05730559657599,
+    126.17920291568203,
+    -8.48113372174384
+],
+  "geometry": {"coordinates":[[[126.14187951292922,-8.50285908777664],[126.16101281069268,-8.51787769849693],[126.17134809843606,-8.53751474430993],[126.17424197828473,-8.560872490473],[126.17734256370841,-8.59105152780569],[126.17920291568203,-8.62371103293776],[126.17258833188612,-8.64582854565083],[126.16101281069268,-8.66174488661716],[126.14003218044081,-8.68107187316838],[126.13124718630866,-8.67807463963288],[126.11140343581997,-8.6749740542092],[126.09197309827994,-8.68799651442754],[126.07998416593659,-8.7196224907853],[126.06882205589318,-8.74546070654634],[126.05021854065319,-8.75765634446469],[126.03698937396052,-8.77460621510471],[126.03368208206246,-8.79403655354406],[126.05724653469986,-8.83000334967483],[126.07833052043725,-8.86845061630288],[126.07895063716228,-8.88994801229092],[126.08329145693529,-8.91144540827895],[126.09424686140358,-8.94121103266298],[126.11140343581997,-8.9660157196497],[126.13765506363029,-8.99867522478178],[126.13801531495483,-8.99990553691094],[126.1379500664425,-8.99993254984724],[126.12191816529116,-9.00652434662123],[126.04753665529245,-9.05730559657599],[126.04525760325589,-9.04539071980582],[126.03202843566385,-9.02265308946846],[125.98903364458704,-8.99247405393442],[125.94500532383665,-8.96704924842402],[125.92950239491961,-8.94286467906164],[125.90614464695796,-8.9149594048526],[125.87162479075153,-8.89821624068691],[125.84103234316819,-8.88188648767124],[125.81043989468549,-8.8568750951095],[125.79865766791715,-8.81201995205907],[125.80547895728807,-8.75600269896535],[125.80522057486974,-8.75316049596006],[125.8011381366158,-8.70556650179259],[125.78563520679938,-8.67001311591252],[125.77157921780667,-8.64913583664952],[125.7575232279147,-8.61709644914174],[125.763672722818,-8.58283497445444],[125.78894249869745,-8.57575530356434],[125.81085330583551,-8.54888355902898],[125.83028364517418,-8.53441415798693],[125.84599327966623,-8.51353687872393],[125.82857832193213,-8.49095427801745],[125.82854433745126,-8.4909102094386],[125.85059655039061,-8.48381926914391],[125.89771569082654,-8.48113372174384],[126.00220787889054,-8.4994442684382],[126.04224694104357,-8.51881275780249],[126.06910241054788,-8.52157968485454],[126.09107506586167,-8.51718515397164],[126.13347415500834,-8.50400155952428],[126.14185631581643,-8.50286223810178],[126.14187951292922,-8.50285908777664]]],"type":"Polygon"}
+}

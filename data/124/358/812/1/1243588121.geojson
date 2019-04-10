@@ -1,0 +1,67 @@
+{
+  "id": 1243588121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.18389,-8.86444,125.18389,-8.86444",
+    "geom:latitude":-8.86444,
+    "geom:longitude":125.18389,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40404.0",
+    "gn:asciiname":"Suruhati",
+    "gn:country_code":"TL",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943693,
+    "gn:latitude":-8.86444,
+    "gn:longitude":125.18389,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Suruhati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943693
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"374ed3775c66a15ea7e1f29431e7a4f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243588121,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1243588121,
+    "wof:lastmodified":1537095024,
+    "wof:name":"Suruhati",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.18389,
+    -8.86444,
+    125.18389,
+    -8.86444
+],
+  "geometry": {"coordinates":[125.18389000000001,-8.86444],"type":"Point"}
+}

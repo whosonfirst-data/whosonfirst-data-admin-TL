@@ -1,0 +1,68 @@
+{
+  "id": 1326564137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.2,-8.83333,125.2,-8.83333",
+    "geom:latitude":-8.83333,
+    "geom:longitude":125.2,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40402.0",
+    "gn:asciiname":"Atabae",
+    "gn:country_code":"TL",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629060,
+    "gn:latitude":-8.83333,
+    "gn:longitude":125.2,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Atabae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629060,
+        "wk:page":"Atabae"
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"bfd30a4eefe79ff5aaaea6eec8dbdbf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1326564137,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1326564137,
+    "wof:lastmodified":1537574438,
+    "wof:name":"Atabae",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.2,
+    -8.83333,
+    125.2,
+    -8.83333
+],
+  "geometry": {"coordinates":[125.2,-8.83333],"type":"Point"}
+}

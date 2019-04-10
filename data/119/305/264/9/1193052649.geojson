@@ -1,0 +1,67 @@
+{
+  "id": 1193052649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.62845,-8.57032,125.62845,-8.57032",
+    "geom:latitude":-8.57032,
+    "geom:longitude":125.62845,
+    "gn:admin1_code":"DI",
+    "gn:admin2_code":"606.0",
+    "gn:admin3_code":"60602.0",
+    "gn:asciiname":"Aidabahare",
+    "gn:country_code":"TL",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942652,
+    "gn:latitude":-8.57032,
+    "gn:longitude":125.62845,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Aidabahare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942652
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"6037bc0285f1a0e1f8355aa183a89b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1193052649,
+            "region_id":85678943
+        }
+    ],
+    "wof:id":1193052649,
+    "wof:lastmodified":1536364957,
+    "wof:name":"Aidabahare",
+    "wof:parent_id":85678943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.62845,
+    -8.57032,
+    125.62845,
+    -8.57032
+],
+  "geometry": {"coordinates":[125.62845,-8.57032],"type":"Point"}
+}

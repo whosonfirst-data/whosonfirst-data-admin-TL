@@ -1,0 +1,67 @@
+{
+  "id": 1226786017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.59306,-8.60417,125.59306,-8.60417",
+    "geom:latitude":-8.60417,
+    "geom:longitude":125.59306,
+    "gn:admin1_code":"AL",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20401.0",
+    "gn:asciiname":"Kotolau",
+    "gn:country_code":"TL",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942546,
+    "gn:latitude":-8.60417,
+    "gn:longitude":125.59306,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Kotolau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942546
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"d089ef02a1f7e9e48ff7490a24c37e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1226786017,
+            "region_id":85678943
+        }
+    ],
+    "wof:id":1226786017,
+    "wof:lastmodified":1536657573,
+    "wof:name":"Kotolau",
+    "wof:parent_id":85678943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.59306,
+    -8.60417,
+    125.59306,
+    -8.60417
+],
+  "geometry": {"coordinates":[125.59305999999999,-8.60417],"type":"Point"}
+}

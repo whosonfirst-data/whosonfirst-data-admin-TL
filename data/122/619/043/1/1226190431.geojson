@@ -1,0 +1,67 @@
+{
+  "id": 1226190431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.38111,-8.73417,125.38111,-8.73417",
+    "geom:latitude":-8.73417,
+    "geom:longitude":125.38111,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"702.0",
+    "gn:admin3_code":"70202.0",
+    "gn:asciiname":"Kotaheo",
+    "gn:country_code":"TL",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942776,
+    "gn:latitude":-8.73417,
+    "gn:longitude":125.38111,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Kotaheo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942776
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"611f6b786b89f6107e1f450bd53a227e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1226190431,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1226190431,
+    "wof:lastmodified":1537012666,
+    "wof:name":"Kotaheo",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.38111,
+    -8.73417,
+    125.38111,
+    -8.73417
+],
+  "geometry": {"coordinates":[125.38111000000001,-8.73417],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292940689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.50611,-8.51583,126.50611,-8.51583",
+    "geom:latitude":-8.51583,
+    "geom:longitude":126.50611,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"30110.0",
+    "gn:asciiname":"Leuque Racabu",
+    "gn:country_code":"TL",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942785,
+    "gn:latitude":-8.51583,
+    "gn:longitude":126.50611,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Leuque Racabu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942785
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"22af9c2a89eaab792caddc122b472482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1292940689,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1292940689,
+    "wof:lastmodified":1537075276,
+    "wof:name":"Leuque Racabu",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.50611,
+    -8.51583,
+    126.50611,
+    -8.51583
+],
+  "geometry": {"coordinates":[126.50611000000001,-8.51583],"type":"Point"}
+}

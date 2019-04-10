@@ -1,0 +1,67 @@
+{
+  "id": 1193168113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.63911,-8.63458,125.63911,-8.63458",
+    "geom:latitude":-8.63458,
+    "geom:longitude":125.63911,
+    "gn:admin1_code":"AL",
+    "gn:admin2_code":"203.0",
+    "gn:admin3_code":"20301.0",
+    "gn:asciiname":"Ulaen",
+    "gn:country_code":"TL",
+    "gn:dem":1272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943141,
+    "gn:latitude":-8.63458,
+    "gn:longitude":125.63911,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Ulaen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943141
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"8b0f90eaa311b9abe76d9a669d9dda9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1193168113,
+            "region_id":85678957
+        }
+    ],
+    "wof:id":1193168113,
+    "wof:lastmodified":1536383474,
+    "wof:name":"Ulaen",
+    "wof:parent_id":85678957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.63911,
+    -8.63458,
+    125.63911,
+    -8.63458
+],
+  "geometry": {"coordinates":[125.63911,-8.63458],"type":"Point"}
+}

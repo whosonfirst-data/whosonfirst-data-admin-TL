@@ -1,0 +1,63 @@
+{
+  "id": 1209663511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.32111,-8.73806,125.32111,-8.73806",
+    "geom:latitude":-8.73806,
+    "geom:longitude":125.32111,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70513.0",
+    "gn:asciiname":"Matanova",
+    "gn:country_code":"TL",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943746,
+    "gn:latitude":-8.73806,
+    "gn:longitude":125.32111,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Matanova",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943746
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"25217e90590353ca08c8253a99156850",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209663511
+        }
+    ],
+    "wof:id":1209663511,
+    "wof:lastmodified":1536280176,
+    "wof:name":"Matanova",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.32111,
+    -8.73806,
+    125.32111,
+    -8.73806
+],
+  "geometry": {"coordinates":[125.32111,-8.73806],"type":"Point"}
+}

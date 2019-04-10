@@ -1,0 +1,67 @@
+{
+  "id": 1243394103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.14639,-9.28778,125.14639,-9.28778",
+    "geom:latitude":-9.28778,
+    "geom:longitude":125.14639,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"50301.0",
+    "gn:asciiname":"Lorokida",
+    "gn:country_code":"TL",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943995,
+    "gn:latitude":-9.28778,
+    "gn:longitude":125.14639,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Lorokida",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943995
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"4644d787292268dcc8e0f7f9a1e1699f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243394103,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1243394103,
+    "wof:lastmodified":1536880429,
+    "wof:name":"Lorokida",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.14639,
+    -9.28778,
+    125.14639,
+    -9.28778
+],
+  "geometry": {"coordinates":[125.14639,-9.28778],"type":"Point"}
+}

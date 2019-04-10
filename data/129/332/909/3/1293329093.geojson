@@ -1,0 +1,67 @@
+{
+  "id": 1293329093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.29806,-8.63833,125.29806,-8.63833",
+    "geom:latitude":-8.63833,
+    "geom:longitude":125.29806,
+    "gn:admin1_code":"LI",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"80303.0",
+    "gn:asciiname":"Vitanau",
+    "gn:country_code":"TL",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943577,
+    "gn:latitude":-8.63833,
+    "gn:longitude":125.29806,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Vitanau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943577
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"e1982e431ca46339866ad3fdd82212ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1293329093,
+            "region_id":85678951
+        }
+    ],
+    "wof:id":1293329093,
+    "wof:lastmodified":1537014641,
+    "wof:name":"Vitanau",
+    "wof:parent_id":85678951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.29806,
+    -8.63833,
+    125.29806,
+    -8.63833
+],
+  "geometry": {"coordinates":[125.29806000000001,-8.63833],"type":"Point"}
+}

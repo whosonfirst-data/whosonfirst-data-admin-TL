@@ -1,0 +1,72 @@
+{
+  "id": 1276372407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.28333,-8.9,125.28333,-8.9",
+    "geom:latitude":-8.9,
+    "geom:longitude":125.28333,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"402.0",
+    "gn:admin3_code":"40207.0",
+    "gn:asciiname":"Cailaco",
+    "gn:country_code":"TL",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1647422,
+    "gn:latitude":-8.9,
+    "gn:longitude":125.28333,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Cailaco",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kailako",
+        "Cailaco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1647422,
+        "wk:page":"Cailaco"
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"9ed36fbad4d3a04a9775ba3721856fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276372407,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1276372407,
+    "wof:lastmodified":1537706422,
+    "wof:name":"Cailaco",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.28333,
+    -8.9,
+    125.28333,
+    -8.9
+],
+  "geometry": {"coordinates":[125.28333000000001,-8.9],"type":"Point"}
+}

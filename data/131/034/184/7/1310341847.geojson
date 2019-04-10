@@ -1,0 +1,67 @@
+{
+  "id": 1310341847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.99056,-8.67611,125.99056,-8.67611",
+    "geom:latitude":-8.67611,
+    "geom:longitude":125.99056,
+    "gn:admin1_code":"MT",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110101.0",
+    "gn:asciiname":"Tuquetin",
+    "gn:country_code":"TL",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944838,
+    "gn:latitude":-8.67611,
+    "gn:longitude":125.99056,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Tuquetin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944838
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"542bce6ccca4ad6d269c1b4b38fa9f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1310341847,
+            "region_id":85678985
+        }
+    ],
+    "wof:id":1310341847,
+    "wof:lastmodified":1536655489,
+    "wof:name":"Tuquetin",
+    "wof:parent_id":85678985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.99056000000002,
+    -8.67611,
+    125.99056000000002,
+    -8.67611
+],
+  "geometry": {"coordinates":[125.99056000000002,-8.67611],"type":"Point"}
+}

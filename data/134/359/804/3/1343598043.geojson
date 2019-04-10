@@ -1,0 +1,68 @@
+{
+  "id": 1343598043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.5,-8.71667,125.5,-8.71667",
+    "geom:latitude":-8.71667,
+    "geom:longitude":125.5,
+    "gn:admin1_code":"AL",
+    "gn:admin2_code":"201.0",
+    "gn:admin3_code":"20109.0",
+    "gn:asciiname":"Fahiria",
+    "gn:country_code":"TL",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629977,
+    "gn:latitude":-8.71667,
+    "gn:longitude":125.5,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Fahiria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629977,
+        "wk:page":"Fahiria"
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"e7483c698d4dc9cd2cbe092920107cc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1343598043,
+            "region_id":85678957
+        }
+    ],
+    "wof:id":1343598043,
+    "wof:lastmodified":1537574438,
+    "wof:name":"Fahiria",
+    "wof:parent_id":85678957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.5,
+    -8.71667,
+    125.5,
+    -8.71667
+],
+  "geometry": {"coordinates":[125.5,-8.71667],"type":"Point"}
+}

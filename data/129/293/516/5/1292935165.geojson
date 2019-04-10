@@ -1,0 +1,67 @@
+{
+  "id": 1292935165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.27972,-9.15917,125.27972,-9.15917",
+    "geom:latitude":-9.15917,
+    "geom:longitude":125.27972,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40502.0",
+    "gn:asciiname":"Ames",
+    "gn:country_code":"TL",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945577,
+    "gn:latitude":-9.15917,
+    "gn:longitude":125.27972,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Ames",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945577
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"d2431030643feddb12720f60252d9a74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1292935165,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1292935165,
+    "wof:lastmodified":1537083273,
+    "wof:name":"Ames",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.27972,
+    -9.15917,
+    125.27972,
+    -9.15917
+],
+  "geometry": {"coordinates":[125.27972,-9.15917],"type":"Point"}
+}

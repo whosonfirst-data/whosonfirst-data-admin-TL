@@ -1,0 +1,67 @@
+{
+  "id": 1327168595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.66667,-8.71667,125.66667,-8.71667",
+    "geom:latitude":-8.71667,
+    "geom:longitude":125.66667,
+    "gn:admin1_code":"AL",
+    "gn:admin2_code":"202.0",
+    "gn:admin3_code":"20202.0",
+    "gn:asciiname":"Acubilitoho",
+    "gn:country_code":"TL",
+    "gn:dem":1284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8617843,
+    "gn:latitude":-8.71667,
+    "gn:longitude":125.66667,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Acubilitoho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8617843
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"47fab8b884f1df7e680b5ebf5a7b0f32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1327168595,
+            "region_id":85678957
+        }
+    ],
+    "wof:id":1327168595,
+    "wof:lastmodified":1537059190,
+    "wof:name":"Acubilitoho",
+    "wof:parent_id":85678957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.66667,
+    -8.71667,
+    125.66667,
+    -8.71667
+],
+  "geometry": {"coordinates":[125.66667,-8.71667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360120829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.60806,-8.60806,125.60806,-8.60806",
+    "geom:latitude":-8.60806,
+    "geom:longitude":125.60806,
+    "gn:admin1_code":"AL",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20402.0",
+    "gn:asciiname":"Kutole",
+    "gn:country_code":"TL",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942565,
+    "gn:latitude":-8.60806,
+    "gn:longitude":125.60806,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Kutole",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942565
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"834672a4ba2eb06a308ab948fa5bd842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1360120829,
+            "region_id":85678957
+        }
+    ],
+    "wof:id":1360120829,
+    "wof:lastmodified":1536893756,
+    "wof:name":"Kutole",
+    "wof:parent_id":85678957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.60806,
+    -8.60806,
+    125.60806,
+    -8.60806
+],
+  "geometry": {"coordinates":[125.60805999999999,-8.60806],"type":"Point"}
+}

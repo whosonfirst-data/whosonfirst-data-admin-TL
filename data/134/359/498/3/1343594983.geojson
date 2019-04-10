@@ -1,0 +1,67 @@
+{
+  "id": 1343594983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.74111,-8.95806,125.74111,-8.95806",
+    "geom:latitude":-8.95806,
+    "geom:longitude":125.74111,
+    "gn:admin1_code":"MF",
+    "gn:admin2_code":"1003.0",
+    "gn:admin3_code":"100303.0",
+    "gn:asciiname":"Fahinehan",
+    "gn:country_code":"TL",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629899,
+    "gn:latitude":-8.95806,
+    "gn:longitude":125.74111,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Fahinehan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629899
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"54cbe4472e802bbe01f63953ec282af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1343594983,
+            "region_id":85678989
+        }
+    ],
+    "wof:id":1343594983,
+    "wof:lastmodified":1537047596,
+    "wof:name":"Fahinehan",
+    "wof:parent_id":85678989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.74111,
+    -8.95806,
+    125.74111,
+    -8.95806
+],
+  "geometry": {"coordinates":[125.74111000000001,-8.95806],"type":"Point"}
+}

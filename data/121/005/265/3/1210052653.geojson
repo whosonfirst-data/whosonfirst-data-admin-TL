@@ -1,0 +1,67 @@
+{
+  "id": 1210052653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.32861,-9.405,124.32861,-9.405",
+    "geom:latitude":-9.405,
+    "geom:longitude":124.32861,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1203.0",
+    "gn:admin3_code":"120302.0",
+    "gn:asciiname":"Kisan",
+    "gn:country_code":"TL",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944500,
+    "gn:latitude":-9.405,
+    "gn:longitude":124.32861,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Kisan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944500
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"5b0f649bd0aacd17d4c084d34d1b2aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1210052653,
+            "region_id":85678953
+        }
+    ],
+    "wof:id":1210052653,
+    "wof:lastmodified":1536371886,
+    "wof:name":"Kisan",
+    "wof:parent_id":85678953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.32861,
+    -9.405,
+    124.32861,
+    -9.405
+],
+  "geometry": {"coordinates":[124.32861,-9.405],"type":"Point"}
+}

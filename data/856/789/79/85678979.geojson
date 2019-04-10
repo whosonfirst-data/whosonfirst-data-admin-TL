@@ -1,0 +1,326 @@
+{
+  "id": 85678979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.058224,
+    "geom:area_square_m":711431784.148234,
+    "geom:bbox":"125.179212274,-8.99144052516,125.509476353,-8.64851571992",
+    "geom:latitude":-8.820358,
+    "geom:longitude":125.37162,
+    "gn:population":100000,
+    "iso:country":"TL",
+    "label:eng_x_preferred_longname":[
+        "Ermera District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-8.82346,
+    "lbl:longitude":125.355357,
+    "mps:latitude":-8.82346,
+    "mps:longitude":125.355357,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0625\u0631\u0645\u064a\u0631\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b0\u09ae\u09c7\u09b0\u09be \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u0440\u043c\u0435\u0440\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u6885\u62c9\u7e23"
+    ],
+    "name:dan_x_preferred":[
+        "Ermera"
+    ],
+    "name:deu_x_preferred":[
+        "Ermera"
+    ],
+    "name:dut_x_preferred":[
+        "Ermera"
+    ],
+    "name:eng_x_preferred":[
+        "Ermera"
+    ],
+    "name:eng_x_variant":[
+        "Ermera District"
+    ],
+    "name:fin_x_preferred":[
+        "Ermeran alue"
+    ],
+    "name:fra_x_preferred":[
+        "Ermera"
+    ],
+    "name:fre_x_preferred":[
+        "Ermera"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10e0\u10db\u10d4\u10e0\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Ermera"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03c1\u03bc\u03ad\u03c1\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0ab0\u0acd\u0aae\u0ac7\u0ab0\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05de\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0930\u092e\u0947\u0930\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Ermera"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Ermera"
+    ],
+    "name:ita_x_preferred":[
+        "Ermera"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30e1\u30e9\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c8e\u0cb0\u0ccd\u0cae\u0cc6\u0cb0\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10e0\u10db\u10d4\u10e0\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d0\ub974\uba54\ub77c \ud604"
+    ],
+    "name:lav_x_preferred":[
+        "Ermeras distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Ermeros apskritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u090f\u0930\u092e\u0947\u0930\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Ermera District"
+    ],
+    "name:nld_x_preferred":[
+        "Ermera"
+    ],
+    "name:nob_x_preferred":[
+        "Ermera"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0627\u0631\u0645\u06cc\u0631\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Ermera"
+    ],
+    "name:por_x_preferred":[
+        "Ermera"
+    ],
+    "name:por_x_variant":[
+        "Distrito Ermera"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0440\u043c\u0435\u0440\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d91\u0dbb\u0dca\u0db8\u0dd9\u0dbb\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Ermera"
+    ],
+    "name:swe_x_preferred":[
+        "Ermera"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b8f\u0bb0\u0bcd\u0bae\u0bc6\u0bb0\u0bbe  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c0e\u0c30\u0c4d\u0c2e\u0c46\u0c30\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tet_x_preferred":[
+        "Ermera"
+    ],
+    "name:tet_x_variant":[
+        "Distritu Ermera"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e40\u0e2d\u0e2d\u0e40\u0e21\u0e23\u0e48\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Ermera District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0440\u043c\u0435\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Kabupaten Ermera"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0631\u0645\u06cc\u0631\u0627 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Ermera"
+    ],
+    "name:war_x_preferred":[
+        "Ermera"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u6885\u62c9\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"TLS",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"TLS-549",
+    "ne:adm1_code":"TLS-549",
+    "ne:admin":"East Timor",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"TP.ER",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"549",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"TT00",
+    "ne:fips_alt":"CG02",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"East Timor",
+    "ne:gn_a1_code":"TL.ER",
+    "ne:gn_id":"1644865",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Distrito Ermera",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"TT07",
+    "ne:gns_id":"-2677481",
+    "ne:gns_lang":"por",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Ermera, Distrito",
+    "ne:gns_region":"",
+    "ne:gu_a3":"TLS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"TL-",
+    "ne:iso_a2":"TL",
+    "ne:labelrank":"9",
+    "ne:latitude":"-8.84722000000",
+    "ne:longitude":"125.34400000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":4,
+    "ne:name":"Ermera",
+    "ne:name_alt":"",
+    "ne:name_len":6,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"ER",
+    "ne:provnum_ne":"10",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"TLS",
+    "ne:sub_code":"",
+    "ne:type":"Distrik|Kabupaten",
+    "ne:type_en":"District|Regencies",
+    "ne:wikipedia":"",
+    "ne:woe_id":24549895,
+    "ne:woe_label":"Ermera, TL, East Timor",
+    "ne:woe_name":"Ermera",
+    "qs:a0":"East Timor",
+    "qs:a0_lc":"TL",
+    "qs:a1":"Ermera",
+    "qs:a1_lc":"TLS-549",
+    "qs:adm0":"East Timor",
+    "qs:adm0_a3":"TLS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District|Regencies",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-07-11",
+    "statoids:area_km":"746",
+    "statoids:area_mi":"288",
+    "statoids:as_of_date":"2010-07-11",
+    "statoids:capital":"Ermera",
+    "statoids:country":"TL",
+    "statoids:gec":"TT07",
+    "statoids:hasc":"TL.ER",
+    "statoids:iso":"ER",
+    "statoids:name":"Ermera",
+    "statoids:population":"114635",
+    "statoids:timezone":"+9",
+    "statoids:type":"district",
+    "unlc:subdivision":"TL-ER",
+    "wof:belongsto":[
+        102191569,
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"TT07",
+        "gn:id":1644865,
+        "gp:id":24549895,
+        "hasc:id":"TL.ER",
+        "iso:id":"TL-ER",
+        "qs:id":892956,
+        "unlc:id":"TL-ER",
+        "wd:id":"Q668171",
+        "wk:page":"Ermera District"
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"d173e01ac75aaed596360685a054b147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":85678979,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "tet",
+        "por"
+    ],
+    "wof:lang_x_spoken":[
+        "tet",
+        "por"
+    ],
+    "wof:lastmodified":1553550516,
+    "wof:name":"Ermera",
+    "wof:parent_id":85632583,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":114635,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:shortcode":"ER",
+    "wof:subdivision":"TL-ER",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.1792122742271,
+    -8.99144052516004,
+    125.50947635265163,
+    -8.64851571992449
+],
+  "geometry": {"coordinates":[[[125.49474857009045,-8.64975595517313],[125.49934777228191,-8.64996265984882],[125.50947635265163,-8.67001311591252],[125.49790083235757,-8.70081226997024],[125.47640343636954,-8.7130079078886],[125.44415734328686,-8.7239633105583],[125.44167687368883,-8.73615894847666],[125.45759321465516,-8.75207529124162],[125.4499451029842,-8.77419280395469],[125.43361534996848,-8.79403655354406],[125.44829145658548,-8.80891936573607],[125.47516320202021,-8.8221485324288],[125.47971072826761,-8.84033863651882],[125.4879789566636,-8.85563486076018],[125.49273318938526,-8.86452320678052],[125.4896326030622,-8.88994801229092],[125.47164920544651,-8.90586435325724],[125.46482791607548,-8.92302092857295],[125.45283898283287,-8.93625009526562],[125.44333052008744,-8.94947926195834],[125.44271040336253,-8.97366383222004],[125.41309980681069,-8.9821904439338],[125.38876020691805,-8.9891667620364],[125.32633507740195,-8.99144052516004],[125.31599979055795,-8.96766936604837],[125.31310590980991,-8.93790374076497],[125.30773156126259,-8.9180599911756],[125.2796195823779,-8.86142262045752],[125.25150760259385,-8.80726572023673],[125.23931196467549,-8.78700855859807],[125.22339562370917,-8.77915374045273],[125.18639529790471,-8.77191904083105],[125.1792122742271,-8.75445240625351],[125.22690962118213,-8.74422047309633],[125.27300499858188,-8.72623707368194],[125.29904992081731,-8.71218108468923],[125.3474190613407,-8.70308603309388],[125.38751997256873,-8.69543792052355],[125.40529666640805,-8.68158863710585],[125.43237511561915,-8.66071135784284],[125.46813520707417,-8.64851571992449],[125.49474857009045,-8.64975595517313]]],"type":"Polygon"}
+}

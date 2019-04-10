@@ -1,0 +1,71 @@
+{
+  "id": 1226476829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.35,-9.36667,124.35,-9.36667",
+    "geom:latitude":-9.36667,
+    "geom:longitude":124.35,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1203.0",
+    "gn:admin3_code":"120303.0",
+    "gn:asciiname":"Oesilo",
+    "gn:country_code":"TL",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1633666,
+    "gn:latitude":-9.36667,
+    "gn:longitude":124.35,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Oesilo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oessilo",
+        "Oesilo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1633666
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"7f17fcef85f2977c96f984c41f471e54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1226476829,
+            "region_id":85678953
+        }
+    ],
+    "wof:id":1226476829,
+    "wof:lastmodified":1537706418,
+    "wof:name":"Oesilo",
+    "wof:parent_id":85678953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.35,
+    -9.36667,
+    124.35,
+    -9.36667
+],
+  "geometry": {"coordinates":[124.34999999999999,-9.36667],"type":"Point"}
+}

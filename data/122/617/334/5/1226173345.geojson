@@ -1,0 +1,67 @@
+{
+  "id": 1226173345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.7,-8.75,126.7,-8.75",
+    "geom:latitude":-8.75,
+    "geom:longitude":126.7,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130101.0",
+    "gn:asciiname":"Taradai",
+    "gn:country_code":"TL",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629928,
+    "gn:latitude":-8.75,
+    "gn:longitude":126.7,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Taradai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629928
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"2db1eb7d250585bc78257035a6288250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1226173345,
+            "region_id":85678993
+        }
+    ],
+    "wof:id":1226173345,
+    "wof:lastmodified":1537036411,
+    "wof:name":"Taradai",
+    "wof:parent_id":85678993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.7,
+    -8.75,
+    126.7,
+    -8.75
+],
+  "geometry": {"coordinates":[126.7,-8.75],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343503213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.39361,-8.93472,125.39361,-8.93472",
+    "geom:latitude":-8.93472,
+    "geom:longitude":125.39361,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"704.0",
+    "gn:admin3_code":"70409.0",
+    "gn:asciiname":"Genutete",
+    "gn:country_code":"TL",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944727,
+    "gn:latitude":-8.93472,
+    "gn:longitude":125.39361,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Genutete",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944727
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"f02dcd6829c9657a5f5dd107dd8e7379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1343503213,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1343503213,
+    "wof:lastmodified":1536684504,
+    "wof:name":"Genutete",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.39361,
+    -8.93472,
+    125.39361,
+    -8.93472
+],
+  "geometry": {"coordinates":[125.39361,-8.93472],"type":"Point"}
+}

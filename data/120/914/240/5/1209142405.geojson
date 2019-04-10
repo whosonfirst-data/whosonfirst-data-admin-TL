@@ -1,0 +1,63 @@
+{
+  "id": 1209142405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.67559,-9.10577,125.67559,-9.10577",
+    "geom:latitude":-9.10577,
+    "geom:longitude":125.67559,
+    "gn:admin1_code":"AN",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10402.0",
+    "gn:asciiname":"Kulolola",
+    "gn:country_code":"TL",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1937124,
+    "gn:latitude":-9.10577,
+    "gn:longitude":125.67559,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Kulolola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1937124
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"4a375bcd7ec71f599fe7272d587670e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209142405
+        }
+    ],
+    "wof:id":1209142405,
+    "wof:lastmodified":1536296462,
+    "wof:name":"Kulolola",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.67559,
+    -9.10577,
+    125.67559,
+    -9.10577
+],
+  "geometry": {"coordinates":[125.67559,-9.10577],"type":"Point"}
+}

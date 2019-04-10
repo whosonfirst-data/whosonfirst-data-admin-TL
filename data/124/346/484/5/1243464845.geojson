@@ -1,0 +1,64 @@
+{
+  "id": 1243464845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.58333,-8.55,125.58333,-8.55",
+    "geom:latitude":-8.55,
+    "geom:longitude":125.58333,
+    "gn:asciiname":"Xanana Gusm",
+    "gn:country_code":"TL",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6941820,
+    "gn:latitude":-8.55,
+    "gn:longitude":125.58333,
+    "gn:modification_date":"2009-06-08",
+    "gn:name":"Xanana Gusm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6941820
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"8549d94aae804665184d32099a611c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243464845,
+            "region_id":85678943
+        }
+    ],
+    "wof:id":1243464845,
+    "wof:lastmodified":1536779431,
+    "wof:name":"Xanana Gusm",
+    "wof:parent_id":85678943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.58333,
+    -8.55,
+    125.58333,
+    -8.55
+],
+  "geometry": {"coordinates":[125.58333,-8.55],"type":"Point"}
+}

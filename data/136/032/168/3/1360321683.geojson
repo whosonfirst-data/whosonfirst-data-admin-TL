@@ -1,0 +1,67 @@
+{
+  "id": 1360321683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.59957,-8.63765,125.59957,-8.63765",
+    "geom:latitude":-8.63765,
+    "geom:longitude":125.59957,
+    "gn:admin1_code":"AL",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20401.0",
+    "gn:asciiname":"Lebukuku",
+    "gn:country_code":"TL",
+    "gn:dem":1265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943183,
+    "gn:latitude":-8.63765,
+    "gn:longitude":125.59957,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Lebukuku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943183
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"95efbcf24a8d8b1fb62945202d46931d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1360321683,
+            "region_id":85678957
+        }
+    ],
+    "wof:id":1360321683,
+    "wof:lastmodified":1536601079,
+    "wof:name":"Lebukuku",
+    "wof:parent_id":85678957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.59957,
+    -8.63765,
+    125.59957,
+    -8.63765
+],
+  "geometry": {"coordinates":[125.59957,-8.63765],"type":"Point"}
+}

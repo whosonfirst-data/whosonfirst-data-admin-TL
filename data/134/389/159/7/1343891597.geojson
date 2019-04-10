@@ -1,0 +1,67 @@
+{
+  "id": 1343891597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.98417,-8.95806,124.98417,-8.95806",
+    "geom:latitude":-8.95806,
+    "geom:longitude":124.98417,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40306.0",
+    "gn:asciiname":"Aumodok",
+    "gn:country_code":"TL",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943290,
+    "gn:latitude":-8.95806,
+    "gn:longitude":124.98417,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Aumodok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943290
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"55a569a01dd1a42bbe0aa9e3e52d6618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1343891597,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1343891597,
+    "wof:lastmodified":1536619585,
+    "wof:name":"Aumodok",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.98417,
+    -8.95806,
+    124.98417,
+    -8.95806
+],
+  "geometry": {"coordinates":[124.98417000000001,-8.95806],"type":"Point"}
+}

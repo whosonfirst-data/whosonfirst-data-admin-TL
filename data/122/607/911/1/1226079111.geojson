@@ -1,0 +1,66 @@
+{
+  "id": 1226079111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.45889,-9.17278,124.45889,-9.17278",
+    "geom:latitude":-9.17278,
+    "geom:longitude":124.45889,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120101.0",
+    "gn:asciiname":"Sakato",
+    "gn:country_code":"TL",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944073,
+    "gn:latitude":-9.17278,
+    "gn:longitude":124.45889,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Sakato",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944073
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"e2c7556246db7add5a3851e11c75c533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1226079111,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226079111,
+    "wof:lastmodified":1536677116,
+    "wof:name":"Sakato",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.45889,
+    -9.17278,
+    124.45889,
+    -9.17278
+],
+  "geometry": {"coordinates":[124.45889,-9.17278],"type":"Point"}
+}

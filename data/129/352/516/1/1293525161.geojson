@@ -1,0 +1,67 @@
+{
+  "id": 1293525161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.26056,-9.31889,125.26056,-9.31889",
+    "geom:latitude":-9.31889,
+    "geom:longitude":125.26056,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"505.0",
+    "gn:admin3_code":"50502.0",
+    "gn:asciiname":"Asumaten",
+    "gn:country_code":"TL",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945594,
+    "gn:latitude":-9.31889,
+    "gn:longitude":125.26056,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Asumaten",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945594
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"10e0b2882c133f15d4dccf262a53dfc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1293525161,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1293525161,
+    "wof:lastmodified":1536732967,
+    "wof:name":"Asumaten",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.26056,
+    -9.31889,
+    125.26056,
+    -9.31889
+],
+  "geometry": {"coordinates":[125.26056,-9.31889],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226376411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.8425,-8.635,126.8425,-8.635",
+    "geom:latitude":-8.635,
+    "geom:longitude":126.8425,
+    "gn:admin1_code":"LA",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"90303.0",
+    "gn:asciiname":"Caidabu",
+    "gn:country_code":"TL",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945261,
+    "gn:latitude":-8.635,
+    "gn:longitude":126.8425,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Caidabu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945261
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"577870bbfb5d49934ad757960b0f5a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1226376411,
+            "region_id":85678997
+        }
+    ],
+    "wof:id":1226376411,
+    "wof:lastmodified":1536745115,
+    "wof:name":"Caidabu",
+    "wof:parent_id":85678997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.8425,
+    -8.635,
+    126.8425,
+    -8.635
+],
+  "geometry": {"coordinates":[126.8425,-8.635],"type":"Point"}
+}

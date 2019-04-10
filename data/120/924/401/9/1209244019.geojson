@@ -1,0 +1,63 @@
+{
+  "id": 1209244019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.22194,-8.89333,126.22194,-8.89333",
+    "geom:latitude":-8.89333,
+    "geom:longitude":126.22194,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1305.0",
+    "gn:admin3_code":"130502.0",
+    "gn:asciiname":"Talioan",
+    "gn:country_code":"TL",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943360,
+    "gn:latitude":-8.89333,
+    "gn:longitude":126.22194,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Talioan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943360
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"bcc74235b0e6c853399ae3037faa7962",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209244019
+        }
+    ],
+    "wof:id":1209244019,
+    "wof:lastmodified":1536293227,
+    "wof:name":"Talioan",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.22194,
+    -8.89333,
+    126.22194,
+    -8.89333
+],
+  "geometry": {"coordinates":[126.22194,-8.89333],"type":"Point"}
+}

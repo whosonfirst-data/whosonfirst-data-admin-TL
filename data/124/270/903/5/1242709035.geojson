@@ -1,0 +1,67 @@
+{
+  "id": 1242709035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.30417,-9.23417,124.30417,-9.23417",
+    "geom:latitude":-9.23417,
+    "geom:longitude":124.30417,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120102.0",
+    "gn:asciiname":"Nepobai",
+    "gn:country_code":"TL",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944089,
+    "gn:latitude":-9.23417,
+    "gn:longitude":124.30417,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Nepobai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944089
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"b58a4a802fc4ddea9c8207e171edf3bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1242709035,
+            "region_id":85678953
+        }
+    ],
+    "wof:id":1242709035,
+    "wof:lastmodified":1536873526,
+    "wof:name":"Nepobai",
+    "wof:parent_id":85678953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.30417,
+    -9.23417,
+    124.30417,
+    -9.23417
+],
+  "geometry": {"coordinates":[124.30417,-9.23417],"type":"Point"}
+}

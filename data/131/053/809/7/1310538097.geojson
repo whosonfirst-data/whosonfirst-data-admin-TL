@@ -1,0 +1,71 @@
+{
+  "id": 1310538097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.68601,-8.53846,125.68601,-8.53846",
+    "geom:latitude":-8.53846,
+    "geom:longitude":125.68601,
+    "gn:admin1_code":"DI",
+    "gn:admin2_code":"606.0",
+    "gn:admin3_code":"60604.0",
+    "gn:asciiname":"Hera",
+    "gn:country_code":"TL",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1643345,
+    "gn:latitude":-8.53846,
+    "gn:longitude":125.68601,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Hera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Herait",
+        "Hera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1643345
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"860a6199d6b1789667caafeb8795ca45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1310538097,
+            "region_id":85678943
+        }
+    ],
+    "wof:id":1310538097,
+    "wof:lastmodified":1537706421,
+    "wof:name":"Hera",
+    "wof:parent_id":85678943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.68601,
+    -8.53846,
+    125.68601,
+    -8.53846
+],
+  "geometry": {"coordinates":[125.68601,-8.53846],"type":"Point"}
+}

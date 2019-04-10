@@ -1,0 +1,61 @@
+{
+  "id": 1209249201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.06056,-8.35833,127.06056,-8.35833",
+    "geom:latitude":-8.35833,
+    "geom:longitude":127.06056,
+    "gn:admin1_code":"LA",
+    "gn:asciiname":"Sabandar",
+    "gn:country_code":"TL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942978,
+    "gn:latitude":-8.35833,
+    "gn:longitude":127.06056,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Sabandar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942978
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"a4a3136a605c9deed3397c5c5e367daa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209249201
+        }
+    ],
+    "wof:id":1209249201,
+    "wof:lastmodified":1536293060,
+    "wof:name":"Sabandar",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.06056,
+    -8.35833,
+    127.06056,
+    -8.35833
+],
+  "geometry": {"coordinates":[127.06056,-8.35833],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226176143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.24836,-9.30561,125.24836,-9.30561",
+    "geom:latitude":-9.30561,
+    "geom:longitude":125.24836,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"505.0",
+    "gn:admin3_code":"50502.0",
+    "gn:asciiname":"Orun",
+    "gn:country_code":"TL",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943991,
+    "gn:latitude":-9.30561,
+    "gn:longitude":125.24836,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Orun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943991
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"a66ca7ec1ed35ba5e1520761d4c8ba3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1226176143,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1226176143,
+    "wof:lastmodified":1537032511,
+    "wof:name":"Orun",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.24836,
+    -9.30561,
+    125.24836,
+    -9.30561
+],
+  "geometry": {"coordinates":[125.24836000000001,-9.30561],"type":"Point"}
+}

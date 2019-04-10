@@ -1,0 +1,74 @@
+{
+  "id": 1225878779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.82833,-8.70917,126.82833,-8.70917",
+    "geom:latitude":-8.70917,
+    "geom:longitude":126.82833,
+    "gn:admin1_code":"LA",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"90304.0",
+    "gn:asciiname":"Iliomar",
+    "gn:country_code":"TL",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1643152,
+    "gn:latitude":-8.70917,
+    "gn:longitude":126.82833,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Iliomar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jliomar",
+        "Ilomar",
+        "Illiomar",
+        "Elomar",
+        "Iliomar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1643152
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"5a003044c810f8896f5622ebbac0ecda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1225878779,
+            "region_id":85678997
+        }
+    ],
+    "wof:id":1225878779,
+    "wof:lastmodified":1537706421,
+    "wof:name":"Iliomar",
+    "wof:parent_id":85678997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.82833,
+    -8.70917,
+    126.82833,
+    -8.70917
+],
+  "geometry": {"coordinates":[126.82832999999999,-8.70917],"type":"Point"}
+}

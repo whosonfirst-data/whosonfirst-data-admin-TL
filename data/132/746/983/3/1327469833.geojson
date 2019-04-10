@@ -1,0 +1,67 @@
+{
+  "id": 1327469833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.07111,-8.95222,125.07111,-8.95222",
+    "geom:latitude":-8.95222,
+    "geom:longitude":125.07111,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40301.0",
+    "gn:asciiname":"Belola",
+    "gn:country_code":"TL",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943391,
+    "gn:latitude":-8.95222,
+    "gn:longitude":125.07111,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Belola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943391
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"ebd3e5f477279352b1be504a6582c65a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1327469833,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1327469833,
+    "wof:lastmodified":1536624700,
+    "wof:name":"Belola",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.07111,
+    -8.95222,
+    125.07111,
+    -8.95222
+],
+  "geometry": {"coordinates":[125.07111,-8.95222],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310442513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.73139,-8.82806,125.73139,-8.82806",
+    "geom:latitude":-8.82806,
+    "geom:longitude":125.73139,
+    "gn:admin1_code":"MF",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100405.0",
+    "gn:asciiname":"Liurai",
+    "gn:country_code":"TL",
+    "gn:dem":1377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629766,
+    "gn:latitude":-8.82806,
+    "gn:longitude":125.73139,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Liurai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629766
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"ee8dd31793693554c58507bd867f7fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1310442513,
+            "region_id":85678989
+        }
+    ],
+    "wof:id":1310442513,
+    "wof:lastmodified":1537006996,
+    "wof:name":"Liurai",
+    "wof:parent_id":85678989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.73139,
+    -8.82806,
+    125.73139,
+    -8.82806
+],
+  "geometry": {"coordinates":[125.73139,-8.82806],"type":"Point"}
+}

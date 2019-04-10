@@ -1,0 +1,63 @@
+{
+  "id": 1209549191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.41971,-8.56667,125.41971,-8.56667",
+    "geom:latitude":-8.56667,
+    "geom:longitude":125.41971,
+    "gn:admin1_code":"LI",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80104.0",
+    "gn:asciiname":"Mota Icun",
+    "gn:country_code":"TL",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8630058,
+    "gn:latitude":-8.56667,
+    "gn:longitude":125.41971,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Mota Icun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8630058
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"cf8c73b192705bc54f29870e5c28540d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209549191
+        }
+    ],
+    "wof:id":1209549191,
+    "wof:lastmodified":1536283747,
+    "wof:name":"Mota Icun",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.41971,
+    -8.56667,
+    125.41971,
+    -8.56667
+],
+  "geometry": {"coordinates":[125.41970999999999,-8.56667],"type":"Point"}
+}

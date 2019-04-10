@@ -1,0 +1,67 @@
+{
+  "id": 1310053709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.38806,-8.91556,125.38806,-8.91556",
+    "geom:latitude":-8.91556,
+    "geom:longitude":125.38806,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"704.0",
+    "gn:admin3_code":"70409.0",
+    "gn:asciiname":"Batumigi",
+    "gn:country_code":"TL",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944743,
+    "gn:latitude":-8.91556,
+    "gn:longitude":125.38806,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Batumigi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944743
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"f46fa3eec1bfc7bd23da7407e560f9fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1310053709,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1310053709,
+    "wof:lastmodified":1537068326,
+    "wof:name":"Batumigi",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.38806,
+    -8.91556,
+    125.38806,
+    -8.91556
+],
+  "geometry": {"coordinates":[125.38806,-8.91556],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209549169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.825,-8.64361,126.825,-8.64361",
+    "geom:latitude":-8.64361,
+    "geom:longitude":126.825,
+    "gn:admin1_code":"LA",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"90302.0",
+    "gn:asciiname":"Hamahun",
+    "gn:country_code":"TL",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945262,
+    "gn:latitude":-8.64361,
+    "gn:longitude":126.825,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Hamahun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945262
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"1fd7c173febee48d7b50ff0ece32dc00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209549169
+        }
+    ],
+    "wof:id":1209549169,
+    "wof:lastmodified":1536283748,
+    "wof:name":"Hamahun",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.825,
+    -8.64361,
+    126.825,
+    -8.64361
+],
+  "geometry": {"coordinates":[126.825,-8.64361],"type":"Point"}
+}

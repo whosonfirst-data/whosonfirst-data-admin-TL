@@ -1,0 +1,68 @@
+{
+  "id": 1360016101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.13333,-8.8,126.13333,-8.8",
+    "geom:latitude":-8.8,
+    "geom:longitude":126.13333,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1305.0",
+    "gn:admin3_code":"130503.0",
+    "gn:asciiname":"Lacluta",
+    "gn:country_code":"TL",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1638832,
+    "gn:latitude":-8.8,
+    "gn:longitude":126.13333,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Lacluta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1638832,
+        "wk:page":"Lacluta"
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"6e6e653dfed02edfd31d569ddb17b203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1360016101,
+            "region_id":85678993
+        }
+    ],
+    "wof:id":1360016101,
+    "wof:lastmodified":1537574436,
+    "wof:name":"Lacluta",
+    "wof:parent_id":85678993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.13333,
+    -8.8,
+    126.13333,
+    -8.8
+],
+  "geometry": {"coordinates":[126.13333,-8.8],"type":"Point"}
+}

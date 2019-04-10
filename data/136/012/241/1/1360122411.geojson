@@ -1,0 +1,67 @@
+{
+  "id": 1360122411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.48333,-8.85,125.48333,-8.85",
+    "geom:latitude":-8.85,
+    "geom:longitude":125.48333,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"703.0",
+    "gn:admin3_code":"70301.0",
+    "gn:asciiname":"Hatuhei",
+    "gn:country_code":"TL",
+    "gn:dem":1645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629367,
+    "gn:latitude":-8.85,
+    "gn:longitude":125.48333,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Hatuhei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629367
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"b38c771de997877f711427623def1048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1360122411,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1360122411,
+    "wof:lastmodified":1536891403,
+    "wof:name":"Hatuhei",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.48333,
+    -8.85,
+    125.48333,
+    -8.85
+],
+  "geometry": {"coordinates":[125.48333,-8.85],"type":"Point"}
+}

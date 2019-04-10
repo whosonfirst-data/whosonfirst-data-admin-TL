@@ -1,0 +1,67 @@
+{
+  "id": 1243490867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.53388,-8.69827,125.53388,-8.69827",
+    "geom:latitude":-8.69827,
+    "geom:longitude":125.53388,
+    "gn:admin1_code":"AL",
+    "gn:admin2_code":"201.0",
+    "gn:admin3_code":"20109.0",
+    "gn:asciiname":"Rekoalepa",
+    "gn:country_code":"TL",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943157,
+    "gn:latitude":-8.69827,
+    "gn:longitude":125.53388,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Rekoalepa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943157
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"0af2ed53f63c5f84f5ee01f664c9c5a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243490867,
+            "region_id":85678957
+        }
+    ],
+    "wof:id":1243490867,
+    "wof:lastmodified":1536741206,
+    "wof:name":"Rekoalepa",
+    "wof:parent_id":85678957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.53388,
+    -8.69827,
+    125.53388,
+    -8.69827
+],
+  "geometry": {"coordinates":[125.53388,-8.69827],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209248871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.24299,-9.36365,124.24299,-9.36365",
+    "geom:latitude":-9.36365,
+    "geom:longitude":124.24299,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1202.0",
+    "gn:admin3_code":"120204.0",
+    "gn:asciiname":"Nefolete",
+    "gn:country_code":"TL",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944201,
+    "gn:latitude":-9.36365,
+    "gn:longitude":124.24299,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Nefolete",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944201
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"a9f9df91768686ba3b74cb7878ff8e8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209248871
+        }
+    ],
+    "wof:id":1209248871,
+    "wof:lastmodified":1536293070,
+    "wof:name":"Nefolete",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.24299,
+    -9.36365,
+    124.24299,
+    -9.36365
+],
+  "geometry": {"coordinates":[124.24299000000001,-9.36365],"type":"Point"}
+}

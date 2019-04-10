@@ -1,0 +1,67 @@
+{
+  "id": 1276908767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.73306,-8.63083,126.73306,-8.63083",
+    "geom:latitude":-8.63083,
+    "geom:longitude":126.73306,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"304.0",
+    "gn:admin3_code":"30406.0",
+    "gn:asciiname":"Caudatae",
+    "gn:country_code":"TL",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943512,
+    "gn:latitude":-8.63083,
+    "gn:longitude":126.73306,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Caudatae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943512
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"1853564a51d5a26431308b2898ab7f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276908767,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1276908767,
+    "wof:lastmodified":1537001825,
+    "wof:name":"Caudatae",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.73306,
+    -8.63083,
+    126.73306,
+    -8.63083
+],
+  "geometry": {"coordinates":[126.73305999999999,-8.63083],"type":"Point"}
+}

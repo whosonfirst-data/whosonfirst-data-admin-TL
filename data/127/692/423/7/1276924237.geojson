@@ -1,0 +1,92 @@
+{
+  "id": 1276924237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.43611,-8.72389,125.43611,-8.72389",
+    "geom:latitude":-8.72389,
+    "geom:longitude":125.43611,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"702.0",
+    "gn:admin3_code":"70207.0",
+    "gn:asciiname":"Gleno",
+    "gn:country_code":"TL",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942811,
+    "gn:latitude":-8.72389,
+    "gn:longitude":125.43611,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Gleno",
+    "gn:population":8133,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gleno"
+    ],
+    "name:eng_x_preferred":[
+        "Gleno"
+    ],
+    "name:ind_x_preferred":[
+        "Gleno"
+    ],
+    "name:lit_x_preferred":[
+        "Glenas"
+    ],
+    "name:pol_x_preferred":[
+        "Gleno"
+    ],
+    "name:por_x_preferred":[
+        "Gleno"
+    ],
+    "name:spa_x_preferred":[
+        "Gleno"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942811,
+        "wk:page":"Gleno"
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"4599ff677ab4799b3a8b04455173b59d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276924237,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1276924237,
+    "wof:lastmodified":1537706425,
+    "wof:name":"Gleno",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:population":8133,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.43611,
+    -8.72389,
+    125.43611,
+    -8.72389
+],
+  "geometry": {"coordinates":[125.43611,-8.72389],"type":"Point"}
+}

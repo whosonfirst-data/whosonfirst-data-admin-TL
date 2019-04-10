@@ -1,0 +1,67 @@
+{
+  "id": 1226676817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.32611,-9.26611,125.32611,-9.26611",
+    "geom:latitude":-9.26611,
+    "geom:longitude":125.32611,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"505.0",
+    "gn:admin3_code":"50505.0",
+    "gn:asciiname":"Holba",
+    "gn:country_code":"TL",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945616,
+    "gn:latitude":-9.26611,
+    "gn:longitude":125.32611,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Holba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945616
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"c6463b31fa6014d43f65e1aee4aa6a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1226676817,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1226676817,
+    "wof:lastmodified":1536814156,
+    "wof:name":"Holba",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.32611,
+    -9.26611,
+    125.32611,
+    -9.26611
+],
+  "geometry": {"coordinates":[125.32611,-9.26611],"type":"Point"}
+}

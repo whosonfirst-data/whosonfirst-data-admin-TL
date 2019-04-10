@@ -1,0 +1,67 @@
+{
+  "id": 1225875067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.99981,-9.25219,124.99981,-9.25219",
+    "geom:latitude":-9.25219,
+    "geom:longitude":124.99981,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50202.0",
+    "gn:asciiname":"Manekiik",
+    "gn:country_code":"TL",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1937304,
+    "gn:latitude":-9.25219,
+    "gn:longitude":124.99981,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Manekiik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1937304
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"9a3fc67d9b78a9b9fc1863b1cc04b556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1225875067,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1225875067,
+    "wof:lastmodified":1536971157,
+    "wof:name":"Manekiik",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.99981,
+    -9.25219,
+    124.99981,
+    -9.25219
+],
+  "geometry": {"coordinates":[124.99981,-9.25219],"type":"Point"}
+}

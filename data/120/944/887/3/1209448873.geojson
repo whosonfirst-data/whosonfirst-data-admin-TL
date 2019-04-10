@@ -1,0 +1,63 @@
+{
+  "id": 1209448873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.13806,-8.90917,125.13806,-8.90917",
+    "geom:latitude":-8.90917,
+    "geom:longitude":125.13806,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40404.0",
+    "gn:asciiname":"Biamarae",
+    "gn:country_code":"TL",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943885,
+    "gn:latitude":-8.90917,
+    "gn:longitude":125.13806,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Biamarae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943885
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"5a6a424fd143932926beeaf8ca313259",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209448873
+        }
+    ],
+    "wof:id":1209448873,
+    "wof:lastmodified":1536286733,
+    "wof:name":"Biamarae",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.13806,
+    -8.90917,
+    125.13806,
+    -8.90917
+],
+  "geometry": {"coordinates":[125.13806,-8.90917],"type":"Point"}
+}

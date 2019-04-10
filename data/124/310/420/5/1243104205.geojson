@@ -1,0 +1,67 @@
+{
+  "id": 1243104205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.19167,-9.03694,125.19167,-9.03694",
+    "geom:latitude":-9.03694,
+    "geom:longitude":125.19167,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40106.0",
+    "gn:asciiname":"Simugol",
+    "gn:country_code":"TL",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1936931,
+    "gn:latitude":-9.03694,
+    "gn:longitude":125.19167,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Simugol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1936931
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"72f8a8f2edd3db5d6f56134052c593f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243104205,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1243104205,
+    "wof:lastmodified":1536801724,
+    "wof:name":"Simugol",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.19167,
+    -9.03694,
+    125.19167,
+    -9.03694
+],
+  "geometry": {"coordinates":[125.19167,-9.03694],"type":"Point"}
+}

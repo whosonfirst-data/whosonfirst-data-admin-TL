@@ -1,0 +1,63 @@
+{
+  "id": 1209451025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.34516,-9.20331,124.34516,-9.20331",
+    "geom:latitude":-9.20331,
+    "geom:longitude":124.34516,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120104.0",
+    "gn:asciiname":"Palaban",
+    "gn:country_code":"TL",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944169,
+    "gn:latitude":-9.20331,
+    "gn:longitude":124.34516,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Palaban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944169
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"ad9ab87680e237eed46b439b911abcac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209451025
+        }
+    ],
+    "wof:id":1209451025,
+    "wof:lastmodified":1536286671,
+    "wof:name":"Palaban",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.34516,
+    -9.20331,
+    124.34516,
+    -9.20331
+],
+  "geometry": {"coordinates":[124.34516000000001,-9.20331],"type":"Point"}
+}

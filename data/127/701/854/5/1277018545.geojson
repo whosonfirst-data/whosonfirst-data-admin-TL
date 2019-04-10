@@ -1,0 +1,67 @@
+{
+  "id": 1277018545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.63383,-8.5675,125.63383,-8.5675",
+    "geom:latitude":-8.5675,
+    "geom:longitude":125.63383,
+    "gn:admin1_code":"DI",
+    "gn:admin2_code":"606.0",
+    "gn:admin3_code":"60604.0",
+    "gn:asciiname":"Fatuahi",
+    "gn:country_code":"TL",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942653,
+    "gn:latitude":-8.5675,
+    "gn:longitude":125.63383,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Fatuahi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942653
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"5a51d01a6702d15994527905120ac1e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1277018545,
+            "region_id":85678943
+        }
+    ],
+    "wof:id":1277018545,
+    "wof:lastmodified":1536854085,
+    "wof:name":"Fatuahi",
+    "wof:parent_id":85678943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.63383,
+    -8.5675,
+    125.63383,
+    -8.5675
+],
+  "geometry": {"coordinates":[125.63383,-8.5675],"type":"Point"}
+}

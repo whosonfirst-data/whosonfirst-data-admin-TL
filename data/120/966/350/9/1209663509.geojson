@@ -1,0 +1,63 @@
+{
+  "id": 1209663509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.3975,-8.69444,125.3975,-8.69444",
+    "geom:latitude":-8.69444,
+    "geom:longitude":125.3975,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"701.0",
+    "gn:admin3_code":"70102.0",
+    "gn:asciiname":"Tarmausoru",
+    "gn:country_code":"TL",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943048,
+    "gn:latitude":-8.69444,
+    "gn:longitude":125.3975,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Tarmausoru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943048
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"31014d5eedbd246a06a1cf6d6c434f1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209663509
+        }
+    ],
+    "wof:id":1209663509,
+    "wof:lastmodified":1536280176,
+    "wof:name":"Tarmausoru",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.3975,
+    -8.69444,
+    125.3975,
+    -8.69444
+],
+  "geometry": {"coordinates":[125.39749999999999,-8.69444],"type":"Point"}
+}

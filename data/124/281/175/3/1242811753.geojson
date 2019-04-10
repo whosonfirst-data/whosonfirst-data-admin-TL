@@ -1,0 +1,67 @@
+{
+  "id": 1242811753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.665,-8.48389,126.665,-8.48389",
+    "geom:latitude":-8.48389,
+    "geom:longitude":126.665,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30204.0",
+    "gn:asciiname":"Sorogua",
+    "gn:country_code":"TL",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944243,
+    "gn:latitude":-8.48389,
+    "gn:longitude":126.665,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Sorogua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944243
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"a0d33f3acacb2d02cc9d06238767a4b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1242811753,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1242811753,
+    "wof:lastmodified":1536726892,
+    "wof:name":"Sorogua",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.665,
+    -8.48389,
+    126.665,
+    -8.48389
+],
+  "geometry": {"coordinates":[126.66500000000001,-8.48389],"type":"Point"}
+}

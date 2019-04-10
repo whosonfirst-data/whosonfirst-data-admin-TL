@@ -1,0 +1,67 @@
+{
+  "id": 1310236279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.20961,-9.28902,124.20961,-9.28902",
+    "geom:latitude":-9.28902,
+    "geom:longitude":124.20961,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1202.0",
+    "gn:admin3_code":"120203.0",
+    "gn:asciiname":"Fuabano",
+    "gn:country_code":"TL",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643775,
+    "gn:latitude":-9.28902,
+    "gn:longitude":124.20961,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Fuabano",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643775
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"5620acb908ce04e408c5c2bc1de8a366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1310236279,
+            "region_id":85678953
+        }
+    ],
+    "wof:id":1310236279,
+    "wof:lastmodified":1536807583,
+    "wof:name":"Fuabano",
+    "wof:parent_id":85678953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.20961,
+    -9.28902,
+    124.20961,
+    -9.28902
+],
+  "geometry": {"coordinates":[124.20961,-9.28902],"type":"Point"}
+}

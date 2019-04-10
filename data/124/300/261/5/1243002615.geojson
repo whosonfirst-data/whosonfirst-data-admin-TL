@@ -1,0 +1,70 @@
+{
+  "id": 1243002615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.56533,-8.7334,125.56533,-8.7334",
+    "geom:latitude":-8.7334,
+    "geom:longitude":125.56533,
+    "gn:admin1_code":"AL",
+    "gn:admin2_code":"201.0",
+    "gn:admin3_code":"20108.0",
+    "gn:asciiname":"Kabasfalm",
+    "gn:country_code":"TL",
+    "gn:dem":913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943143,
+    "gn:latitude":-8.7334,
+    "gn:longitude":125.56533,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Kabasfalm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabasfatin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943143
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"440deebc3b7b2a06ea2068b23dcc1481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243002615,
+            "region_id":85678957
+        }
+    ],
+    "wof:id":1243002615,
+    "wof:lastmodified":1537706425,
+    "wof:name":"Kabasfalm",
+    "wof:parent_id":85678957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.56533,
+    -8.7334,
+    125.56533,
+    -8.7334
+],
+  "geometry": {"coordinates":[125.56533,-8.7334],"type":"Point"}
+}

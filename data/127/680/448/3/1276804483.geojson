@@ -1,0 +1,67 @@
+{
+  "id": 1276804483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.89611,-9.11361,125.89611,-9.11361",
+    "geom:latitude":-9.11361,
+    "geom:longitude":125.89611,
+    "gn:admin1_code":"MF",
+    "gn:admin2_code":"1002.0",
+    "gn:admin3_code":"100205.0",
+    "gn:asciiname":"Besusu",
+    "gn:country_code":"TL",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945564,
+    "gn:latitude":-9.11361,
+    "gn:longitude":125.89611,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Besusu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945564
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"5f68f890de94b2d6924bcb4ad8b34d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276804483,
+            "region_id":85678989
+        }
+    ],
+    "wof:id":1276804483,
+    "wof:lastmodified":1536643831,
+    "wof:name":"Besusu",
+    "wof:parent_id":85678989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.89611,
+    -9.11361,
+    125.89611,
+    -9.11361
+],
+  "geometry": {"coordinates":[125.89610999999999,-9.11361],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260013353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.22417,-8.85639,125.22417,-8.85639",
+    "geom:latitude":-8.85639,
+    "geom:longitude":125.22417,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"402.0",
+    "gn:admin3_code":"40205.0",
+    "gn:asciiname":"Sabarakalara",
+    "gn:country_code":"TL",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943708,
+    "gn:latitude":-8.85639,
+    "gn:longitude":125.22417,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Sabarakalara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943708
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"58970eac3faf0b84a63babd0e5a15ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1260013353,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1260013353,
+    "wof:lastmodified":1537085813,
+    "wof:name":"Sabarakalara",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.22417,
+    -8.85639,
+    125.22417,
+    -8.85639
+],
+  "geometry": {"coordinates":[125.22417,-8.85639],"type":"Point"}
+}

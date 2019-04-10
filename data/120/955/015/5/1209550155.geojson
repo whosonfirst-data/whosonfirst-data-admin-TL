@@ -1,0 +1,63 @@
+{
+  "id": 1209550155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.67472,-8.9475,125.67472,-8.9475",
+    "geom:latitude":-8.9475,
+    "geom:longitude":125.67472,
+    "gn:admin1_code":"MF",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100102.0",
+    "gn:asciiname":"Palitehu",
+    "gn:country_code":"TL",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945148,
+    "gn:latitude":-8.9475,
+    "gn:longitude":125.67472,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Palitehu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945148
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"f44329fe2fd211dd163729fbb159e15d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209550155
+        }
+    ],
+    "wof:id":1209550155,
+    "wof:lastmodified":1536283721,
+    "wof:name":"Palitehu",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.67472,
+    -8.9475,
+    125.67472,
+    -8.9475
+],
+  "geometry": {"coordinates":[125.67471999999999,-8.9475],"type":"Point"}
+}

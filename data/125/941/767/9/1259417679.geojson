@@ -1,0 +1,67 @@
+{
+  "id": 1259417679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.35056,-8.8575,126.35056,-8.8575",
+    "geom:latitude":-8.8575,
+    "geom:longitude":126.35056,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1304.0",
+    "gn:admin3_code":"130406.0",
+    "gn:asciiname":"Uaibobo",
+    "gn:country_code":"TL",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943804,
+    "gn:latitude":-8.8575,
+    "gn:longitude":126.35056,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Uaibobo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943804
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"477c28fbe73bbdbd59b98ed5397830d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1259417679,
+            "region_id":85678993
+        }
+    ],
+    "wof:id":1259417679,
+    "wof:lastmodified":1536953412,
+    "wof:name":"Uaibobo",
+    "wof:parent_id":85678993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.35056000000002,
+    -8.8575,
+    126.35056000000002,
+    -8.8575
+],
+  "geometry": {"coordinates":[126.35056000000002,-8.8575],"type":"Point"}
+}

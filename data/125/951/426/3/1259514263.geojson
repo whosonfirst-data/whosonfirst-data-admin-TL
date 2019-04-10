@@ -1,0 +1,67 @@
+{
+  "id": 1259514263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.31253,-9.04375,125.31253,-9.04375",
+    "geom:latitude":-9.04375,
+    "geom:longitude":125.31253,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40601.0",
+    "gn:asciiname":"Aiasa",
+    "gn:country_code":"TL",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945203,
+    "gn:latitude":-9.04375,
+    "gn:longitude":125.31253,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Aiasa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945203
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"376658ebcee57b4d4411c2cc6c621fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1259514263,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1259514263,
+    "wof:lastmodified":1536813995,
+    "wof:name":"Aiasa",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.31253,
+    -9.04375,
+    125.31253,
+    -9.04375
+],
+  "geometry": {"coordinates":[125.31253,-9.04375],"type":"Point"}
+}

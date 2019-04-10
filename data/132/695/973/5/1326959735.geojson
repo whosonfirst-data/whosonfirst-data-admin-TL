@@ -1,0 +1,67 @@
+{
+  "id": 1326959735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.34056,-9.04167,125.34056,-9.04167",
+    "geom:latitude":-9.04167,
+    "geom:longitude":125.34056,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40603.0",
+    "gn:asciiname":"Bok",
+    "gn:country_code":"TL",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945211,
+    "gn:latitude":-9.04167,
+    "gn:longitude":125.34056,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Bok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945211
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"a6b4fa145c6475588e9d60c096fca690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1326959735,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1326959735,
+    "wof:lastmodified":1536863939,
+    "wof:name":"Bok",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.34056,
+    -9.04167,
+    125.34056,
+    -9.04167
+],
+  "geometry": {"coordinates":[125.34056,-9.04167],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310536221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.4374,-9.22978,125.4374,-9.22978",
+    "geom:latitude":-9.22978,
+    "geom:longitude":125.4374,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50708.0",
+    "gn:asciiname":"Kuluan",
+    "gn:country_code":"TL",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945263,
+    "gn:latitude":-9.22978,
+    "gn:longitude":125.4374,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Kuluan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945263
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"8b03595d6b2862111eab4a23f9bc34be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1310536221,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1310536221,
+    "wof:lastmodified":1536871518,
+    "wof:name":"Kuluan",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.4374,
+    -9.22978,
+    125.4374,
+    -9.22978
+],
+  "geometry": {"coordinates":[125.4374,-9.22978],"type":"Point"}
+}

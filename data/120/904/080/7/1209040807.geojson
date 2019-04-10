@@ -1,0 +1,63 @@
+{
+  "id": 1209040807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.46222,-8.73889,126.46222,-8.73889",
+    "geom:latitude":-8.73889,
+    "geom:longitude":126.46222,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1302.0",
+    "gn:admin3_code":"130208.0",
+    "gn:asciiname":"Uaitahu",
+    "gn:country_code":"TL",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943205,
+    "gn:latitude":-8.73889,
+    "gn:longitude":126.46222,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Uaitahu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943205
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"90df6228a666e07ba17c063227478fbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209040807
+        }
+    ],
+    "wof:id":1209040807,
+    "wof:lastmodified":1536299552,
+    "wof:name":"Uaitahu",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.46222,
+    -8.73889,
+    126.46222,
+    -8.73889
+],
+  "geometry": {"coordinates":[126.46222,-8.73889],"type":"Point"}
+}

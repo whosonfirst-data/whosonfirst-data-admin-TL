@@ -1,0 +1,67 @@
+{
+  "id": 1242822489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.34222,-8.76833,125.34222,-8.76833",
+    "geom:latitude":-8.76833,
+    "geom:longitude":125.34222,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70512.0",
+    "gn:asciiname":"Poerema",
+    "gn:country_code":"TL",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945105,
+    "gn:latitude":-8.76833,
+    "gn:longitude":125.34222,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Poerema",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945105
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"23220c8f6ff0533a094a1d4c504624be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1242822489,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1242822489,
+    "wof:lastmodified":1536711345,
+    "wof:name":"Poerema",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.34222,
+    -8.76833,
+    125.34222,
+    -8.76833
+],
+  "geometry": {"coordinates":[125.34222,-8.76833],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327368517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.35699,-9.06761,125.35699,-9.06761",
+    "geom:latitude":-9.06761,
+    "geom:longitude":125.35699,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40608.0",
+    "gn:asciiname":"Tasqolo",
+    "gn:country_code":"TL",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945163,
+    "gn:latitude":-9.06761,
+    "gn:longitude":125.35699,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Tasqolo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945163
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"fa810a8ebb841ddfddda89301d310208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1327368517,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1327368517,
+    "wof:lastmodified":1536773714,
+    "wof:name":"Tasqolo",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.35699,
+    -9.06761,
+    125.35699,
+    -9.06761
+],
+  "geometry": {"coordinates":[125.35699,-9.06761],"type":"Point"}
+}

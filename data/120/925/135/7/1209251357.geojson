@@ -1,0 +1,63 @@
+{
+  "id": 1209251357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.51833,-8.65722,126.51833,-8.65722",
+    "geom:latitude":-8.65722,
+    "geom:longitude":126.51833,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"303.0",
+    "gn:admin3_code":"30307.0",
+    "gn:asciiname":"Lelalai",
+    "gn:country_code":"TL",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943528,
+    "gn:latitude":-8.65722,
+    "gn:longitude":126.51833,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Lelalai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943528
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"c1bd008443417e3525a551fe1ea2948b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209251357
+        }
+    ],
+    "wof:id":1209251357,
+    "wof:lastmodified":1536292994,
+    "wof:name":"Lelalai",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.51833,
+    -8.65722,
+    126.51833,
+    -8.65722
+],
+  "geometry": {"coordinates":[126.51833000000001,-8.65722],"type":"Point"}
+}

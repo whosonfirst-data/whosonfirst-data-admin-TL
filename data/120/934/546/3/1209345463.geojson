@@ -1,0 +1,63 @@
+{
+  "id": 1209345463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.1975,-8.67639,125.1975,-8.67639",
+    "geom:latitude":-8.67639,
+    "geom:longitude":125.1975,
+    "gn:admin1_code":"LI",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"80302.0",
+    "gn:asciiname":"Kaikasa Vou",
+    "gn:country_code":"TL",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943446,
+    "gn:latitude":-8.67639,
+    "gn:longitude":125.1975,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Kaikasa Vou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943446
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"9ec9725d6d8749ed430d46b4b11ed8f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209345463
+        }
+    ],
+    "wof:id":1209345463,
+    "wof:lastmodified":1536289927,
+    "wof:name":"Kaikasa Vou",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.1975,
+    -8.67639,
+    125.1975,
+    -8.67639
+],
+  "geometry": {"coordinates":[125.19750000000001,-8.67639],"type":"Point"}
+}

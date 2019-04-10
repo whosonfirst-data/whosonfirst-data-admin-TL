@@ -1,0 +1,63 @@
+{
+  "id": 1209657245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.32306,-8.89944,125.32306,-8.89944",
+    "geom:latitude":-8.89944,
+    "geom:longitude":125.32306,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70505.0",
+    "gn:asciiname":"Motur",
+    "gn:country_code":"TL",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944968,
+    "gn:latitude":-8.89944,
+    "gn:longitude":125.32306,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Motur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944968
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"f462a10bdd122e3e63903b956defcd41",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209657245
+        }
+    ],
+    "wof:id":1209657245,
+    "wof:lastmodified":1536280387,
+    "wof:name":"Motur",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.32306,
+    -8.89944,
+    125.32306,
+    -8.89944
+],
+  "geometry": {"coordinates":[125.32306,-8.89944],"type":"Point"}
+}

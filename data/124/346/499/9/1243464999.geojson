@@ -1,0 +1,64 @@
+{
+  "id": 1243464999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.16666,-9.41666,125.16666,-9.41666",
+    "geom:latitude":-9.41666,
+    "geom:longitude":125.16666,
+    "gn:asciiname":"Besakoan",
+    "gn:country_code":"TL",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643786,
+    "gn:latitude":-9.41666,
+    "gn:longitude":125.16666,
+    "gn:modification_date":"2013-12-05",
+    "gn:name":"Besakoan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643786
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"e1604ef67d6fddde9d51bd8a55a43683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243464999,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1243464999,
+    "wof:lastmodified":1536779204,
+    "wof:name":"Besakoan",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.16666,
+    -9.41666,
+    125.16666,
+    -9.41666
+],
+  "geometry": {"coordinates":[125.16665999999999,-9.41666],"type":"Point"}
+}

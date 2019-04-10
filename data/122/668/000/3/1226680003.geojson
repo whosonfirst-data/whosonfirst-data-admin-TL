@@ -1,0 +1,67 @@
+{
+  "id": 1226680003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.66417,-9.13722,125.66417,-9.13722",
+    "geom:latitude":-9.13722,
+    "geom:longitude":125.66417,
+    "gn:admin1_code":"AN",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10402.0",
+    "gn:asciiname":"Bemalai",
+    "gn:country_code":"TL",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945521,
+    "gn:latitude":-9.13722,
+    "gn:longitude":125.66417,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Bemalai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945521
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"d5ee283293439af66fefafc6aa0cbfdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1226680003,
+            "region_id":85678963
+        }
+    ],
+    "wof:id":1226680003,
+    "wof:lastmodified":1536809752,
+    "wof:name":"Bemalai",
+    "wof:parent_id":85678963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.66417,
+    -9.13722,
+    125.66417,
+    -9.13722
+],
+  "geometry": {"coordinates":[125.66417,-9.13722],"type":"Point"}
+}

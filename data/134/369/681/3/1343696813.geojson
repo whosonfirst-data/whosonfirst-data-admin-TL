@@ -1,0 +1,66 @@
+{
+  "id": 1343696813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.40722,-9.1825,124.40722,-9.1825",
+    "geom:latitude":-9.1825,
+    "geom:longitude":124.40722,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120101.0",
+    "gn:asciiname":"Aosnak",
+    "gn:country_code":"TL",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944068,
+    "gn:latitude":-9.1825,
+    "gn:longitude":124.40722,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Aosnak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944068
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"bc5b4b2260f1e81a0d1ec7f9895cbab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1343696813,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343696813,
+    "wof:lastmodified":1536902748,
+    "wof:name":"Aosnak",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.40722,
+    -9.1825,
+    124.40722,
+    -9.1825
+],
+  "geometry": {"coordinates":[124.40722,-9.1825],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276474427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.4138,-9.1155,125.4138,-9.1155",
+    "geom:latitude":-9.1155,
+    "geom:longitude":125.4138,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50704.0",
+    "gn:asciiname":"Lale",
+    "gn:country_code":"TL",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945293,
+    "gn:latitude":-9.1155,
+    "gn:longitude":125.4138,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Lale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945293
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"ca1bb84da2c26ed80b5b1caa19941b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276474427,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1276474427,
+    "wof:lastmodified":1537083933,
+    "wof:name":"Lale",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.4138,
+    -9.1155,
+    125.4138,
+    -9.1155
+],
+  "geometry": {"coordinates":[125.41379999999999,-9.1155],"type":"Point"}
+}

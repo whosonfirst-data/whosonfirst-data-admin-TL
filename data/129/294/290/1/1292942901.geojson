@@ -1,0 +1,67 @@
+{
+  "id": 1292942901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.53333,-8.65,126.53333,-8.65",
+    "geom:latitude":-8.65,
+    "geom:longitude":126.53333,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"303.0",
+    "gn:admin3_code":"30311.0",
+    "gn:asciiname":"Laisorolai",
+    "gn:country_code":"TL",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629058,
+    "gn:latitude":-8.65,
+    "gn:longitude":126.53333,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Laisorolai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629058
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"bc790b382fc103c1fa93421ea8a274b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1292942901,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1292942901,
+    "wof:lastmodified":1537071942,
+    "wof:name":"Laisorolai",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.53333,
+    -8.65,
+    126.53333,
+    -8.65
+],
+  "geometry": {"coordinates":[126.53333000000001,-8.65],"type":"Point"}
+}

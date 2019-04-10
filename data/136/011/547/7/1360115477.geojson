@@ -1,0 +1,67 @@
+{
+  "id": 1360115477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.11126,-9.42538,125.11126,-9.42538",
+    "geom:latitude":-9.42538,
+    "geom:longitude":125.11126,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50602.0",
+    "gn:asciiname":"Tulaiduk Bawah",
+    "gn:country_code":"TL",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943573,
+    "gn:latitude":-9.42538,
+    "gn:longitude":125.11126,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Tulaiduk Bawah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943573
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"264ba7dfe028d2a013cb89e778556c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1360115477,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1360115477,
+    "wof:lastmodified":1536901976,
+    "wof:name":"Tulaiduk Bawah",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.11126000000002,
+    -9.42538,
+    125.11126000000002,
+    -9.42538
+],
+  "geometry": {"coordinates":[125.11126000000002,-9.42538],"type":"Point"}
+}

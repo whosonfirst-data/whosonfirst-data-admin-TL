@@ -1,0 +1,67 @@
+{
+  "id": 1343395819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.23528,-8.87861,125.23528,-8.87861",
+    "geom:latitude":-8.87861,
+    "geom:longitude":125.23528,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"402.0",
+    "gn:admin3_code":"40203.0",
+    "gn:asciiname":"Daulelo",
+    "gn:country_code":"TL",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943896,
+    "gn:latitude":-8.87861,
+    "gn:longitude":125.23528,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Daulelo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943896
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"f847b3954d4d98d7fadd9cd413655bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1343395819,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1343395819,
+    "wof:lastmodified":1536838479,
+    "wof:name":"Daulelo",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.23528,
+    -8.87861,
+    125.23528,
+    -8.87861
+],
+  "geometry": {"coordinates":[125.23528,-8.87861],"type":"Point"}
+}

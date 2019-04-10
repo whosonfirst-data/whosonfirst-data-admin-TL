@@ -1,0 +1,67 @@
+{
+  "id": 1259614867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.59988,-8.59792,125.59988,-8.59792",
+    "geom:latitude":-8.59792,
+    "geom:longitude":125.59988,
+    "gn:admin1_code":"DI",
+    "gn:admin2_code":"606.0",
+    "gn:admin3_code":"60605.0",
+    "gn:asciiname":"Tancae",
+    "gn:country_code":"TL",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942549,
+    "gn:latitude":-8.59792,
+    "gn:longitude":125.59988,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Tancae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942549
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"fd9b0943fa7814ae74d6c6d44f74d837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1259614867,
+            "region_id":85678943
+        }
+    ],
+    "wof:id":1259614867,
+    "wof:lastmodified":1536669568,
+    "wof:name":"Tancae",
+    "wof:parent_id":85678943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.59988,
+    -8.59792,
+    125.59988,
+    -8.59792
+],
+  "geometry": {"coordinates":[125.59988,-8.59792],"type":"Point"}
+}

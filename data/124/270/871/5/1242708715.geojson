@@ -1,0 +1,68 @@
+{
+  "id": 1242708715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.53333,-8.7,125.53333,-8.7",
+    "geom:latitude":-8.7,
+    "geom:longitude":125.53333,
+    "gn:admin1_code":"AL",
+    "gn:admin2_code":"201.0",
+    "gn:admin3_code":"20109.0",
+    "gn:asciiname":"Seloi Craic",
+    "gn:country_code":"TL",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8628949,
+    "gn:latitude":-8.7,
+    "gn:longitude":125.53333,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Seloi Craic",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8628949,
+        "wk:page":"Seloi_Craic"
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"cf111aae9d6b6a4b0cb0c5375868b868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1242708715,
+            "region_id":85678957
+        }
+    ],
+    "wof:id":1242708715,
+    "wof:lastmodified":1537574438,
+    "wof:name":"Seloi Craic",
+    "wof:parent_id":85678957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.53333,
+    -8.7,
+    125.53333,
+    -8.7
+],
+  "geometry": {"coordinates":[125.53333000000001,-8.7],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293324173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.21525,-9.26203,125.21525,-9.26203",
+    "geom:latitude":-9.26203,
+    "geom:longitude":125.21525,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50402.0",
+    "gn:asciiname":"Oges",
+    "gn:country_code":"TL",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944022,
+    "gn:latitude":-9.26203,
+    "gn:longitude":125.21525,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Oges",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944022
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"dd862579751d0cb6175761a9e46e0268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1293324173,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1293324173,
+    "wof:lastmodified":1537021610,
+    "wof:name":"Oges",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.21525,
+    -9.26203,
+    125.21525,
+    -9.26203
+],
+  "geometry": {"coordinates":[125.21525,-9.26203],"type":"Point"}
+}

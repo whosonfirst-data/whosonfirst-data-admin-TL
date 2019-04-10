@@ -1,0 +1,67 @@
+{
+  "id": 1343798021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.46539,-8.46334,126.46539,-8.46334",
+    "geom:latitude":-8.46334,
+    "geom:longitude":126.46539,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"30103.0",
+    "gn:asciiname":"Datawa",
+    "gn:country_code":"TL",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942577,
+    "gn:latitude":-8.46334,
+    "gn:longitude":126.46539,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Datawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942577
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"7b7e2c4c4fb41288b9482a7c1a7d1ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1343798021,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1343798021,
+    "wof:lastmodified":1536756852,
+    "wof:name":"Datawa",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.46539,
+    -8.46334,
+    126.46539,
+    -8.46334
+],
+  "geometry": {"coordinates":[126.46539,-8.46334],"type":"Point"}
+}

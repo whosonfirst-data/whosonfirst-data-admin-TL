@@ -1,0 +1,67 @@
+{
+  "id": 1260115327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.49139,-8.88056,126.49139,-8.88056",
+    "geom:latitude":-8.88056,
+    "geom:longitude":126.49139,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1304.0",
+    "gn:admin3_code":"130408.0",
+    "gn:asciiname":"Fatoalas",
+    "gn:country_code":"TL",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943674,
+    "gn:latitude":-8.88056,
+    "gn:longitude":126.49139,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Fatoalas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943674
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"6ee311fa8b0c693e86db0b4d81b9c020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1260115327,
+            "region_id":85678993
+        }
+    ],
+    "wof:id":1260115327,
+    "wof:lastmodified":1536942786,
+    "wof:name":"Fatoalas",
+    "wof:parent_id":85678993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.49139,
+    -8.88056,
+    126.49139,
+    -8.88056
+],
+  "geometry": {"coordinates":[126.49139,-8.88056],"type":"Point"}
+}

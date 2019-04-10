@@ -1,0 +1,67 @@
+{
+  "id": 1209749737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.14338,-9.40561,125.14338,-9.40561",
+    "geom:latitude":-9.40561,
+    "geom:longitude":125.14338,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50602.0",
+    "gn:asciiname":"Halimea Bawah",
+    "gn:country_code":"TL",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943795,
+    "gn:latitude":-9.40561,
+    "gn:longitude":125.14338,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Halimea Bawah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943795
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"d6cd12de0a188d4a8097707b6572a555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1209749737,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1209749737,
+    "wof:lastmodified":1536393333,
+    "wof:name":"Halimea Bawah",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.14338,
+    -9.40561,
+    125.14338,
+    -9.40561
+],
+  "geometry": {"coordinates":[125.14337999999999,-9.40561],"type":"Point"}
+}

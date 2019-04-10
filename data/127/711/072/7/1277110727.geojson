@@ -1,0 +1,67 @@
+{
+  "id": 1277110727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.36931,-9.10257,125.36931,-9.10257",
+    "geom:latitude":-9.10257,
+    "geom:longitude":125.36931,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40611.0",
+    "gn:asciiname":"Anapol",
+    "gn:country_code":"TL",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945141,
+    "gn:latitude":-9.10257,
+    "gn:longitude":125.36931,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Anapol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945141
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"e95517583276162ce799cd7eaab78b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1277110727,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1277110727,
+    "wof:lastmodified":1536727687,
+    "wof:name":"Anapol",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.36931,
+    -9.10257,
+    125.36931,
+    -9.10257
+],
+  "geometry": {"coordinates":[125.36931,-9.10257],"type":"Point"}
+}

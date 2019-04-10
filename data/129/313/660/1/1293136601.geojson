@@ -1,0 +1,67 @@
+{
+  "id": 1293136601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.55306,-8.61139,126.55306,-8.61139",
+    "geom:latitude":-8.61139,
+    "geom:longitude":126.55306,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"303.0",
+    "gn:admin3_code":"30303.0",
+    "gn:asciiname":"Lacolio",
+    "gn:country_code":"TL",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942868,
+    "gn:latitude":-8.61139,
+    "gn:longitude":126.55306,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Lacolio",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942868
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"112f2be85fc82f8b730667e6222d8953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1293136601,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1293136601,
+    "wof:lastmodified":1536796139,
+    "wof:name":"Lacolio",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.55306000000002,
+    -8.61139,
+    126.55306000000002,
+    -8.61139
+],
+  "geometry": {"coordinates":[126.55306000000002,-8.61139],"type":"Point"}
+}

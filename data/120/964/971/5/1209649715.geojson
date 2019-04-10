@@ -1,0 +1,63 @@
+{
+  "id": 1209649715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.01806,-8.33889,127.01806,-8.33889",
+    "geom:latitude":-8.33889,
+    "geom:longitude":127.01806,
+    "gn:admin1_code":"LA",
+    "gn:admin2_code":"902.0",
+    "gn:admin3_code":"90209.0",
+    "gn:asciiname":"Iraara",
+    "gn:country_code":"TL",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942984,
+    "gn:latitude":-8.33889,
+    "gn:longitude":127.01806,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Iraara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942984
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"9bbee530007dc019bc1c95345f4e00bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209649715
+        }
+    ],
+    "wof:id":1209649715,
+    "wof:lastmodified":1536280619,
+    "wof:name":"Iraara",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.01806,
+    -8.33889,
+    127.01806,
+    -8.33889
+],
+  "geometry": {"coordinates":[127.01806000000001,-8.33889],"type":"Point"}
+}

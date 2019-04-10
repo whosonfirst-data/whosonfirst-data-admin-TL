@@ -1,0 +1,67 @@
+{
+  "id": 1343395019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.32667,-9.46,124.32667,-9.46",
+    "geom:latitude":-9.46,
+    "geom:longitude":124.32667,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1204.0",
+    "gn:admin3_code":"120401.0",
+    "gn:asciiname":"Fauteso",
+    "gn:country_code":"TL",
+    "gn:dem":699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944455,
+    "gn:latitude":-9.46,
+    "gn:longitude":124.32667,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Fauteso",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944455
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"d424cf8d9a806a70f25122bfbb87787a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1343395019,
+            "region_id":85678953
+        }
+    ],
+    "wof:id":1343395019,
+    "wof:lastmodified":1536839670,
+    "wof:name":"Fauteso",
+    "wof:parent_id":85678953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.32667,
+    -9.46,
+    124.32667,
+    -9.46
+],
+  "geometry": {"coordinates":[124.32666999999999,-9.46],"type":"Point"}
+}

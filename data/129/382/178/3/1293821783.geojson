@@ -1,0 +1,67 @@
+{
+  "id": 1293821783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.40556,-8.93611,125.40556,-8.93611",
+    "geom:latitude":-8.93611,
+    "geom:longitude":125.40556,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"704.0",
+    "gn:admin3_code":"70411.0",
+    "gn:asciiname":"Malitada",
+    "gn:country_code":"TL",
+    "gn:dem":1268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944729,
+    "gn:latitude":-8.93611,
+    "gn:longitude":125.40556,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Malitada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944729
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"6e63e98a2c1f6a4260ec374972207c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1293821783,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1293821783,
+    "wof:lastmodified":1536802188,
+    "wof:name":"Malitada",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.40556,
+    -8.93611,
+    125.40556,
+    -8.93611
+],
+  "geometry": {"coordinates":[125.40555999999999,-8.93611],"type":"Point"}
+}

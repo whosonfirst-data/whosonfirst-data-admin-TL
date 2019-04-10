@@ -1,0 +1,71 @@
+{
+  "id": 1225986545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.37444,-8.95139,125.37444,-8.95139",
+    "geom:latitude":-8.95139,
+    "geom:longitude":125.37444,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"704.0",
+    "gn:admin3_code":"70406.0",
+    "gn:asciiname":"Batumano",
+    "gn:country_code":"TL",
+    "gn:dem":975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944723,
+    "gn:latitude":-8.95139,
+    "gn:longitude":125.37444,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Batumano",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batomano",
+        "Batumano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944723
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"d479df1839cf5c4e570c7f76e03a911d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1225986545,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1225986545,
+    "wof:lastmodified":1537706425,
+    "wof:name":"Batumano",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.37444,
+    -8.95139,
+    125.37444,
+    -8.95139
+],
+  "geometry": {"coordinates":[125.37444000000001,-8.95139],"type":"Point"}
+}

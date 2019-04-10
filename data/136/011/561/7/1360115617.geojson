@@ -1,0 +1,67 @@
+{
+  "id": 1360115617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.21056,-8.51056,126.21056,-8.51056",
+    "geom:latitude":-8.51056,
+    "geom:longitude":126.21056,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"305.0",
+    "gn:admin3_code":"30501.0",
+    "gn:asciiname":"Vemasse",
+    "gn:country_code":"TL",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943540,
+    "gn:latitude":-8.51056,
+    "gn:longitude":126.21056,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Vemasse",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943540
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"3c299548890485b939a5c376974b83d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1360115617,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1360115617,
+    "wof:lastmodified":1536901757,
+    "wof:name":"Vemasse",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.21056000000002,
+    -8.51056,
+    126.21056000000002,
+    -8.51056
+],
+  "geometry": {"coordinates":[126.21056000000002,-8.51056],"type":"Point"}
+}

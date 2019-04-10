@@ -1,0 +1,67 @@
+{
+  "id": 1343994091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.13639,-8.73167,125.13639,-8.73167",
+    "geom:latitude":-8.73167,
+    "geom:longitude":125.13639,
+    "gn:admin1_code":"LI",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"80304.0",
+    "gn:asciiname":"Lepalaka",
+    "gn:country_code":"TL",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943460,
+    "gn:latitude":-8.73167,
+    "gn:longitude":125.13639,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Lepalaka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943460
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"0d2fd5007278362cade4407f13ab18c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1343994091,
+            "region_id":85678951
+        }
+    ],
+    "wof:id":1343994091,
+    "wof:lastmodified":1536971013,
+    "wof:name":"Lepalaka",
+    "wof:parent_id":85678951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.13639,
+    -8.73167,
+    125.13639,
+    -8.73167
+],
+  "geometry": {"coordinates":[125.13639000000001,-8.73167],"type":"Point"}
+}

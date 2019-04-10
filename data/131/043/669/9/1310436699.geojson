@@ -1,0 +1,70 @@
+{
+  "id": 1310436699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.58508,-8.47791,126.58508,-8.47791",
+    "geom:latitude":-8.47791,
+    "geom:longitude":126.58508,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30202.0",
+    "gn:asciiname":"Kaikasalan",
+    "gn:country_code":"TL",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942700,
+    "gn:latitude":-8.47791,
+    "gn:longitude":126.58508,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Kaikasalan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaikasalari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942700
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"ab5c4ddd2d235b64fa034094d849e304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1310436699,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1310436699,
+    "wof:lastmodified":1537706424,
+    "wof:name":"Kaikasalan",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.58508,
+    -8.47791,
+    126.58508,
+    -8.47791
+],
+  "geometry": {"coordinates":[126.58508,-8.47791],"type":"Point"}
+}

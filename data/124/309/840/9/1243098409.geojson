@@ -1,0 +1,67 @@
+{
+  "id": 1243098409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.33492,-9.37824,124.33492,-9.37824",
+    "geom:latitude":-9.37824,
+    "geom:longitude":124.33492,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1203.0",
+    "gn:admin3_code":"120303.0",
+    "gn:asciiname":"Usi-Tacae",
+    "gn:country_code":"TL",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8617937,
+    "gn:latitude":-9.37824,
+    "gn:longitude":124.33492,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Usi-Tacae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8617937
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"19ea68263612d67932a301ca993db97b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243098409,
+            "region_id":85678953
+        }
+    ],
+    "wof:id":1243098409,
+    "wof:lastmodified":1536809794,
+    "wof:name":"Usi-Tacae",
+    "wof:parent_id":85678953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.33492,
+    -9.37824,
+    124.33492,
+    -9.37824
+],
+  "geometry": {"coordinates":[124.33492,-9.37824],"type":"Point"}
+}

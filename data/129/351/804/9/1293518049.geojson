@@ -1,0 +1,67 @@
+{
+  "id": 1293518049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.53589,-8.47504,126.53589,-8.47504",
+    "geom:latitude":-8.47504,
+    "geom:longitude":126.53589,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"30110.0",
+    "gn:asciiname":"Locoda",
+    "gn:country_code":"TL",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942675,
+    "gn:latitude":-8.47504,
+    "gn:longitude":126.53589,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Locoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942675
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"9fb6c3e3249dec9bd1834ab9ffa9b3fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1293518049,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1293518049,
+    "wof:lastmodified":1536742873,
+    "wof:name":"Locoda",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.53589,
+    -8.47504,
+    126.53589,
+    -8.47504
+],
+  "geometry": {"coordinates":[126.53588999999999,-8.47504],"type":"Point"}
+}

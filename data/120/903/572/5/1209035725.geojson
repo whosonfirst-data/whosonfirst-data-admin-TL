@@ -1,0 +1,63 @@
+{
+  "id": 1209035725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5125,-8.64611,126.5125,-8.64611",
+    "geom:latitude":-8.64611,
+    "geom:longitude":126.5125,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"303.0",
+    "gn:admin3_code":"30307.0",
+    "gn:asciiname":"Uaibu",
+    "gn:country_code":"TL",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943518,
+    "gn:latitude":-8.64611,
+    "gn:longitude":126.5125,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Uaibu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943518
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"15a24965e43e695adc45ebf3e15de024",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209035725
+        }
+    ],
+    "wof:id":1209035725,
+    "wof:lastmodified":1536299706,
+    "wof:name":"Uaibu",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5125,
+    -8.64611,
+    126.5125,
+    -8.64611
+],
+  "geometry": {"coordinates":[126.5125,-8.64611],"type":"Point"}
+}

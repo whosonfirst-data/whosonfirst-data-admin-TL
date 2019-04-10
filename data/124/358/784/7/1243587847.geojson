@@ -1,0 +1,67 @@
+{
+  "id": 1243587847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.65194,-8.62583,126.65194,-8.62583",
+    "geom:latitude":-8.62583,
+    "geom:longitude":126.65194,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"304.0",
+    "gn:admin3_code":"30403.0",
+    "gn:asciiname":"Maurubiassa",
+    "gn:country_code":"TL",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943354,
+    "gn:latitude":-8.62583,
+    "gn:longitude":126.65194,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Maurubiassa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943354
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"085723d583965b857a41d649a5add193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243587847,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1243587847,
+    "wof:lastmodified":1537095438,
+    "wof:name":"Maurubiassa",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.65194,
+    -8.62583,
+    126.65194,
+    -8.62583
+],
+  "geometry": {"coordinates":[126.65194,-8.62583],"type":"Point"}
+}

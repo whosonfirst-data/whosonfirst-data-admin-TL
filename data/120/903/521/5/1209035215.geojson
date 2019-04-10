@@ -1,0 +1,63 @@
+{
+  "id": 1209035215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.28333,-9.31666,125.28333,-9.31666",
+    "geom:latitude":-9.31666,
+    "geom:longitude":125.28333,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"505.0",
+    "gn:admin3_code":"50504.0",
+    "gn:asciiname":"Camnasa",
+    "gn:country_code":"TL",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643812,
+    "gn:latitude":-9.31666,
+    "gn:longitude":125.28333,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Camnasa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643812
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"22d3a094a4cea1924f208d84b16e49be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209035215
+        }
+    ],
+    "wof:id":1209035215,
+    "wof:lastmodified":1536299723,
+    "wof:name":"Camnasa",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.28333,
+    -9.31666,
+    125.28333,
+    -9.31666
+],
+  "geometry": {"coordinates":[125.28333000000001,-9.31666],"type":"Point"}
+}

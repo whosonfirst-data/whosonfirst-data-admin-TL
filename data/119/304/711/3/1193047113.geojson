@@ -1,0 +1,67 @@
+{
+  "id": 1193047113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.35878,-8.44926,126.35878,-8.44926",
+    "geom:latitude":-8.44926,
+    "geom:longitude":126.35878,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"30109.0",
+    "gn:asciiname":"Uaisa",
+    "gn:country_code":"TL",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942496,
+    "gn:latitude":-8.44926,
+    "gn:longitude":126.35878,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Uaisa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942496
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"82115211fe625814ae1d787a62753598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1193047113,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1193047113,
+    "wof:lastmodified":1536369640,
+    "wof:name":"Uaisa",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.35878,
+    -8.44926,
+    126.35878,
+    -8.44926
+],
+  "geometry": {"coordinates":[126.35878,-8.44926],"type":"Point"}
+}

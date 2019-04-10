@@ -1,0 +1,72 @@
+{
+  "id": 1226777897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.51667,-9.13333,125.51667,-9.13333",
+    "geom:latitude":-9.13333,
+    "geom:longitude":125.51667,
+    "gn:admin1_code":"AN",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10105.0",
+    "gn:asciiname":"Arcos",
+    "gn:country_code":"TL",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1651252,
+    "gn:latitude":-9.13333,
+    "gn:longitude":125.51667,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Arcos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cassa",
+        "Kassa",
+        "Arcos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1651252
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"77d8e57e510ca5107c4b2511d65ac3e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1226777897,
+            "region_id":85678963
+        }
+    ],
+    "wof:id":1226777897,
+    "wof:lastmodified":1537706424,
+    "wof:name":"Arcos",
+    "wof:parent_id":85678963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.51667,
+    -9.13333,
+    125.51667,
+    -9.13333
+],
+  "geometry": {"coordinates":[125.51667,-9.13333],"type":"Point"}
+}

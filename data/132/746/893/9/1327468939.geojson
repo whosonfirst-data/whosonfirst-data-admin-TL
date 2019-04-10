@@ -1,0 +1,67 @@
+{
+  "id": 1327468939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.78333,-8.91444,125.78333,-8.91444",
+    "geom:latitude":-8.91444,
+    "geom:longitude":125.78333,
+    "gn:admin1_code":"MF",
+    "gn:admin2_code":"1003.0",
+    "gn:admin3_code":"100301.0",
+    "gn:asciiname":"Bubususu",
+    "gn:country_code":"TL",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944523,
+    "gn:latitude":-8.91444,
+    "gn:longitude":125.78333,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Bubususu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944523
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"75e2a28089501f0d97c982f4791adada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1327468939,
+            "region_id":85678989
+        }
+    ],
+    "wof:id":1327468939,
+    "wof:lastmodified":1536626122,
+    "wof:name":"Bubususu",
+    "wof:parent_id":85678989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.78333,
+    -8.91444,
+    125.78333,
+    -8.91444
+],
+  "geometry": {"coordinates":[125.78333000000001,-8.91444],"type":"Point"}
+}

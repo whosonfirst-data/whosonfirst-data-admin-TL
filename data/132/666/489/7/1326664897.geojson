@@ -1,0 +1,67 @@
+{
+  "id": 1326664897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.62789,-8.60656,125.62789,-8.60656",
+    "geom:latitude":-8.60656,
+    "geom:longitude":125.62789,
+    "gn:admin1_code":"AL",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20402.0",
+    "gn:asciiname":"Lebuhua",
+    "gn:country_code":"TL",
+    "gn:dem":950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942649,
+    "gn:latitude":-8.60656,
+    "gn:longitude":125.62789,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Lebuhua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942649
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"f69c6a46def417fec9e2be450677e852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1326664897,
+            "region_id":85678957
+        }
+    ],
+    "wof:id":1326664897,
+    "wof:lastmodified":1536793077,
+    "wof:name":"Lebuhua",
+    "wof:parent_id":85678957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.62789,
+    -8.60656,
+    125.62789,
+    -8.60656
+],
+  "geometry": {"coordinates":[125.62788999999999,-8.60656],"type":"Point"}
+}

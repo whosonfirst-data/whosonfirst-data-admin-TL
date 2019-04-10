@@ -1,0 +1,67 @@
+{
+  "id": 1276695863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.37278,-8.64694,126.37278,-8.64694",
+    "geom:latitude":-8.64694,
+    "geom:longitude":126.37278,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"306.0",
+    "gn:admin3_code":"30607.0",
+    "gn:asciiname":"Uatolia",
+    "gn:country_code":"TL",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943197,
+    "gn:latitude":-8.64694,
+    "gn:longitude":126.37278,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Uatolia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943197
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"cd4f6f31a8d09a1402596f802c769ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276695863,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1276695863,
+    "wof:lastmodified":1536790271,
+    "wof:name":"Uatolia",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.37278,
+    -8.64694,
+    126.37278,
+    -8.64694
+],
+  "geometry": {"coordinates":[126.37278000000001,-8.64694],"type":"Point"}
+}

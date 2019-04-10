@@ -1,0 +1,80 @@
+{
+  "id": 1193054637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.325,-9.03194,125.325,-9.03194",
+    "geom:latitude":-9.03194,
+    "geom:longitude":125.325,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40610.0",
+    "gn:asciiname":"Bobonaro",
+    "gn:country_code":"TL",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945206,
+    "gn:latitude":-9.03194,
+    "gn:longitude":125.325,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Bobonaro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Distretto di Bobonaro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0431\u043e\u043d\u0430\u0440\u0443"
+    ],
+    "name:tet_x_preferred":[
+        "Bobonaru"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u535a\u7d0d\u7f85\u7e23"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945206,
+        "wk:page":"Bobonaro"
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"0e3084fa4bad71f17ab49c62c0bf5d35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1193054637,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1193054637,
+    "wof:lastmodified":1537706426,
+    "wof:name":"Bobonaro",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.325,
+    -9.03194,
+    125.325,
+    -9.03194
+],
+  "geometry": {"coordinates":[125.325,-9.03194],"type":"Point"}
+}

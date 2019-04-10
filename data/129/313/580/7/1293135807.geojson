@@ -1,0 +1,67 @@
+{
+  "id": 1293135807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.43905,-8.44236,126.43905,-8.44236",
+    "geom:latitude":-8.44236,
+    "geom:longitude":126.43905,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"30111.0",
+    "gn:asciiname":"Uaniuma",
+    "gn:country_code":"TL",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643669,
+    "gn:latitude":-8.44236,
+    "gn:longitude":126.43905,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Uaniuma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643669
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"a627c5002be5d1a85414188a3b66b79f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1293135807,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1293135807,
+    "wof:lastmodified":1536797236,
+    "wof:name":"Uaniuma",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.43905,
+    -8.44236,
+    126.43905,
+    -8.44236
+],
+  "geometry": {"coordinates":[126.43904999999999,-8.44236],"type":"Point"}
+}

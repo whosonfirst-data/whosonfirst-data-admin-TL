@@ -1,0 +1,61 @@
+{
+  "id": 1326561267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.80861,-8.40583,126.80861,-8.40583",
+    "geom:latitude":-8.40583,
+    "geom:longitude":126.80861,
+    "gn:admin1_code":"LA",
+    "gn:asciiname":"Lailaovemati",
+    "gn:country_code":"TL",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943020,
+    "gn:latitude":-8.40583,
+    "gn:longitude":126.80861,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Lailaovemati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943020
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"24aa112bdfb09b908e767fa58ec5e474",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326561267,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326561267,
+    "wof:lastmodified":1536942782,
+    "wof:name":"Lailaovemati",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.80861000000002,
+    -8.40583,
+    126.80861000000002,
+    -8.40583
+],
+  "geometry": {"coordinates":[126.80861000000002,-8.40583],"type":"Point"}
+}

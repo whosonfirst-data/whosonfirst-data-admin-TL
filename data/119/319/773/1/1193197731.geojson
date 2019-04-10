@@ -1,0 +1,67 @@
+{
+  "id": 1193197731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.41944,-8.88583,125.41944,-8.88583",
+    "geom:latitude":-8.88583,
+    "geom:longitude":125.41944,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"703.0",
+    "gn:admin3_code":"70305.0",
+    "gn:asciiname":"Duhoho",
+    "gn:country_code":"TL",
+    "gn:dem":1374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944775,
+    "gn:latitude":-8.88583,
+    "gn:longitude":125.41944,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Duhoho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944775
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"465a17411a7d8a9e7c3a805d36949f9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1193197731,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1193197731,
+    "wof:lastmodified":1536376108,
+    "wof:name":"Duhoho",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.41944,
+    -8.88583,
+    125.41944,
+    -8.88583
+],
+  "geometry": {"coordinates":[125.41943999999999,-8.88583],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309748699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.37111,-8.67528,126.37111,-8.67528",
+    "geom:latitude":-8.67528,
+    "geom:longitude":126.37111,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1302.0",
+    "gn:admin3_code":"130202.0",
+    "gn:asciiname":"Betecaiana",
+    "gn:country_code":"TL",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943190,
+    "gn:latitude":-8.67528,
+    "gn:longitude":126.37111,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Betecaiana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943190
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"981288ca6042e15e95ac156c8b4ab8c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1309748699,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1309748699,
+    "wof:lastmodified":1537012674,
+    "wof:name":"Betecaiana",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.37111000000002,
+    -8.67528,
+    126.37111000000002,
+    -8.67528
+],
+  "geometry": {"coordinates":[126.37111000000002,-8.67528],"type":"Point"}
+}

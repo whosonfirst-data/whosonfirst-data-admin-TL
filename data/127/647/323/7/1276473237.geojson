@@ -1,0 +1,65 @@
+{
+  "id": 1276473237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.45361,-9.27694,124.45361,-9.27694",
+    "geom:latitude":-9.27694,
+    "geom:longitude":124.45361,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120101.0",
+    "gn:asciiname":"Nipane",
+    "gn:country_code":"TL",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944296,
+    "gn:latitude":-9.27694,
+    "gn:longitude":124.45361,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Nipane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944296
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"ee38e9d31dd4ad5ee9630f441beaf848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1276473237,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276473237,
+    "wof:lastmodified":1537085531,
+    "wof:name":"Nipane",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.45361,
+    -9.27694,
+    124.45361,
+    -9.27694
+],
+  "geometry": {"coordinates":[124.45361,-9.27694],"type":"Point"}
+}

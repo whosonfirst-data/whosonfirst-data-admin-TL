@@ -1,0 +1,67 @@
+{
+  "id": 1343595737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.15389,-8.9175,125.15389,-8.9175",
+    "geom:latitude":-8.9175,
+    "geom:longitude":125.15389,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40103.0",
+    "gn:asciiname":"Alecou Lama",
+    "gn:country_code":"TL",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943884,
+    "gn:latitude":-8.9175,
+    "gn:longitude":125.15389,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Alecou Lama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943884
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"d5a9301d15135a4671ad56f6e6382b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1343595737,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1343595737,
+    "wof:lastmodified":1537046535,
+    "wof:name":"Alecou Lama",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.15389,
+    -8.9175,
+    125.15389,
+    -8.9175
+],
+  "geometry": {"coordinates":[125.15389,-8.9175],"type":"Point"}
+}

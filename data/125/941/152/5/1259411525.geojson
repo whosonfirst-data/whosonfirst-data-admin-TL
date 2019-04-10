@@ -1,0 +1,67 @@
+{
+  "id": 1259411525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.56973,-9.13569,125.56973,-9.13569",
+    "geom:latitude":-9.13569,
+    "geom:longitude":125.56973,
+    "gn:admin1_code":"AN",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10401.0",
+    "gn:asciiname":"Lese",
+    "gn:country_code":"TL",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945397,
+    "gn:latitude":-9.13569,
+    "gn:longitude":125.56973,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Lese",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945397
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"ec8b76c61fd9aa3efff57e719f0e9a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1259411525,
+            "region_id":85678963
+        }
+    ],
+    "wof:id":1259411525,
+    "wof:lastmodified":1536962168,
+    "wof:name":"Lese",
+    "wof:parent_id":85678963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.56973,
+    -9.13569,
+    125.56973,
+    -9.13569
+],
+  "geometry": {"coordinates":[125.56973000000001,-9.13569],"type":"Point"}
+}

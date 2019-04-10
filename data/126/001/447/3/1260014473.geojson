@@ -1,0 +1,67 @@
+{
+  "id": 1260014473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.21667,-8.83333,126.21667,-8.83333",
+    "geom:latitude":-8.83333,
+    "geom:longitude":126.21667,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1305.0",
+    "gn:admin3_code":"130504.0",
+    "gn:asciiname":"Rade Uman",
+    "gn:country_code":"TL",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629925,
+    "gn:latitude":-8.83333,
+    "gn:longitude":126.21667,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Rade Uman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629925
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"e92600833b4ba4f0fa543033ccd096c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1260014473,
+            "region_id":85678993
+        }
+    ],
+    "wof:id":1260014473,
+    "wof:lastmodified":1537084163,
+    "wof:name":"Rade Uman",
+    "wof:parent_id":85678993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.21667,
+    -8.83333,
+    126.21667,
+    -8.83333
+],
+  "geometry": {"coordinates":[126.21666999999999,-8.83333],"type":"Point"}
+}

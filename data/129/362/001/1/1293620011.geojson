@@ -1,0 +1,67 @@
+{
+  "id": 1293620011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.98677,-9.03514,125.98677,-9.03514",
+    "geom:latitude":-9.03514,
+    "geom:longitude":125.98677,
+    "gn:admin1_code":"MF",
+    "gn:admin2_code":"1003.0",
+    "gn:admin3_code":"100304.0",
+    "gn:asciiname":"Fatucahi",
+    "gn:country_code":"TL",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945550,
+    "gn:latitude":-9.03514,
+    "gn:longitude":125.98677,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Fatucahi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945550
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"6f9beb0138b5882cdd285eaaf1b5e320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1293620011,
+            "region_id":85678989
+        }
+    ],
+    "wof:id":1293620011,
+    "wof:lastmodified":1537090061,
+    "wof:name":"Fatucahi",
+    "wof:parent_id":85678989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.98677,
+    -9.03514,
+    125.98677,
+    -9.03514
+],
+  "geometry": {"coordinates":[125.98677000000001,-9.03514],"type":"Point"}
+}

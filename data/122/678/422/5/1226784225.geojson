@@ -1,0 +1,67 @@
+{
+  "id": 1226784225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.88389,-8.46694,126.88389,-8.46694",
+    "geom:latitude":-8.46694,
+    "geom:longitude":126.88389,
+    "gn:admin1_code":"LA",
+    "gn:admin2_code":"902.0",
+    "gn:admin3_code":"90207.0",
+    "gn:asciiname":"Lereado",
+    "gn:country_code":"TL",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942821,
+    "gn:latitude":-8.46694,
+    "gn:longitude":126.88389,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Lereado",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942821
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"c409e9aa3b3bf8e4dfc2045ccb5f52a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1226784225,
+            "region_id":85678997
+        }
+    ],
+    "wof:id":1226784225,
+    "wof:lastmodified":1536660151,
+    "wof:name":"Lereado",
+    "wof:parent_id":85678997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.88389,
+    -8.46694,
+    126.88389,
+    -8.46694
+],
+  "geometry": {"coordinates":[126.88388999999999,-8.46694],"type":"Point"}
+}

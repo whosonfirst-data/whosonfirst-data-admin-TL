@@ -1,0 +1,67 @@
+{
+  "id": 1310342429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.13256,-9.36947,125.13256,-9.36947",
+    "geom:latitude":-9.36947,
+    "geom:longitude":125.13256,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50602.0",
+    "gn:asciiname":"Morukren",
+    "gn:country_code":"TL",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643636,
+    "gn:latitude":-9.36947,
+    "gn:longitude":125.13256,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Morukren",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643636
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"2189d0d018a9499a2823e5d8f0e13e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1310342429,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1310342429,
+    "wof:lastmodified":1536654586,
+    "wof:name":"Morukren",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.13256,
+    -9.36947,
+    125.13256,
+    -9.36947
+],
+  "geometry": {"coordinates":[125.13256,-9.36947],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243002511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.36139,-8.64111,125.36139,-8.64111",
+    "geom:latitude":-8.64111,
+    "geom:longitude":125.36139,
+    "gn:admin1_code":"LI",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80105.0",
+    "gn:asciiname":"Asorlema",
+    "gn:country_code":"TL",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943586,
+    "gn:latitude":-8.64111,
+    "gn:longitude":125.36139,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Asorlema",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943586
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"d2ffa4e3a2940618e8708c3a8e0ea360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243002511,
+            "region_id":85678951
+        }
+    ],
+    "wof:id":1243002511,
+    "wof:lastmodified":1536948980,
+    "wof:name":"Asorlema",
+    "wof:parent_id":85678951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.36139,
+    -8.64111,
+    125.36139,
+    -8.64111
+],
+  "geometry": {"coordinates":[125.36139,-8.64111],"type":"Point"}
+}

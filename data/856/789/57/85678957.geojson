@@ -1,0 +1,321 @@
+{
+  "id": 85678957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.063501,
+    "geom:area_square_m":776144421.82498,
+    "geom:bbox":"125.43361535,-8.85563486076,125.805220575,-8.56500660557",
+    "geom:latitude":-8.708242,
+    "geom:longitude":125.622187,
+    "gn:population":45512,
+    "iso:country":"TL",
+    "label:eng_x_preferred_longname":[
+        "Aileu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-8.700443,
+    "lbl:longitude":125.603816,
+    "mps:latitude":-8.700443,
+    "mps:longitude":125.603816,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0627\u064a\u0644\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u0987\u09b2\u09bf\u0989 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0438\u043b\u0435\u0443"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u4f0a\u840a\u70cf\u7e23"
+    ],
+    "name:dan_x_preferred":[
+        "Aileu municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Aileu"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03ca\u03bb\u03ad\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Aileu"
+    ],
+    "name:eng_x_variant":[
+        "Aileu District",
+        "Aileu municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0626\u06cc\u0644\u0626\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Aileun alue"
+    ],
+    "name:fra_x_preferred":[
+        "Aileu"
+    ],
+    "name:fre_x_preferred":[
+        "Aileu"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10d8\u10da\u10d4\u10e3\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Gemeinde Aileu"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03ca\u03bb\u03ad\u03bf\u03c5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a86\u0aaf\u0abf\u0ab2\u0ac1 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05dc\u05d0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0907\u0932\u0942 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Kabupaten Aileu"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Aileu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a4\u30ec\u30a6\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c90\u0cb2\u0cc1 \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d8\u10da\u10d4\u10e3\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc77c\ub808\uc6b0 \ud604"
+    ],
+    "name:lav_x_preferred":[
+        "Aileu pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Ailo apskritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0906\u092f\u093f\u0932\u0941 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Aileu municipality"
+    ],
+    "name:nob_x_preferred":[
+        "Aileu"
+    ],
+    "name:per_x_preferred":[
+        "\u0622\u0626\u06cc\u0644\u0626\u0648"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0622\u0626\u06cc\u0644\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Aileu"
+    ],
+    "name:por_x_preferred":[
+        "Distrito Aileu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043b\u0435\u0443"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dba\u0dd2\u0dbd\u0dd4 \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Aileu"
+    ],
+    "name:swe_x_preferred":[
+        "Aileu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b90\u0bb2\u0bc7\u0baf\u0bc1 \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c0e\u0c2f\u0c3f\u0c32\u0c4d\u0c2f\u0c42 \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tet_x_preferred":[
+        "Distritu Aileu"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2d\u0e32\u0e25\u0e31\u0e27\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Aileu Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u043b\u0435\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Kabupaten Aileu"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0626\u0644\u06cc\u0648 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Aileu"
+    ],
+    "name:war_x_preferred":[
+        "Aileu"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u4f0a\u840a\u70cf\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"TLS",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"TLS-544",
+    "ne:adm1_code":"TLS-544",
+    "ne:admin":"East Timor",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"TP.AL",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"544",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"TT00",
+    "ne:fips_alt":"CG02",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"East Timor",
+    "ne:gn_a1_code":"TL.AL",
+    "ne:gn_id":"1651815",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Distrito Aileu",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"TT01",
+    "ne:gns_id":"-2669954",
+    "ne:gns_lang":"por",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Aileu, Distrito",
+    "ne:gns_region":"",
+    "ne:gu_a3":"TLS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"TL-",
+    "ne:iso_a2":"TL",
+    "ne:labelrank":"9",
+    "ne:latitude":"-8.69661000000",
+    "ne:longitude":"125.61900000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":4,
+    "ne:name":"Aileu",
+    "ne:name_alt":"Alieau",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"AL",
+    "ne:provnum_ne":"9",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"TLS",
+    "ne:sub_code":"",
+    "ne:type":"Distrik|Kabupaten",
+    "ne:type_en":"District|Regencies",
+    "ne:wikipedia":"",
+    "ne:woe_id":24549899,
+    "ne:woe_label":"Aileu, TL, East Timor",
+    "ne:woe_name":"Aileu",
+    "qs:a0":"East Timor",
+    "qs:a0_lc":"TL",
+    "qs:a1":"Aileu",
+    "qs:a1_lc":"TLS-544",
+    "qs:adm0":"East Timor",
+    "qs:adm0_a3":"TLS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District|Regencies",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-07-11",
+    "statoids:area_km":"729",
+    "statoids:area_mi":"282",
+    "statoids:as_of_date":"2010-07-11",
+    "statoids:capital":"Aileu",
+    "statoids:country":"TL",
+    "statoids:gec":"TT01",
+    "statoids:hasc":"TL.AL",
+    "statoids:iso":"AL",
+    "statoids:name":"Aileu",
+    "statoids:population":"45512",
+    "statoids:timezone":"+9",
+    "statoids:type":"district",
+    "unlc:subdivision":"TL-AL",
+    "wof:belongsto":[
+        102191569,
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"TT01",
+        "gn:id":1651815,
+        "gp:id":24549899,
+        "hasc:id":"TL.AL",
+        "iso:id":"TL-AL",
+        "qs:id":219961,
+        "unlc:id":"TL-AL",
+        "wd:id":"Q405100",
+        "wk:page":"Aileu District"
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"23d0b882b09f8c3c9f81fdbbd662c257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "region_id":85678957
+        }
+    ],
+    "wof:id":85678957,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "tet",
+        "por"
+    ],
+    "wof:lang_x_spoken":[
+        "tet",
+        "por"
+    ],
+    "wof:lastmodified":1553814828,
+    "wof:name":"Aileu",
+    "wof:parent_id":85632583,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":45512,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:shortcode":"AL",
+    "wof:subdivision":"TL-AL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.43361534996848,
+    -8.85563486076018,
+    125.80522057486974,
+    -8.56500660557032
+],
+  "geometry": {"coordinates":[[[125.76165734301208,-8.58340341613467],[125.763672722818,-8.58283497445444],[125.7575232279147,-8.61709644914174],[125.77157921780667,-8.64913583664952],[125.78563520679938,-8.67001311591252],[125.8011381366158,-8.70556650179259],[125.80522057486974,-8.75316049596006],[125.77902062390274,-8.75104176156799],[125.76227745973699,-8.75641611101469],[125.74429406122204,-8.77419280395469],[125.70791385304199,-8.79258961272041],[125.68827680902757,-8.79460499342565],[125.69137739535063,-8.77088551205668],[125.67442752471061,-8.76799163220801],[125.64507531057723,-8.77253915755603],[125.63267296798313,-8.78080738685139],[125.6202706235905,-8.7890756161467],[125.59877322760246,-8.79382984796905],[125.59215864470571,-8.81222665763408],[125.57190148306711,-8.83661793347079],[125.53924197793503,-8.84860686581413],[125.49231977823524,-8.85501474403515],[125.4879789566636,-8.85563486076018],[125.47971072826761,-8.84033863651882],[125.47516320202021,-8.8221485324288],[125.44829145658548,-8.80891936573607],[125.43361534996848,-8.79403655354406],[125.4499451029842,-8.77419280395469],[125.45759321465516,-8.75207529124162],[125.44167687368883,-8.73615894847666],[125.44415734328686,-8.7239633105583],[125.47640343636954,-8.7130079078886],[125.49790083235757,-8.70081226997024],[125.50947635265163,-8.67001311591252],[125.49934777228191,-8.64996265984882],[125.49474857009045,-8.64975595517313],[125.50120812425564,-8.63859384512978],[125.51185346856278,-8.62024871230818],[125.52105187384495,-8.62701832393645],[125.56032596187367,-8.62123056423911],[125.59215864470571,-8.6104818662451],[125.6161365093925,-8.60572763352343],[125.6500362488739,-8.58733082385839],[125.69592492069864,-8.56500660557032],[125.73437218642732,-8.56748707426902],[125.76165734301208,-8.58340341613467]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360027437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.42333,-8.70111,125.42333,-8.70111",
+    "geom:latitude":-8.70111,
+    "geom:longitude":125.42333,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"701.0",
+    "gn:admin3_code":"70103.0",
+    "gn:asciiname":"Marobo",
+    "gn:country_code":"TL",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943041,
+    "gn:latitude":-8.70111,
+    "gn:longitude":125.42333,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Marobo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943041
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"5a752c4ae6e71d9230e646064e9ee030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1360027437,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1360027437,
+    "wof:lastmodified":1537027642,
+    "wof:name":"Marobo",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.42333,
+    -8.70111,
+    125.42333,
+    -8.70111
+],
+  "geometry": {"coordinates":[125.42333000000001,-8.70111],"type":"Point"}
+}

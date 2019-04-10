@@ -1,0 +1,63 @@
+{
+  "id": 1209140713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.89028,-8.47778,125.89028,-8.47778",
+    "geom:latitude":-8.47778,
+    "geom:longitude":125.89028,
+    "gn:admin1_code":"MT",
+    "gn:admin2_code":"1103.0",
+    "gn:admin3_code":"110302.0",
+    "gn:asciiname":"Behau",
+    "gn:country_code":"TL",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944538,
+    "gn:latitude":-8.47778,
+    "gn:longitude":125.89028,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Behau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944538
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"26dd822ab4b77d68bfe12a7f1dfd0628",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209140713
+        }
+    ],
+    "wof:id":1209140713,
+    "wof:lastmodified":1536296514,
+    "wof:name":"Behau",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.89028,
+    -8.477780000000001,
+    125.89028,
+    -8.477780000000001
+],
+  "geometry": {"coordinates":[125.89028,-8.47778],"type":"Point"}
+}

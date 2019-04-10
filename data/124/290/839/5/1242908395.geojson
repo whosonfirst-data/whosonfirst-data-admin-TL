@@ -1,0 +1,67 @@
+{
+  "id": 1242908395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.97889,-8.50639,126.97889,-8.50639",
+    "geom:latitude":-8.50639,
+    "geom:longitude":126.97889,
+    "gn:admin1_code":"LA",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90102.0",
+    "gn:asciiname":"Laucepo Baru",
+    "gn:country_code":"TL",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945434,
+    "gn:latitude":-8.50639,
+    "gn:longitude":126.97889,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Laucepo Baru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945434
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"2d65f65b948d9a6ca321a6ff7a6b1b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1242908395,
+            "region_id":85678997
+        }
+    ],
+    "wof:id":1242908395,
+    "wof:lastmodified":1537081072,
+    "wof:name":"Laucepo Baru",
+    "wof:parent_id":85678997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.97889,
+    -8.50639,
+    126.97889,
+    -8.50639
+],
+  "geometry": {"coordinates":[126.97889000000001,-8.50639],"type":"Point"}
+}

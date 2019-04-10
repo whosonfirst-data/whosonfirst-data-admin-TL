@@ -1,0 +1,67 @@
+{
+  "id": 1276265409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.04861,-9.29722,125.04861,-9.29722",
+    "geom:latitude":-9.29722,
+    "geom:longitude":125.04861,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50203.0",
+    "gn:asciiname":"Makokon",
+    "gn:country_code":"TL",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944173,
+    "gn:latitude":-9.29722,
+    "gn:longitude":125.04861,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Makokon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944173
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"a73208019ab5ea6702cfc962a844fdb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276265409,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1276265409,
+    "wof:lastmodified":1536868451,
+    "wof:name":"Makokon",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.04861,
+    -9.29722,
+    125.04861,
+    -9.29722
+],
+  "geometry": {"coordinates":[125.04861,-9.29722],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209849481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.35139,-9.24972,124.35139,-9.24972",
+    "geom:latitude":-9.24972,
+    "geom:longitude":124.35139,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120106.0",
+    "gn:asciiname":"Oelila",
+    "gn:country_code":"TL",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944094,
+    "gn:latitude":-9.24972,
+    "gn:longitude":124.35139,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Oelila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944094
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"80c021b5472cde9ceb06be76281882b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1209849481,
+            "region_id":85678953
+        }
+    ],
+    "wof:id":1209849481,
+    "wof:lastmodified":1536389123,
+    "wof:name":"Oelila",
+    "wof:parent_id":85678953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.35139,
+    -9.24972,
+    124.35139,
+    -9.24972
+],
+  "geometry": {"coordinates":[124.35138999999999,-9.24972],"type":"Point"}
+}

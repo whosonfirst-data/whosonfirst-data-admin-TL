@@ -1,0 +1,67 @@
+{
+  "id": 1343594999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.06194,-8.84639,126.06194,-8.84639",
+    "geom:latitude":-8.84639,
+    "geom:longitude":126.06194,
+    "gn:admin1_code":"MT",
+    "gn:admin2_code":"1105.0",
+    "gn:admin3_code":"110504.0",
+    "gn:asciiname":"Kribasbarique",
+    "gn:country_code":"TL",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943620,
+    "gn:latitude":-8.84639,
+    "gn:longitude":126.06194,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Kribasbarique",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943620
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"e79c0c2294d546c39ca6a7138f65a9f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1343594999,
+            "region_id":85678985
+        }
+    ],
+    "wof:id":1343594999,
+    "wof:lastmodified":1537047573,
+    "wof:name":"Kribasbarique",
+    "wof:parent_id":85678985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.06194,
+    -8.84639,
+    126.06194,
+    -8.84639
+],
+  "geometry": {"coordinates":[126.06194000000001,-8.84639],"type":"Point"}
+}

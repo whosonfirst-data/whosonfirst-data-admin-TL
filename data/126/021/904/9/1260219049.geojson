@@ -1,0 +1,67 @@
+{
+  "id": 1260219049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.25722,-8.92583,125.25722,-8.92583",
+    "geom:latitude":-8.92583,
+    "geom:longitude":125.25722,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"402.0",
+    "gn:admin3_code":"40203.0",
+    "gn:asciiname":"Lesuaben",
+    "gn:country_code":"TL",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944920,
+    "gn:latitude":-8.92583,
+    "gn:longitude":125.25722,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Lesuaben",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944920
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"d3bddea9e6d384d2369e32283398b7a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1260219049,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1260219049,
+    "wof:lastmodified":1536799462,
+    "wof:name":"Lesuaben",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.25722,
+    -8.92583,
+    125.25722,
+    -8.92583
+],
+  "geometry": {"coordinates":[125.25722,-8.92583],"type":"Point"}
+}

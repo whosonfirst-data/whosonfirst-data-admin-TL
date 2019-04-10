@@ -1,0 +1,67 @@
+{
+  "id": 1293619805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1,-8.58528,127.1,-8.58528",
+    "geom:latitude":-8.58528,
+    "geom:longitude":127.1,
+    "gn:admin1_code":"LA",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90106.0",
+    "gn:asciiname":"Paio",
+    "gn:country_code":"TL",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945281,
+    "gn:latitude":-8.58528,
+    "gn:longitude":127.1,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Paio",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945281
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"76bfb18422ac38912e84c1f6e83e482d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1293619805,
+            "region_id":85678997
+        }
+    ],
+    "wof:id":1293619805,
+    "wof:lastmodified":1537090367,
+    "wof:name":"Paio",
+    "wof:parent_id":85678997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1,
+    -8.58528,
+    127.1,
+    -8.58528
+],
+  "geometry": {"coordinates":[127.09999999999999,-8.58528],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276482157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.18556,-9.25806,125.18556,-9.25806",
+    "geom:latitude":-9.25806,
+    "geom:longitude":125.18556,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"50304.0",
+    "gn:asciiname":"Lawakau",
+    "gn:country_code":"TL",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944028,
+    "gn:latitude":-9.25806,
+    "gn:longitude":125.18556,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Lawakau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944028
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"1b370338c5bdb935afead6ab9e573c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276482157,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1276482157,
+    "wof:lastmodified":1537073328,
+    "wof:name":"Lawakau",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.18556,
+    -9.25806,
+    125.18556,
+    -9.25806
+],
+  "geometry": {"coordinates":[125.18556,-9.25806],"type":"Point"}
+}

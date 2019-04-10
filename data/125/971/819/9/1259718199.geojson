@@ -1,0 +1,67 @@
+{
+  "id": 1259718199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.99972,-8.51778,126.99972,-8.51778",
+    "geom:latitude":-8.51778,
+    "geom:longitude":126.99972,
+    "gn:admin1_code":"LA",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90102.0",
+    "gn:asciiname":"Sidodadi",
+    "gn:country_code":"TL",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945322,
+    "gn:latitude":-8.51778,
+    "gn:longitude":126.99972,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Sidodadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945322
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"463b5d1383a7f6d67d3e3a91c3bd9b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1259718199,
+            "region_id":85678997
+        }
+    ],
+    "wof:id":1259718199,
+    "wof:lastmodified":1537016350,
+    "wof:name":"Sidodadi",
+    "wof:parent_id":85678997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.99972,
+    -8.51778,
+    126.99972,
+    -8.51778
+],
+  "geometry": {"coordinates":[126.99972,-8.51778],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276159379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.70583,-8.51778,126.70583,-8.51778",
+    "geom:latitude":-8.51778,
+    "geom:longitude":126.70583,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30205.0",
+    "gn:asciiname":"Uaraba",
+    "gn:country_code":"TL",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1946046,
+    "gn:latitude":-8.51778,
+    "gn:longitude":126.70583,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Uaraba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1946046
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"b513812d86f6d066a8c29876ff0c97d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276159379,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1276159379,
+    "wof:lastmodified":1537011163,
+    "wof:name":"Uaraba",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.70583,
+    -8.51778,
+    126.70583,
+    -8.51778
+],
+  "geometry": {"coordinates":[126.70583000000001,-8.51778],"type":"Point"}
+}

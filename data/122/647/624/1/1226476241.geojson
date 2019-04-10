@@ -1,0 +1,68 @@
+{
+  "id": 1226476241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.38111,-8.5825,126.38111,-8.5825",
+    "geom:latitude":-8.5825,
+    "geom:longitude":126.38111,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"306.0",
+    "gn:admin3_code":"30606.0",
+    "gn:asciiname":"Venilale",
+    "gn:country_code":"TL",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942934,
+    "gn:latitude":-8.5825,
+    "gn:longitude":126.38111,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Venilale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942934,
+        "wk:page":"Venilale"
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"f478559d2699a54bb608f6f42b20f039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1226476241,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1226476241,
+    "wof:lastmodified":1537574437,
+    "wof:name":"Venilale",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.38111,
+    -8.5825,
+    126.38111,
+    -8.5825
+],
+  "geometry": {"coordinates":[126.38111000000001,-8.5825],"type":"Point"}
+}

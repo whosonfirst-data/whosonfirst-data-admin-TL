@@ -1,0 +1,67 @@
+{
+  "id": 1276795987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.70639,-8.53833,126.70639,-8.53833",
+    "geom:latitude":-8.53833,
+    "geom:longitude":126.70639,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30201.0",
+    "gn:asciiname":"Siguilaba",
+    "gn:country_code":"TL",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1946053,
+    "gn:latitude":-8.53833,
+    "gn:longitude":126.70639,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Siguilaba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1946053
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"85933c96b2508e510887fa23beea7820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276795987,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1276795987,
+    "wof:lastmodified":1536656160,
+    "wof:name":"Siguilaba",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.70638999999998,
+    -8.53833,
+    126.70638999999998,
+    -8.53833
+],
+  "geometry": {"coordinates":[126.70638999999998,-8.53833],"type":"Point"}
+}

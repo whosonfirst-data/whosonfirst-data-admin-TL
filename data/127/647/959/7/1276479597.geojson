@@ -1,0 +1,67 @@
+{
+  "id": 1276479597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.18228,-9.38286,125.18228,-9.38286",
+    "geom:latitude":-9.38286,
+    "geom:longitude":125.18228,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50603.0",
+    "gn:asciiname":"Wesukabi",
+    "gn:country_code":"TL",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643294,
+    "gn:latitude":-9.38286,
+    "gn:longitude":125.18228,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Wesukabi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643294
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"5054047cd6bda17c550bfee11c6cc948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276479597,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1276479597,
+    "wof:lastmodified":1537076872,
+    "wof:name":"Wesukabi",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.18228,
+    -9.38286,
+    125.18228,
+    -9.38286
+],
+  "geometry": {"coordinates":[125.18228000000001,-9.38286],"type":"Point"}
+}

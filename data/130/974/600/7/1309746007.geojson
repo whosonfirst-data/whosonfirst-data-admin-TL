@@ -1,0 +1,67 @@
+{
+  "id": 1309746007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.6784,-8.53408,125.6784,-8.53408",
+    "geom:latitude":-8.53408,
+    "geom:longitude":125.6784,
+    "gn:admin1_code":"DI",
+    "gn:admin2_code":"606.0",
+    "gn:admin3_code":"60604.0",
+    "gn:asciiname":"Bemanotolu",
+    "gn:country_code":"TL",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942706,
+    "gn:latitude":-8.53408,
+    "gn:longitude":125.6784,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Bemanotolu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942706
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"2ef99b9ccc1de20f8566a410aae18c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1309746007,
+            "region_id":85678943
+        }
+    ],
+    "wof:id":1309746007,
+    "wof:lastmodified":1537016698,
+    "wof:name":"Bemanotolu",
+    "wof:parent_id":85678943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.6784,
+    -8.53408,
+    125.6784,
+    -8.53408
+],
+  "geometry": {"coordinates":[125.6784,-8.53408],"type":"Point"}
+}

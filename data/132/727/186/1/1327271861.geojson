@@ -1,0 +1,67 @@
+{
+  "id": 1327271861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.39889,-8.91083,125.39889,-8.91083",
+    "geom:latitude":-8.91083,
+    "geom:longitude":125.39889,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"704.0",
+    "gn:admin3_code":"70403.0",
+    "gn:asciiname":"Lauabe",
+    "gn:country_code":"TL",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944745,
+    "gn:latitude":-8.91083,
+    "gn:longitude":125.39889,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Lauabe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944745
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"735cfab11bc4f6192d2c0fe2bc761ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1327271861,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1327271861,
+    "wof:lastmodified":1536913000,
+    "wof:name":"Lauabe",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.39889,
+    -8.91083,
+    125.39889,
+    -8.91083
+],
+  "geometry": {"coordinates":[125.39888999999999,-8.91083],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310140321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.69083,-8.51944,126.69083,-8.51944",
+    "geom:latitude":-8.51944,
+    "geom:longitude":126.69083,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30205.0",
+    "gn:asciiname":"Selegoa",
+    "gn:country_code":"TL",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1946068,
+    "gn:latitude":-8.51944,
+    "gn:longitude":126.69083,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Selegoa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1946068
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"5b751887b4ab021e6b234cadf012535d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1310140321,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1310140321,
+    "wof:lastmodified":1536946669,
+    "wof:name":"Selegoa",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.69083,
+    -8.51944,
+    126.69083,
+    -8.51944
+],
+  "geometry": {"coordinates":[126.69083000000001,-8.51944],"type":"Point"}
+}

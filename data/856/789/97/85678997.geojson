@@ -1,0 +1,330 @@
+{
+  "id": 85678997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.15322,
+    "geom:area_square_m":1873720274.369238,
+    "geom:bbox":"126.688196544,-8.76098944331,127.313243035,-8.30901458066",
+    "geom:latitude":-8.512615,
+    "geom:longitude":126.969449,
+    "gn:population":60218,
+    "iso:country":"TL",
+    "label:eng_x_preferred_longname":[
+        "Lautem District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-8.497526,
+    "lbl:longitude":126.969414,
+    "mps:latitude":-8.497526,
+    "mps:longitude":126.969414,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0644\u0648\u062a\u064a\u0645"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u099f\u09bf\u09ae \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u0443\u0442\u0435\u043c"
+    ],
+    "name:chi_x_preferred":[
+        "\u52de\u6ed5\u7e23"
+    ],
+    "name:dan_x_preferred":[
+        "Laut\u00e9m Municipality"
+    ],
+    "name:deu_x_preferred":[
+        "Laut\u00e9m"
+    ],
+    "name:dut_x_preferred":[
+        "Laut\u00e9m"
+    ],
+    "name:eng_x_preferred":[
+        "Lautem"
+    ],
+    "name:eng_x_variant":[
+        "Laut\u00e9m",
+        "Laut\u00e9m District",
+        "Laut\u00e9m",
+        "Laut\u00e9m Municipality"
+    ],
+    "name:fin_x_preferred":[
+        "Lautemin alue"
+    ],
+    "name:fra_x_preferred":[
+        "Laut\u00e9m"
+    ],
+    "name:fre_x_preferred":[
+        "Laut\u00e9m"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10d0\u10e3\u10e2\u10d4\u10dc\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Laut\u00e9m"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b1\u03bf\u03c5\u03c4\u03ad\u03bc"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0acb\u0a9f\u0aae \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05d5\u05d8\u05dd"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u094c\u091f\u0947\u092e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Laut\u00e9m"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Lautem"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Laut\u00e9m"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30a6\u30c6\u30f3\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0ccc\u0c9f\u0cc6\u0cae\u0ccd \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0\u10e3\u10e2\u10d4\u10dc\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc6b0\ud15c \ud604"
+    ],
+    "name:lav_x_preferred":[
+        "Lautenas pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Lautemo apskritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u094c\u091f\u0947\u092e \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Lautem"
+    ],
+    "name:msa_x_preferred":[
+        "Lautem"
+    ],
+    "name:nob_x_preferred":[
+        "Laut\u00e9m"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0644\u0627\u0624\u0679\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Laut\u00e9m"
+    ],
+    "name:por_x_preferred":[
+        "Distrito Laut\u00e9m"
+    ],
+    "name:por_x_variant":[
+        "Circunscri\u00e7\u00e3o Civil de Laut\u00e9m",
+        "Laut\u00e9m"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0443\u0442\u0435\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dde\u0da7\u0dd9\u0db8\u0dca \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Lautem"
+    ],
+    "name:swe_x_preferred":[
+        "Laut\u00e9m"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c3e\u0c1f\u0c46\u0c2e\u0c4d \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tet_x_preferred":[
+        "Distritu Laut\u00e9m"
+    ],
+    "name:tet_x_variant":[
+        "Lautein"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e25\u0e31\u0e27\u0e40\u0e17\u0e21"
+    ],
+    "name:tur_x_preferred":[
+        "Laut\u00e9m Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0443\u0442\u0435\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Kabupaten Lautem"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0648\u062a\u06cc\u0645 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Laut\u00e9m"
+    ],
+    "name:war_x_preferred":[
+        "Laut\u00e9m"
+    ],
+    "name:zho_x_preferred":[
+        "\u52de\u6ed5\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"TLS",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"TLS-553",
+    "ne:adm1_code":"TLS-553",
+    "ne:admin":"East Timor",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"TP.BT",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"553",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"ID28",
+    "ne:fips_alt":"CG02",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"East Timor",
+    "ne:gn_a1_code":"TL.LA",
+    "ne:gn_id":"1638294",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Distrito Lautem",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"TT08",
+    "ne:gns_id":"-2684673",
+    "ne:gns_lang":"por",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Lautem, Distrito",
+    "ne:gns_region":"",
+    "ne:gu_a3":"TLS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"TL-",
+    "ne:iso_a2":"TL",
+    "ne:labelrank":"9",
+    "ne:latitude":"-8.50164000000",
+    "ne:longitude":"127.00100000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":4,
+    "ne:name":"Lautem",
+    "ne:name_alt":"",
+    "ne:name_len":6,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"BT",
+    "ne:provnum_ne":"5",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"TLS",
+    "ne:sub_code":"",
+    "ne:type":"Distrik|Kabupaten",
+    "ne:type_en":"District|Regencies",
+    "ne:wikipedia":"",
+    "ne:woe_id":24549904,
+    "ne:woe_label":"Lautem, TL, East Timor",
+    "ne:woe_name":"Lautem",
+    "qs:a0":"East Timor",
+    "qs:a0_lc":"TL",
+    "qs:a1":"Lautem",
+    "qs:a1_lc":"TLS-553",
+    "qs:adm0":"East Timor",
+    "qs:adm0_a3":"TLS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District|Regencies",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-07-11",
+    "statoids:area_km":"1,702",
+    "statoids:area_mi":"657",
+    "statoids:as_of_date":"2010-07-11",
+    "statoids:capital":"Los Palos",
+    "statoids:country":"TL",
+    "statoids:gec":"TT08",
+    "statoids:hasc":"TL.BT",
+    "statoids:iso":"LA",
+    "statoids:name":"Laut\u00e9m",
+    "statoids:population":"60218",
+    "statoids:timezone":"+9",
+    "statoids:type":"district",
+    "unlc:subdivision":"TL-LA",
+    "wof:belongsto":[
+        102191569,
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"TT08",
+        "gn:id":1638294,
+        "gp:id":24549904,
+        "hasc:id":"TL.BT",
+        "iso:id":"TL-LA",
+        "qs:id":354743,
+        "unlc:id":"TL-LA",
+        "wd:id":"Q686554",
+        "wk:page":"Laut\u00e9m District"
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"3fbc950ff843f2bad00cf194ed6e97e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "region_id":85678997
+        }
+    ],
+    "wof:id":85678997,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "tet",
+        "por"
+    ],
+    "wof:lang_x_spoken":[
+        "tet",
+        "por"
+    ],
+    "wof:lastmodified":1553814828,
+    "wof:name":"Lautem",
+    "wof:parent_id":85632583,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":60218,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:shortcode":"BT",
+    "wof:subdivision":"TL-LA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.68819654433514,
+    -8.76098944330812,
+    127.3132430353379,
+    -8.3090145806583
+],
+  "geometry": {"coordinates":[[[126.72836847682379,-8.76098944330812],[126.72836836171064,-8.76096363726202],[126.72821333207969,-8.72623707368194],[126.73544803260074,-8.70122568112026],[126.73896203007371,-8.69647144929792],[126.75136437356707,-8.67993499070718],[126.77224165283008,-8.65016936542384],[126.79932010294044,-8.63032561583447],[126.81172244733318,-8.62019703456542],[126.80428104123712,-8.60386728244907],[126.77658247260308,-8.57596200913935],[126.74144249877236,-8.54433603278164],[126.72635298100533,-8.52965992616464],[126.73482791587571,-8.51622405389691],[126.73751509014937,-8.49927418415621],[126.72159874918304,-8.48976571961225],[126.71064334471464,-8.4783969048932],[126.70340864509296,-8.45338551143215],[126.68821577363906,-8.4312163218757],[126.68819654433514,-8.43119189718828],[126.69312584718011,-8.42986419028011],[126.71208743648606,-8.41659921708015],[126.72022545743903,-8.41285572701014],[126.73129316474785,-8.41277434645889],[126.74830162891715,-8.41806405980844],[126.7555444674033,-8.41912200247839],[126.79932701872701,-8.41008879995809],[126.84213300883141,-8.39104583100027],[126.94459069120751,-8.31861744613821],[126.96705162892954,-8.3090145806583],[126.98389733199633,-8.31292083093155],[126.99927819143545,-8.32415129934293],[127.06959069095774,-8.35759856562129],[127.08887779977067,-8.3627255187676],[127.11361738393521,-8.36500416431068],[127.13795006624264,-8.3627255187676],[127.15552819067352,-8.35418059685702],[127.18628991045102,-8.33245208049908],[127.1931258470803,-8.32976653399828],[127.20606529987379,-8.33261484160164],[127.21094811316493,-8.33904387817239],[127.21363365966567,-8.34783294083752],[127.22038821754222,-8.35759856562129],[127.24154707094067,-8.37021249800836],[127.28687584734257,-8.38241952853838],[127.30600019595238,-8.39519622202801],[127.3132430353379,-8.41521575310446],[127.30323326890027,-8.43230559692569],[127.23015384232599,-8.48658619529664],[127.18433678531449,-8.53232187265627],[127.09262128984074,-8.60312265368748],[127.02800540552516,-8.66545989335935],[127.02116946709725,-8.6757137996521],[127.00928795697371,-8.67669036267006],[126.93921959730665,-8.69215260176111],[126.87484785194692,-8.73845794028165],[126.84620201930784,-8.75253671629639],[126.72836847682379,-8.76098944330812]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209162665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.42583,-8.67194,125.42583,-8.67194",
+    "geom:latitude":-8.67194,
+    "geom:longitude":125.42583,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"701.0",
+    "gn:admin3_code":"70101.0",
+    "gn:asciiname":"Railaco",
+    "gn:country_code":"TL",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1630231,
+    "gn:latitude":-8.67194,
+    "gn:longitude":125.42583,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Railaco",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liu",
+        "Railaco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1630231
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"240de15f844fe1577882cae6700ba074",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209162665
+        }
+    ],
+    "wof:id":1209162665,
+    "wof:lastmodified":1537706418,
+    "wof:name":"Railaco",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.42583,
+    -8.67194,
+    125.42583,
+    -8.67194
+],
+  "geometry": {"coordinates":[125.42583,-8.67194],"type":"Point"}
+}

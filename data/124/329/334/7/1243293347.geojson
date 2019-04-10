@@ -1,0 +1,67 @@
+{
+  "id": 1243293347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.26667,-8.96667,126.26667,-8.96667",
+    "geom:latitude":-8.96667,
+    "geom:longitude":126.26667,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1304.0",
+    "gn:admin3_code":"130404.0",
+    "gn:asciiname":"Bibileo",
+    "gn:country_code":"TL",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629924,
+    "gn:latitude":-8.96667,
+    "gn:longitude":126.26667,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Bibileo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629924
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"29499f1647319b0ea0b26f85c80b982f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243293347,
+            "region_id":85678993
+        }
+    ],
+    "wof:id":1243293347,
+    "wof:lastmodified":1537025163,
+    "wof:name":"Bibileo",
+    "wof:parent_id":85678993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.26667,
+    -8.96667,
+    126.26667,
+    -8.96667
+],
+  "geometry": {"coordinates":[126.26667,-8.96667],"type":"Point"}
+}

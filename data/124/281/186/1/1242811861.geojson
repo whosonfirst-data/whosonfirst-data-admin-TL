@@ -1,0 +1,72 @@
+{
+  "id": 1242811861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.95444,-8.95694,124.95444,-8.95694",
+    "geom:latitude":-8.95694,
+    "geom:longitude":124.95444,
+    "gn:admin1_code":"BO",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40306.0",
+    "gn:asciiname":"Motaain",
+    "gn:country_code":"TL",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1634977,
+    "gn:latitude":-8.95694,
+    "gn:longitude":124.95444,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Motaain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Motaaln",
+        "Motaain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1634977,
+        "wk:page":"Mota%27ain"
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"60f8111fc7fadb9f320972af08171beb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1242811861,
+            "region_id":85678971
+        }
+    ],
+    "wof:id":1242811861,
+    "wof:lastmodified":1537706419,
+    "wof:name":"Motaain",
+    "wof:parent_id":85678971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.95444,
+    -8.95694,
+    124.95444,
+    -8.95694
+],
+  "geometry": {"coordinates":[124.95444000000001,-8.95694],"type":"Point"}
+}

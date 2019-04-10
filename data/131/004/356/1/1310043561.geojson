@@ -1,0 +1,67 @@
+{
+  "id": 1310043561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.41972,-8.67694,125.41972,-8.67694",
+    "geom:latitude":-8.67694,
+    "geom:longitude":125.41972,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"701.0",
+    "gn:admin3_code":"70101.0",
+    "gn:asciiname":"Kamal Raihei",
+    "gn:country_code":"TL",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943056,
+    "gn:latitude":-8.67694,
+    "gn:longitude":125.41972,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Kamal Raihei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943056
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"1a2a88bd1935431679f328404b1b0a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1310043561,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1310043561,
+    "wof:lastmodified":1537082557,
+    "wof:name":"Kamal Raihei",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.41972,
+    -8.67694,
+    125.41972,
+    -8.67694
+],
+  "geometry": {"coordinates":[125.41972,-8.67694],"type":"Point"}
+}

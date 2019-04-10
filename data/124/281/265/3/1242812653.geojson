@@ -1,0 +1,67 @@
+{
+  "id": 1242812653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.17188,-9.39386,125.17188,-9.39386",
+    "geom:latitude":-9.39386,
+    "geom:longitude":125.17188,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50603.0",
+    "gn:asciiname":"Onularan",
+    "gn:country_code":"TL",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643642,
+    "gn:latitude":-9.39386,
+    "gn:longitude":125.17188,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Onularan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643642
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"d3cb7a449903f6eebfeda7af49fc5dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1242812653,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1242812653,
+    "wof:lastmodified":1536725528,
+    "wof:name":"Onularan",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.17188,
+    -9.39386,
+    125.17188,
+    -9.39386
+],
+  "geometry": {"coordinates":[125.17188,-9.39386],"type":"Point"}
+}

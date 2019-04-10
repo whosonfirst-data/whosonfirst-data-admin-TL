@@ -1,0 +1,67 @@
+{
+  "id": 1343296725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.34333,-9.23778,124.34333,-9.23778",
+    "geom:latitude":-9.23778,
+    "geom:longitude":124.34333,
+    "gn:admin1_code":"OE",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120106.0",
+    "gn:asciiname":"Fatusene",
+    "gn:country_code":"TL",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944099,
+    "gn:latitude":-9.23778,
+    "gn:longitude":124.34333,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Fatusene",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944099
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"109105172aefc37124a6ab609d1f571e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1343296725,
+            "region_id":85678953
+        }
+    ],
+    "wof:id":1343296725,
+    "wof:lastmodified":1536981833,
+    "wof:name":"Fatusene",
+    "wof:parent_id":85678953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.34333,
+    -9.23778,
+    124.34333,
+    -9.23778
+],
+  "geometry": {"coordinates":[124.34332999999999,-9.23778],"type":"Point"}
+}

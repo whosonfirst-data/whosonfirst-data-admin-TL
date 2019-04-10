@@ -1,0 +1,67 @@
+{
+  "id": 1243485121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.48333,-9.2,125.48333,-9.2",
+    "geom:latitude":-9.2,
+    "geom:longitude":125.48333,
+    "gn:admin1_code":"CO",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50701.0",
+    "gn:asciiname":"Beilaco",
+    "gn:country_code":"TL",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629355,
+    "gn:latitude":-9.2,
+    "gn:longitude":125.48333,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Beilaco",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629355
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"1dd86e44f0da728f9232cca699ffc46d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1243485121,
+            "region_id":85678975
+        }
+    ],
+    "wof:id":1243485121,
+    "wof:lastmodified":1536749729,
+    "wof:name":"Beilaco",
+    "wof:parent_id":85678975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.48333,
+    -9.2,
+    125.48333,
+    -9.2
+],
+  "geometry": {"coordinates":[125.48333,-9.2],"type":"Point"}
+}

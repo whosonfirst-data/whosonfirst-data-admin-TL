@@ -1,0 +1,63 @@
+{
+  "id": 1209244373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.35806,-8.6075,125.35806,-8.6075",
+    "geom:latitude":-8.6075,
+    "geom:longitude":125.35806,
+    "gn:admin1_code":"LI",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80106.0",
+    "gn:asciiname":"Kamalehou",
+    "gn:country_code":"TL",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943374,
+    "gn:latitude":-8.6075,
+    "gn:longitude":125.35806,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Kamalehou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943374
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"6ed16c70a228e389da3028a3b578fb9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209244373
+        }
+    ],
+    "wof:id":1209244373,
+    "wof:lastmodified":1536293215,
+    "wof:name":"Kamalehou",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.35806,
+    -8.6075,
+    125.35806,
+    -8.6075
+],
+  "geometry": {"coordinates":[125.35805999999999,-8.6075],"type":"Point"}
+}

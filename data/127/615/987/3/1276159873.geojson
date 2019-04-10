@@ -1,0 +1,67 @@
+{
+  "id": 1276159873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.65,-8.63333,126.65,-8.63333",
+    "geom:latitude":-8.63333,
+    "geom:longitude":126.65,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"304.0",
+    "gn:admin3_code":"30402.0",
+    "gn:asciiname":"Alawa Craik",
+    "gn:country_code":"TL",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643845,
+    "gn:latitude":-8.63333,
+    "gn:longitude":126.65,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Alawa Craik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643845
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"a3571df2171b6d69872245a70409b8cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276159873,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1276159873,
+    "wof:lastmodified":1537010506,
+    "wof:name":"Alawa Craik",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.65,
+    -8.63333,
+    126.65,
+    -8.63333
+],
+  "geometry": {"coordinates":[126.65000000000001,-8.63333],"type":"Point"}
+}

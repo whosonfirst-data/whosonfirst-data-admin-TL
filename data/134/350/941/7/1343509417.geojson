@@ -1,0 +1,67 @@
+{
+  "id": 1343509417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.5,-8.66667,125.5,-8.66667",
+    "geom:latitude":-8.66667,
+    "geom:longitude":125.5,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"701.0",
+    "gn:admin3_code":"70108.0",
+    "gn:asciiname":"Deleso",
+    "gn:country_code":"TL",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629117,
+    "gn:latitude":-8.66667,
+    "gn:longitude":125.5,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Deleso",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629117
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"c433f4888f1435cb903c57d1393ad494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1343509417,
+            "region_id":85678979
+        }
+    ],
+    "wof:id":1343509417,
+    "wof:lastmodified":1536675642,
+    "wof:name":"Deleso",
+    "wof:parent_id":85678979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.5,
+    -8.66667,
+    125.5,
+    -8.66667
+],
+  "geometry": {"coordinates":[125.5,-8.66667],"type":"Point"}
+}

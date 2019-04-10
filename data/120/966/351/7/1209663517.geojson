@@ -1,0 +1,63 @@
+{
+  "id": 1209663517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.42972,-8.80167,125.42972,-8.80167",
+    "geom:latitude":-8.80167,
+    "geom:longitude":125.42972,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"703.0",
+    "gn:admin3_code":"70306.0",
+    "gn:asciiname":"Goulolo",
+    "gn:country_code":"TL",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944605,
+    "gn:latitude":-8.80167,
+    "gn:longitude":125.42972,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Goulolo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944605
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"2d08055c7eae1d76d1b48431c69a8102",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209663517
+        }
+    ],
+    "wof:id":1209663517,
+    "wof:lastmodified":1536280175,
+    "wof:name":"Goulolo",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.42972,
+    -8.80167,
+    125.42972,
+    -8.80167
+],
+  "geometry": {"coordinates":[125.42972,-8.80167],"type":"Point"}
+}

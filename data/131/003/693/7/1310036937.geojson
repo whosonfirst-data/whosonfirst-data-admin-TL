@@ -1,0 +1,67 @@
+{
+  "id": 1310036937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.66389,-8.87944,125.66389,-8.87944",
+    "geom:latitude":-8.87944,
+    "geom:longitude":125.66389,
+    "gn:admin1_code":"AN",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"10303.0",
+    "gn:asciiname":"Maulau",
+    "gn:country_code":"TL",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1945176,
+    "gn:latitude":-8.87944,
+    "gn:longitude":125.66389,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Maulau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1945176
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"1063c2de9eb83aa19687c7d632ac63be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1310036937,
+            "region_id":85678963
+        }
+    ],
+    "wof:id":1310036937,
+    "wof:lastmodified":1537092191,
+    "wof:name":"Maulau",
+    "wof:parent_id":85678963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.66389,
+    -8.87944,
+    125.66389,
+    -8.87944
+],
+  "geometry": {"coordinates":[125.66388999999999,-8.87944],"type":"Point"}
+}

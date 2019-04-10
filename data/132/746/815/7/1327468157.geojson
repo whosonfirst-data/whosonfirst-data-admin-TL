@@ -1,0 +1,67 @@
+{
+  "id": 1327468157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.40917,-8.76861,126.40917,-8.76861",
+    "geom:latitude":-8.76861,
+    "geom:longitude":126.40917,
+    "gn:admin1_code":"VI",
+    "gn:admin2_code":"1302.0",
+    "gn:admin3_code":"130205.0",
+    "gn:asciiname":"Uaitutumata",
+    "gn:country_code":"TL",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943688,
+    "gn:latitude":-8.76861,
+    "gn:longitude":126.40917,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Uaitutumata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943688
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"86c406a833ab6c9f6f795be9dedabad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1327468157,
+            "region_id":85678993
+        }
+    ],
+    "wof:id":1327468157,
+    "wof:lastmodified":1536627369,
+    "wof:name":"Uaitutumata",
+    "wof:parent_id":85678993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.40917,
+    -8.76861,
+    126.40917,
+    -8.76861
+],
+  "geometry": {"coordinates":[126.40917,-8.76861],"type":"Point"}
+}

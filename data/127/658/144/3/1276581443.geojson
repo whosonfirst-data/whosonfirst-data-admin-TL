@@ -1,0 +1,67 @@
+{
+  "id": 1276581443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.69182,-8.49251,126.69182,-8.49251",
+    "geom:latitude":-8.49251,
+    "geom:longitude":126.69182,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30208.0",
+    "gn:asciiname":"Terobala",
+    "gn:country_code":"TL",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944227,
+    "gn:latitude":-8.49251,
+    "gn:longitude":126.69182,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Terobala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944227
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"4d55aba8e4ca37fc288859c6b1f0d377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1276581443,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1276581443,
+    "wof:lastmodified":1536944456,
+    "wof:name":"Terobala",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.69182,
+    -8.49251,
+    126.69182,
+    -8.49251
+],
+  "geometry": {"coordinates":[126.69182000000001,-8.49251],"type":"Point"}
+}

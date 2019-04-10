@@ -1,0 +1,68 @@
+{
+  "id": 1209649409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.15,-8.36667,127.15,-8.36667",
+    "geom:latitude":-8.36667,
+    "geom:longitude":127.15,
+    "gn:admin1_code":"LA",
+    "gn:admin2_code":"905.0",
+    "gn:admin3_code":"90501.0",
+    "gn:asciiname":"Loiquero",
+    "gn:country_code":"TL",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1637458,
+    "gn:latitude":-8.36667,
+    "gn:longitude":127.15,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Loiquero",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loiquere",
+        "Loikero",
+        "Loiquero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1637458
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"83c47e49ebf42e063f07879b9d54b551",
+    "wof:hierarchy":[
+        {
+            "country_id":85632583,
+            "locality_id":1209649409
+        }
+    ],
+    "wof:id":1209649409,
+    "wof:lastmodified":1537706420,
+    "wof:name":"Loiquero",
+    "wof:parent_id":85632583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.15,
+    -8.36667,
+    127.15,
+    -8.36667
+],
+  "geometry": {"coordinates":[127.15000000000001,-8.36667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310439413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.4375,-8.63806,126.4375,-8.63806",
+    "geom:latitude":-8.63806,
+    "geom:longitude":126.4375,
+    "gn:admin1_code":"BA",
+    "gn:admin2_code":"306.0",
+    "gn:admin3_code":"30608.0",
+    "gn:asciiname":"Ossogori",
+    "gn:country_code":"TL",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1943228,
+    "gn:latitude":-8.63806,
+    "gn:longitude":126.4375,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Ossogori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dili",
+    "iso:country":"TL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632583,
+        85678967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1943228
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"c14c95fc7b4b442f5f67697996f56994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":1310439413,
+            "region_id":85678967
+        }
+    ],
+    "wof:id":1310439413,
+    "wof:lastmodified":1537011666,
+    "wof:name":"Ossogori",
+    "wof:parent_id":85678967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.4375,
+    -8.63806,
+    126.4375,
+    -8.63806
+],
+  "geometry": {"coordinates":[126.4375,-8.63806],"type":"Point"}
+}
