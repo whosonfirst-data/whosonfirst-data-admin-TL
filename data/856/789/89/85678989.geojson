@@ -37,17 +37,14 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0443\u0444\u0430\u0445\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u52aa\u6cd5\u4f0a\u7e23"
-    ],
     "name:dan_x_preferred":[
         "Manufahi Municipality"
     ],
     "name:deu_x_preferred":[
         "Manufahi"
     ],
-    "name:dut_x_preferred":[
-        "Manufahi"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bd\u03b1\u03c6\u03bf\u03c5\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Manufahi"
@@ -57,18 +54,6 @@
     ],
     "name:fra_x_preferred":[
         "Manufahi"
-    ],
-    "name:fre_x_preferred":[
-        "Manufahi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10dc\u10e3\u10e4\u10d0\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Manufahi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03bd\u03b1\u03c6\u03bf\u03c5\u03ac\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0aa8\u0ac1\u0aab\u0abe\u0ab9\u0ac0 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -109,8 +94,11 @@
     "name:mar_x_preferred":[
         "\u092e\u0928\u0942\u0939\u093e\u0939\u0940 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Manufahi Municipality"
+    ],
+    "name:nld_x_preferred":[
+        "Manufahi"
     ],
     "name:nob_x_preferred":[
         "Manufahi"
@@ -298,7 +286,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1553550516,
+    "wof:lastmodified":1561760202,
     "wof:name":"Manufahi",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

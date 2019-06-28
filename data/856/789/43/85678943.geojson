@@ -34,14 +34,14 @@
     "name:bul_x_preferred":[
         "\u0414\u0438\u043b\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u5e1d\u529b\u7e23"
-    ],
     "name:dan_x_preferred":[
         "Dili municipality"
     ],
-    "name:dut_x_preferred":[
-        "Dili"
+    "name:deu_x_preferred":[
+        "Gemeinde Dili"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03af\u03bb\u03b9"
     ],
     "name:eng_x_preferred":[
         "Dili"
@@ -51,18 +51,6 @@
     ],
     "name:fra_x_preferred":[
         "Dili"
-    ],
-    "name:fre_x_preferred":[
-        "Dili"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d8\u10da\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Gemeinde Dili"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03af\u03bb\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac0\u0ab2\u0ac0 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -85,6 +73,9 @@
     "name:kan_x_preferred":[
         "\u0ca6\u0cbf\u0cb2\u0cbf \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d8\u10da\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub51c\ub9ac \ud604"
     ],
@@ -97,8 +88,11 @@
     "name:mar_x_preferred":[
         "\u0921\u093f\u0932\u0940 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Dili municipality"
+    ],
+    "name:nld_x_preferred":[
+        "Dili"
     ],
     "name:nob_x_preferred":[
         "Dili"
@@ -150,6 +144,9 @@
     ],
     "name:war_x_preferred":[
         "Dili"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e1d\u529b\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TLS",
@@ -273,7 +270,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1553550548,
+    "wof:lastmodified":1561760202,
     "wof:name":"Dili",
     "wof:parent_id":85632583,
     "wof:placetype":"region",
