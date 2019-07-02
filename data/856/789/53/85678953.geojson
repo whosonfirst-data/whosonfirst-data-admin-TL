@@ -29,26 +29,23 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0623\u0648\u064a\u0643\u064a\u0648\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Oecusse Barrutia"
-    ],
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09c7\u0995\u09c1\u09b8\u09cd\u09af\u09c7 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
     "name:bul_x_preferred":[
         "\u041e\u0443\u0435\u0441\u0443\u0441\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u6b50\u5eab\u897f-\u5b89\u8c9d\u8afe\u7e23"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Oecusse"
     ],
     "name:dan_x_preferred":[
         "Oecusse"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Oecusse"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03b5\u03ba\u03bf\u03cd\u03c3\u03c3\u03b5"
     ],
     "name:eng_x_preferred":[
         "Oecussi-Ambeno"
@@ -58,23 +55,14 @@
         "Ambeno",
         "Oecusse Municipality"
     ],
+    "name:eus_x_preferred":[
+        "Oecusse Barrutia"
+    ],
     "name:fin_x_preferred":[
         "Oecussen alue"
     ],
     "name:fra_x_preferred":[
         "Oecusse"
-    ],
-    "name:fre_x_preferred":[
-        "Oecusse"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10d9\u10e3\u10e1\u10d8-\u10d0\u10db\u10d1\u10d4\u10dc\u10dd\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Oecusse"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03b5\u03ba\u03bf\u03cd\u03c3\u03c3\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab8\u0a95\u0acd\u0aaf\u0ac1\u0ab8 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -97,6 +85,9 @@
     "name:kan_x_preferred":[
         "\u0c92\u0c95\u0cb8\u0ccd\u0cb8\u0cc6 \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10d9\u10e3\u10e1\u10d8-\u10d0\u10db\u10d1\u10d4\u10dc\u10dd\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc624\uc5d0\ucfe0\uc2dc \ud604"
     ],
@@ -109,8 +100,11 @@
     "name:mar_x_preferred":[
         "\u0913\u0938\u0915\u0947\u0938 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Oecusse Municipality"
+    ],
+    "name:nld_x_preferred":[
+        "Oecusse"
     ],
     "name:nob_x_preferred":[
         "Oecusse"
@@ -165,6 +159,9 @@
     ],
     "name:war_x_preferred":[
         "Oecusse"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b50\u5eab\u897f-\u5b89\u8c9d\u8afe\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TLS",
@@ -290,7 +287,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1553550515,
+    "wof:lastmodified":1561760202,
     "wof:name":"Ambeno",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

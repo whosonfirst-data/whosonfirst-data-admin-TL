@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063501,
-    "geom:area_square_m":776144421.82498,
+    "geom:area_square_m":776144421.825117,
     "geom:bbox":"125.43361535,-8.85563486076,125.805220575,-8.56500660557",
     "geom:latitude":-8.708242,
     "geom:longitude":125.622187,
@@ -34,14 +34,11 @@
     "name:bul_x_preferred":[
         "\u0410\u0438\u043b\u0435\u0443"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u4f0a\u840a\u70cf\u7e23"
-    ],
     "name:dan_x_preferred":[
         "Aileu municipality"
     ],
-    "name:dut_x_preferred":[
-        "Aileu"
+    "name:deu_x_preferred":[
+        "Gemeinde Aileu"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03ca\u03bb\u03ad\u03bf\u03c5"
@@ -61,18 +58,6 @@
     ],
     "name:fra_x_preferred":[
         "Aileu"
-    ],
-    "name:fre_x_preferred":[
-        "Aileu"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d8\u10da\u10d4\u10e3\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Gemeinde Aileu"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03ca\u03bb\u03ad\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0aaf\u0abf\u0ab2\u0ac1 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -110,14 +95,14 @@
     "name:mar_x_preferred":[
         "\u0906\u092f\u093f\u0932\u0941 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Aileu municipality"
+    ],
+    "name:nld_x_preferred":[
+        "Aileu"
     ],
     "name:nob_x_preferred":[
         "Aileu"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u0626\u06cc\u0644\u0626\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0622\u0626\u06cc\u0644\u0648"
@@ -172,6 +157,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u4f0a\u840a\u70cf\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u4f0a\u840a\u70cf\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TLS",
@@ -296,7 +284,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1553814828,
+    "wof:lastmodified":1561760201,
     "wof:name":"Aileu",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

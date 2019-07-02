@@ -19,17 +19,14 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a8\u09be\u099f\u09be\u099f\u09c1"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u7d0d\u5716\u6258"
-    ],
     "name:dan_x_preferred":[
         "Manatuto"
     ],
     "name:deu_x_preferred":[
         "Manatuto"
     ],
-    "name:dut_x_preferred":[
-        "Manatuto"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bd\u03b1\u03c4\u03bf\u03cd\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Manatuto"
@@ -42,15 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "Manatuto"
-    ],
-    "name:fre_x_preferred":[
-        "Manatuto"
-    ],
-    "name:ger_x_preferred":[
-        "Manatuto"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03bd\u03b1\u03c4\u03bf\u03cd\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0aa8\u0abe\u0a9f\u0ac1\u0a9f\u0acb"
@@ -82,7 +70,7 @@
     "name:mar_x_preferred":[
         "\u092e\u0945\u0928\u091f\u0941\u091f\u0942"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Manatuto"
     ],
     "name:nld_x_preferred":[
@@ -189,7 +177,7 @@
         }
     ],
     "wof:id":421195531,
-    "wof:lastmodified":1527716122,
+    "wof:lastmodified":1561760223,
     "wof:name":"Manatuto",
     "wof:parent_id":85678985,
     "wof:placetype":"locality",

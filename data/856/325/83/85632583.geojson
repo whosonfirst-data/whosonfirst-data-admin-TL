@@ -153,9 +153,6 @@
     "name:cym_x_variant":[
         "Timor-Leste"
     ],
-    "name:cze_x_preferred":[
-        "V\u00fdchodn\u00ed Timor"
-    ],
     "name:dan_x_colloquial":[
         "Osttimor"
     ],
@@ -586,9 +583,6 @@
     "name:ron_x_preferred":[
         "Timorul de Est"
     ],
-    "name:rum_x_preferred":[
-        "Timorul de Est"
-    ],
     "name:run_x_preferred":[
         "Timoru y'iburasirazuba"
     ],
@@ -797,7 +791,6 @@
         "\u4e1c\u5e1d\u6c76"
     ],
     "name:zho_x_variant":[
-        "\u4e1c\u5e1d\u6c76",
         "\u6771\u5e1d\u6c76"
     ],
     "name:zho_yue_x_preferred":[
@@ -952,7 +945,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1537303865,
+    "wof:lastmodified":1561760201,
     "wof:name":"East Timor",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

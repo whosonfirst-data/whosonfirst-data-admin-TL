@@ -19,17 +19,14 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b2\u09bf\u09af\u09bc\u09be\u09a8\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u746a\u5229\u4e9e\u5a1c"
-    ],
     "name:dan_x_preferred":[
         "Maliana"
     ],
     "name:deu_x_preferred":[
         "Maliana"
     ],
-    "name:dut_x_preferred":[
-        "Maliana"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bb\u03b9\u03ac\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Maliana"
@@ -39,15 +36,6 @@
     ],
     "name:fra_x_preferred":[
         "Maliana"
-    ],
-    "name:fre_x_preferred":[
-        "Maliana"
-    ],
-    "name:ger_x_preferred":[
-        "Maliana"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03bb\u03b9\u03ac\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ab2\u0abf\u0a86\u0aa8\u0abe"
@@ -78,9 +66,6 @@
     ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0932\u094d\u092f\u093e\u0928\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Maliana"
     ],
     "name:msa_x_preferred":[
         "Maliana"
@@ -186,7 +171,7 @@
         }
     ],
     "wof:id":421200025,
-    "wof:lastmodified":1527716422,
+    "wof:lastmodified":1561760224,
     "wof:name":"Maliana",
     "wof:parent_id":85678971,
     "wof:placetype":"locality",

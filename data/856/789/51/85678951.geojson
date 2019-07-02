@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044219,
-    "geom:area_square_m":540549958.479256,
+    "geom:area_square_m":540549958.479231,
     "geom:bbox":"125.102942315,-8.75620940454,125.511853469,-8.56821231365",
     "geom:latitude":-8.65808,
     "geom:longitude":125.292354,
@@ -34,17 +34,14 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u043a\u0438\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u9035\u85a9\u7e23"
-    ],
     "name:dan_x_preferred":[
         "Liqui\u00e7\u00e1"
     ],
     "name:deu_x_preferred":[
         "Liqui\u00e7\u00e1"
     ],
-    "name:dut_x_preferred":[
-        "Liqui\u00e7\u00e1"
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03ba\u03bf\u03c5\u03b9\u03ba\u03ac"
     ],
     "name:eng_x_preferred":[
         "Liquica"
@@ -63,18 +60,6 @@
     ],
     "name:fra_x_variant":[
         "Liqui\u00e7a"
-    ],
-    "name:fre_x_preferred":[
-        "Liqui\u00e7\u00e1"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10d9\u10d8\u10e1\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Liqui\u00e7\u00e1"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b9\u03ba\u03bf\u03c5\u03b9\u03ba\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0a95\u0acd\u0ab5\u0abf\u0a95\u0abe \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -118,8 +103,11 @@
     "name:mar_x_preferred":[
         "\u0932\u093f\u0915\u094d\u0935\u093f\u092f\u093e \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Liquica Municipality"
+    ],
+    "name:nld_x_preferred":[
+        "Liqui\u00e7\u00e1"
     ],
     "name:nob_x_preferred":[
         "Liqui\u00e7\u00e1"
@@ -308,7 +296,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1553814828,
+    "wof:lastmodified":1561760201,
     "wof:name":"Liquica",
     "wof:parent_id":85632583,
     "wof:placetype":"region",
