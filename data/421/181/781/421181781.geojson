@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"126.462707,-8.449999,126.462707,-8.449999",
     "geom:latitude":-8.449999,
     "geom:longitude":126.462707,
@@ -12,6 +13,126 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0628\u0648\u0643\u0627\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u0989\u0995\u09be\u0989 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0443\u043a\u0430\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Baucau"
+    ],
+    "name:ceb_x_preferred":[
+        "Baucau"
+    ],
+    "name:dan_x_preferred":[
+        "Baucau Municipality"
+    ],
+    "name:deu_x_preferred":[
+        "Baucau"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03ba\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Baucau Municipality"
+    ],
+    "name:fin_x_preferred":[
+        "Baucaun alue"
+    ],
+    "name:fra_x_preferred":[
+        "Baucau"
+    ],
+    "name:frr_x_preferred":[
+        "Baucau"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0a95\u0abe\u0a89 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d1\u05d0\u05d5\u05e7\u05d0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094c\u0915\u093e\u090a \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Baucau"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30a6\u30ab\u30a6\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cbe\u0c95\u0ccc \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e3\u10d9\u10d0\u10e3\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uc6b0\uce74\uc6b0 \ud604"
+    ],
+    "name:lav_x_preferred":[
+        "Baukau pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Baukau savivaldyb\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0915\u093e\u0909 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Baucau Municipality"
+    ],
+    "name:nld_x_preferred":[
+        "Baucau"
+    ],
+    "name:nob_x_preferred":[
+        "Baucau"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0628\u0627\u0624\u06a9\u0627\u0624"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Baucau"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0443\u043a\u0430\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Baucau"
+    ],
+    "name:swe_x_preferred":[
+        "Baucau"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c15\u0c3e\u0c35\u0c41 \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tet_x_preferred":[
+        "Baukau"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e40\u0e1a\u0e32\u0e40\u0e01\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Baucau Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0443\u043a\u0430\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0648\u06a9\u0627\u0648 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Baucau"
+    ],
+    "name:war_x_preferred":[
+        "Baucau"
+    ],
+    "name:zho_x_preferred":[
+        "\u5305\u8003\u7e23"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -55,7 +176,7 @@
         }
     ],
     "wof:id":421181781,
-    "wof:lastmodified":1527716333,
+    "wof:lastmodified":1563317872,
     "wof:name":"Baukau",
     "wof:parent_id":85678967,
     "wof:placetype":"locality",

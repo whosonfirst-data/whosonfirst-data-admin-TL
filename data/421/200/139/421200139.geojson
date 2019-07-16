@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09a8\u09cd\u09a4\u09c7 \u09ae\u09cd\u09af\u09be\u0995\u09be\u09b8\u09be\u09b0"
     ],
+    "name:ceb_x_preferred":[
+        "Pante Makasar"
+    ],
     "name:dan_x_preferred":[
         "Pante Macassar"
     ],
@@ -84,6 +87,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043d\u0442\u0435-\u041c\u0430\u043a\u0430\u0441\u0430\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0430\u043d\u0442\u0435-\u041c\u0430\u043a\u0430\u0441\u0441\u0430\u0440"
     ],
     "name:sin_x_preferred":[
         "\u0db4\u0db1\u0dca\u0da7\u0dda \u0db8\u0d9a\u0dc3\u0dca\u0dc3\u0dbb\u0dca"
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":421200139,
-    "wof:lastmodified":1561760224,
+    "wof:lastmodified":1563317877,
     "wof:name":"Pante Macassar",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

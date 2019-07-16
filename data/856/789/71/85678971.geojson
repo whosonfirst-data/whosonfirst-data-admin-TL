@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0431\u043e\u043d\u0430\u0440\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Bobonaro"
+    ],
     "name:dan_x_preferred":[
         "Bobonaro Municipality"
     ],
@@ -46,10 +49,16 @@
     "name:eng_x_preferred":[
         "Bobonaro"
     ],
+    "name:eng_x_variant":[
+        "Bobonaro Municipality"
+    ],
     "name:fin_x_preferred":[
         "Bobonaron alue"
     ],
     "name:fra_x_preferred":[
+        "Bobonaro"
+    ],
+    "name:frr_x_preferred":[
         "Bobonaro"
     ],
     "name:guj_x_preferred":[
@@ -287,7 +296,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1561760202,
+    "wof:lastmodified":1563317602,
     "wof:name":"Bobonaro",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

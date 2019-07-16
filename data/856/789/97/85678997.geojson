@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u0443\u0442\u0435\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Laut\u00e9m"
+    ],
     "name:dan_x_preferred":[
         "Laut\u00e9m Municipality"
     ],
@@ -56,6 +59,9 @@
         "Lautemin alue"
     ],
     "name:fra_x_preferred":[
+        "Laut\u00e9m"
+    ],
+    "name:frr_x_preferred":[
         "Laut\u00e9m"
     ],
     "name:guj_x_preferred":[
@@ -87,6 +93,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub77c\uc6b0\ud15c \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\ub77c\uc6b0\ud161 \ud604"
     ],
     "name:lav_x_preferred":[
         "Lautenas pa\u0161vald\u012bba"
@@ -293,7 +302,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1561760202,
+    "wof:lastmodified":1563317600,
     "wof:name":"Lautem",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

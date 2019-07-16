@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u0986\u0987\u09a8\u09be\u09b0\u09c1"
     ],
+    "name:ceb_x_preferred":[
+        "Ainaro"
+    ],
     "name:dan_x_preferred":[
         "Ainaro"
     ],
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":421200961,
-    "wof:lastmodified":1561760224,
+    "wof:lastmodified":1563317876,
     "wof:name":"Ainaro",
     "wof:parent_id":85678963,
     "wof:placetype":"locality",

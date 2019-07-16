@@ -25,20 +25,51 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0643\u0648\u0641\u0627 \u0644\u064a\u0645\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u09ad\u09be \u09b2\u09bf\u09ae\u09be \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u0432\u0430-\u041b\u0438\u043c\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Cova Lima"
+    ],
+    "name:dan_x_preferred":[
+        "Cova Lima Municipality"
+    ],
+    "name:deu_x_preferred":[
+        "Cova Lima"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03b2\u03b1 \u039b\u03af\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Cova Lima"
     ],
     "name:eng_x_variant":[
-        "Cova Lima District"
+        "Cova Lima District",
+        "Cova Lima Municipality"
+    ],
+    "name:fin_x_preferred":[
+        "Cova Liman alue"
     ],
     "name:fra_x_preferred":[
         "Cova Lima"
     ],
+    "name:frr_x_preferred":[
+        "Cova Lima"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acb\u0ab5\u0abe \u0ab2\u0abf\u0aae\u0abe \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05d1\u05d4-\u05dc\u05d9\u05de\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0935\u093e \u0932\u0940\u092e\u093e \u0928\u0917\u0930 \u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:ind_x_preferred":[
         "Kabupaten Kovalima"
@@ -46,14 +77,38 @@
     "name:ind_x_variant":[
         "Cova-Lima"
     ],
+    "name:ita_x_preferred":[
+        "Cova Lima"
+    ],
     "name:jpn_x_preferred":[
         "\u30b3\u30f4\u30a1\u30fb\u30ea\u30de\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cca\u0cb5\u0cbe \u0cb2\u0cbf\u0cae\u0cbe \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10d5\u10d0-\u10da\u10d8\u10db\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ucf54\ubc14\ub9ac\ub9c8 \ud604"
+    ],
+    "name:lav_x_preferred":[
+        "Kova Lima pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Kova Limos apskritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u0949\u0935\u094d\u0939 \u0932\u093f\u092e\u093e \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Cova Lima"
+    ],
+    "name:nld_x_preferred":[
+        "Cova Lima"
+    ],
+    "name:nob_x_preferred":[
+        "Cova Lima"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u06a9\u0648\u0648\u0627 \u0644\u06cc\u0645\u0627"
@@ -64,11 +119,26 @@
     "name:por_x_preferred":[
         "Distrito Cova Lima"
     ],
+    "name:por_x_variant":[
+        "Cova Lima"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0432\u0430-\u041b\u0438\u043c\u0430"
     ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0ddc\u0dc0\u0dcf \u0dbd\u0dd2\u0db8\u0dcf \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
     "name:spa_x_preferred":[
         "Cova-Lima"
+    ],
+    "name:swe_x_preferred":[
+        "Cova Lima"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0bb5\u0bbe \u0bb2\u0bbf\u0bae\u0bbe  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4b\u0c35\u0c3e \u0c32\u0c3f\u0c2e\u0c3e \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
     ],
     "name:tet_x_preferred":[
         "Distritu Cova Lima"
@@ -76,14 +146,32 @@
     "name:tet_x_variant":[
         "Kovalima"
     ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e04\u0e27\u0e32 \u0e25\u0e34\u0e21\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Cova Lima Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0432\u0430-\u041b\u0456\u043c\u0430"
+    ],
     "name:unk_x_variant":[
         "Kabupaten Kovalima"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0648\u0627 \u0644\u06cc\u0645\u0627 \u0636\u0644\u0639"
     ],
+    "name:vie_x_preferred":[
+        "Cova Lima"
+    ],
+    "name:war_x_preferred":[
+        "Cova Lima"
+    ],
     "name:zho_x_preferred":[
         "\u79d1\u74e6\u5229\u99ac\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u79d1\u74e6\u5229\u99ac\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TLS",
@@ -208,7 +296,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1553550516,
+    "wof:lastmodified":1563317599,
     "wof:name":"Cova Lima",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

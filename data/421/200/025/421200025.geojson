@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b2\u09bf\u09af\u09bc\u09be\u09a8\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Maliana"
+    ],
     "name:dan_x_preferred":[
         "Maliana"
     ],
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":421200025,
-    "wof:lastmodified":1561760224,
+    "wof:lastmodified":1563317876,
     "wof:name":"Maliana",
     "wof:parent_id":85678971,
     "wof:placetype":"locality",

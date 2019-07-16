@@ -34,6 +34,12 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0443\u043a\u0430\u0443"
     ],
+    "name:cat_x_preferred":[
+        "Baucau"
+    ],
+    "name:ceb_x_preferred":[
+        "Baucau"
+    ],
     "name:dan_x_preferred":[
         "Baucau Municipality"
     ],
@@ -56,17 +62,26 @@
     "name:fra_x_preferred":[
         "Baucau"
     ],
+    "name:frr_x_preferred":[
+        "Baucau"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0a95\u0abe\u0a89 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d0\u05d5\u05e7\u05d0\u05d5"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d1\u05d0\u05d5\u05e7\u05d0\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u094c\u0915\u093e\u090a \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:ind_x_preferred":[
         "Kabupaten Baucau"
+    ],
+    "name:ind_x_variant":[
+        "Baucau"
     ],
     "name:ita_x_preferred":[
         "Distretto di Baucau"
@@ -284,7 +299,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1561760201,
+    "wof:lastmodified":1563317598,
     "wof:name":"Baucau",
     "wof:parent_id":85632583,
     "wof:placetype":"region",
