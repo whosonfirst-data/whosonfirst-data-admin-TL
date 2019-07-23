@@ -19,6 +19,12 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u0995\u09be\u0989"
     ],
+    "name:cat_x_preferred":[
+        "Baucau"
+    ],
+    "name:ceb_x_preferred":[
+        "Baucau"
+    ],
     "name:dan_x_preferred":[
         "Baucau"
     ],
@@ -41,6 +47,9 @@
         "Baucau"
     ],
     "name:fra_x_preferred":[
+        "Baucau"
+    ],
+    "name:glg_x_preferred":[
         "Baucau"
     ],
     "name:guj_x_preferred":[
@@ -193,7 +202,7 @@
         }
     ],
     "wof:id":421191529,
-    "wof:lastmodified":1561760224,
+    "wof:lastmodified":1563317875,
     "wof:name":"Vila Salazar",
     "wof:parent_id":85678967,
     "wof:placetype":"locality",

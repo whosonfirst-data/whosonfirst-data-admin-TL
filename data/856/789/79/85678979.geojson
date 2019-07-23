@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u0415\u0440\u043c\u0435\u0440\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Ermera"
+    ],
     "name:dan_x_preferred":[
         "Ermera"
     ],
@@ -53,6 +56,9 @@
         "Ermeran alue"
     ],
     "name:fra_x_preferred":[
+        "Ermera"
+    ],
+    "name:frr_x_preferred":[
         "Ermera"
     ],
     "name:guj_x_preferred":[
@@ -289,7 +295,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1561760202,
+    "wof:lastmodified":1563317601,
     "wof:name":"Ermera",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

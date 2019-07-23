@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0443\u0444\u0430\u0445\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Manufahi"
+    ],
     "name:dan_x_preferred":[
         "Manufahi Municipality"
     ],
@@ -49,10 +52,16 @@
     "name:eng_x_preferred":[
         "Manufahi"
     ],
+    "name:eng_x_variant":[
+        "Manufahi Municipality"
+    ],
     "name:fin_x_preferred":[
         "Manufahin alue"
     ],
     "name:fra_x_preferred":[
+        "Manufahi"
+    ],
+    "name:frr_x_preferred":[
         "Manufahi"
     ],
     "name:guj_x_preferred":[
@@ -60,6 +69,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d7\u05d5\u05d6 \u05de\u05e0\u05d5\u05e4\u05e0\u05d9"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05e0\u05d5\u05e4\u05e0\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0948\u0928\u0941\u092b\u093e\u0939\u0940 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
@@ -84,6 +96,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9c8\ub204\ud30c\ud788 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9c8\ub204\ud30c\uc774 \ud604"
     ],
     "name:lav_x_preferred":[
         "Manufahi distrikts"
@@ -286,7 +301,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1561760202,
+    "wof:lastmodified":1563317599,
     "wof:name":"Manufahi",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a8\u09be\u099f\u09be\u099f\u09c1"
     ],
+    "name:ceb_x_preferred":[
+        "Manatuto"
+    ],
     "name:dan_x_preferred":[
         "Manatuto"
     ],
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":421195531,
-    "wof:lastmodified":1561760223,
+    "wof:lastmodified":1563317871,
     "wof:name":"Manatuto",
     "wof:parent_id":85678985,
     "wof:placetype":"locality",

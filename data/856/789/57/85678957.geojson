@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u0410\u0438\u043b\u0435\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Aileu"
+    ],
     "name:dan_x_preferred":[
         "Aileu municipality"
     ],
@@ -59,17 +62,26 @@
     "name:fra_x_preferred":[
         "Aileu"
     ],
+    "name:frr_x_preferred":[
+        "Aileu"
+    ],
     "name:guj_x_preferred":[
         "\u0a86\u0aaf\u0abf\u0ab2\u0ac1 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d9\u05dc\u05d0\u05d5"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d0\u05d9\u05dc\u05d0\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u090f\u0907\u0932\u0942 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:ind_x_preferred":[
         "Kabupaten Aileu"
+    ],
+    "name:ind_x_variant":[
+        "Aileu"
     ],
     "name:ita_x_preferred":[
         "Distretto di Aileu"
@@ -113,6 +125,9 @@
     "name:por_x_preferred":[
         "Distrito Aileu"
     ],
+    "name:por_x_variant":[
+        "Aileu"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0439\u043b\u0435\u0443"
     ],
@@ -133,6 +148,9 @@
     ],
     "name:tet_x_preferred":[
         "Distritu Aileu"
+    ],
+    "name:tet_x_variant":[
+        "Aileu"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2d\u0e32\u0e25\u0e31\u0e27\u0e23\u0e4c"
@@ -284,7 +302,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1561760201,
+    "wof:lastmodified":1563317597,
     "wof:name":"Aileu",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

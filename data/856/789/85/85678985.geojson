@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0443\u0442\u0443\u0442\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Manatuto"
+    ],
     "name:dan_x_preferred":[
         "Manatuto District"
     ],
@@ -55,6 +58,9 @@
     "name:fra_x_preferred":[
         "Manatuto"
     ],
+    "name:frr_x_preferred":[
+        "Manatuto"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0aa3\u0a9f\u0ac1\u0a9f\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
@@ -66,6 +72,9 @@
     ],
     "name:ind_x_preferred":[
         "Kabupaten Manatuto"
+    ],
+    "name:ind_x_variant":[
+        "Manatuto"
     ],
     "name:ita_x_preferred":[
         "Distretto di Manatuto"
@@ -108,6 +117,9 @@
     ],
     "name:por_x_preferred":[
         "Distrito Manatuto"
+    ],
+    "name:por_x_variant":[
+        "Manatuto"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043d\u0430\u0442\u0443\u0442\u0443"
@@ -283,7 +295,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1561760202,
+    "wof:lastmodified":1563317601,
     "wof:name":"Manatuto",
     "wof:parent_id":85632583,
     "wof:placetype":"region",
