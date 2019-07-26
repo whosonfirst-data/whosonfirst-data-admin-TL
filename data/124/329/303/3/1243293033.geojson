@@ -27,6 +27,12 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Soin"
+    ],
+    "name:pol_x_preferred":[
+        "Soin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1243293033,
-    "wof:lastmodified":1537025616,
+    "wof:lastmodified":1564131570,
     "wof:name":"Soin",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

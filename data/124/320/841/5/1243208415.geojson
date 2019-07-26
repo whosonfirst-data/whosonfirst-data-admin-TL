@@ -27,6 +27,15 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Baru"
+    ],
+    "name:nld_x_preferred":[
+        "Baru"
+    ],
+    "name:spa_x_preferred":[
+        "Baru"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1243208415,
-    "wof:lastmodified":1536651595,
+    "wof:lastmodified":1564131565,
     "wof:name":"Baru",
     "wof:parent_id":85678967,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Maubara"
+    ],
+    "name:lit_x_preferred":[
+        "Maubara"
+    ],
+    "name:por_x_preferred":[
+        "Maubara"
+    ],
     "name:und_x_variant":[
         "Maubar\u00fa",
         "Maubara"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1293913825,
-    "wof:lastmodified":1537706419,
+    "wof:lastmodified":1564131215,
     "wof:name":"Maubara",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

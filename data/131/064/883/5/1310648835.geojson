@@ -27,6 +27,9 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sin_x_preferred":[
+        "\u0db8\u0dcf\u0dbd\u0db6\u0dda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310648835,
-    "wof:lastmodified":1536710534,
+    "wof:lastmodified":1564131455,
     "wof:name":"Malabe",
     "wof:parent_id":85678979,
     "wof:placetype":"locality",

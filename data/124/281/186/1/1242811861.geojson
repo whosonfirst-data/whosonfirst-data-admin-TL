@@ -27,6 +27,12 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mota\u2019ain"
+    ],
+    "name:ind_x_preferred":[
+        "Mota'ain"
+    ],
     "name:und_x_variant":[
         "Motaaln",
         "Motaain"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1242811861,
-    "wof:lastmodified":1537706419,
+    "wof:lastmodified":1564131531,
     "wof:name":"Motaain",
     "wof:parent_id":85678971,
     "wof:placetype":"locality",

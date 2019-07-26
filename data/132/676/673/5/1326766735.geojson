@@ -27,6 +27,12 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Passabe"
+    ],
+    "name:tet_x_preferred":[
+        "P\u00e1sabe"
+    ],
     "name:und_x_variant":[
         "Pasabe",
         "Pasab",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1326766735,
-    "wof:lastmodified":1537706418,
+    "wof:lastmodified":1564131140,
     "wof:name":"Passabe",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

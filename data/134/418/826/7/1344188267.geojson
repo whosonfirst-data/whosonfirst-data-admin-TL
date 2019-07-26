@@ -27,6 +27,111 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u06a9\u0627\u06cc\u0646\u0648"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0439\u043d\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0438\u043d\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Caino"
+    ],
+    "name:deu_x_preferred":[
+        "Caino"
+    ],
+    "name:epo_x_preferred":[
+        "Caino"
+    ],
+    "name:eus_x_preferred":[
+        "Caino"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u06cc\u0646\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Caino"
+    ],
+    "name:hun_x_preferred":[
+        "Caino"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u056b\u0576\u0578"
+    ],
+    "name:ina_x_preferred":[
+        "Caino"
+    ],
+    "name:ita_x_preferred":[
+        "Caino"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30a4\u30fc\u30ce"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0439\u043d\u043e"
+    ],
+    "name:lat_x_preferred":[
+        "Caynum"
+    ],
+    "name:lmo_x_preferred":[
+        "Ca\u00ec"
+    ],
+    "name:msa_x_preferred":[
+        "Caino"
+    ],
+    "name:nap_x_preferred":[
+        "Caino"
+    ],
+    "name:nld_x_preferred":[
+        "Caino"
+    ],
+    "name:pms_x_preferred":[
+        "Caino"
+    ],
+    "name:pol_x_preferred":[
+        "Caino"
+    ],
+    "name:por_x_preferred":[
+        "Caino"
+    ],
+    "name:ron_x_preferred":[
+        "Caino"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0438\u043d\u043e"
+    ],
+    "name:scn_x_preferred":[
+        "Caino"
+    ],
+    "name:spa_x_preferred":[
+        "Caino"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0458\u043d\u043e"
+    ],
+    "name:tgl_x_preferred":[
+        "Caino"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0457\u043d\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "Caino"
+    ],
+    "name:vie_x_preferred":[
+        "Caino"
+    ],
+    "name:vol_x_preferred":[
+        "Caino"
+    ],
+    "name:war_x_preferred":[
+        "Caino"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u4f0a\u8bfa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +153,7 @@
         }
     ],
     "wof:id":1344188267,
-    "wof:lastmodified":1536691414,
+    "wof:lastmodified":1564131201,
     "wof:name":"Caino",
     "wof:parent_id":85678997,
     "wof:placetype":"locality",

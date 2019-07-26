@@ -27,6 +27,18 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Abere"
+    ],
+    "name:fra_x_preferred":[
+        "Abere"
+    ],
+    "name:por_x_preferred":[
+        "Abere"
+    ],
+    "name:spa_x_preferred":[
+        "Abere"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1226778847,
-    "wof:lastmodified":1536667980,
+    "wof:lastmodified":1564131650,
     "wof:name":"Abere",
     "wof:parent_id":85678997,
     "wof:placetype":"locality",

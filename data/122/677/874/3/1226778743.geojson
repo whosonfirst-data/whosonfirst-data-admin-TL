@@ -27,6 +27,12 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Venilale"
+    ],
+    "name:por_x_preferred":[
+        "Venilale"
+    ],
     "name:und_x_variant":[
         "Vila Vi\u00e7osa"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226778743,
-    "wof:lastmodified":1537706425,
+    "wof:lastmodified":1564131649,
     "wof:name":"Venilale",
     "wof:parent_id":85678967,
     "wof:placetype":"locality",

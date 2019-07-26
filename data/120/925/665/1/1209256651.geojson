@@ -27,6 +27,108 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u0443\u0448\u0430\u0441\u0442\u044b\u044f \u0441\u043e\u0432\u044b"
+    ],
+    "name:bre_x_preferred":[
+        "Asio"
+    ],
+    "name:cat_x_preferred":[
+        "Asio"
+    ],
+    "name:ceb_x_preferred":[
+        "Asio"
+    ],
+    "name:ces_x_preferred":[
+        "Kalous"
+    ],
+    "name:deu_x_preferred":[
+        "Ohreulen"
+    ],
+    "name:epo_x_preferred":[
+        "Orelstrigoj"
+    ],
+    "name:est_x_preferred":[
+        "R\u00e4ts"
+    ],
+    "name:eus_x_preferred":[
+        "Asio"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u063a\u062f \u06af\u0648\u0634\u200c\u0628\u0647\u200c\u0633\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Sarvip\u00f6ll\u00f6t"
+    ],
+    "name:fra_x_preferred":[
+        "Asio"
+    ],
+    "name:fry_x_preferred":[
+        "Ear\u00fblen"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05e0\u05e9\u05d5\u05e3"
+    ],
+    "name:hrv_x_preferred":[
+        "Asio"
+    ],
+    "name:hun_x_preferred":[
+        "Asio"
+    ],
+    "name:ita_x_preferred":[
+        "Asio"
+    ],
+    "name:lat_x_preferred":[
+        "Asio"
+    ],
+    "name:lav_x_preferred":[
+        "Ausain\u0101s p\u016bces"
+    ],
+    "name:lit_x_preferred":[
+        "Ma\u017eieji apuokai"
+    ],
+    "name:nld_x_preferred":[
+        "Asio"
+    ],
+    "name:nno_x_preferred":[
+        "Asio"
+    ],
+    "name:nor_x_preferred":[
+        "Asio"
+    ],
+    "name:pol_x_preferred":[
+        "Asio"
+    ],
+    "name:por_x_preferred":[
+        "Asio"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0448\u0430\u0441\u0442\u044b\u0435 \u0441\u043e\u0432\u044b"
+    ],
+    "name:sco_x_preferred":[
+        "Asio"
+    ],
+    "name:slk_x_preferred":[
+        "Asio"
+    ],
+    "name:slv_x_preferred":[
+        "Asio"
+    ],
+    "name:spa_x_preferred":[
+        "Asio"
+    ],
+    "name:srp_x_preferred":[
+        "Asio"
+    ],
+    "name:swe_x_preferred":[
+        "Asio"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0443\u0445\u0430\u0442\u0430 \u0441\u043e\u0432\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Asio"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632583
@@ -44,7 +146,7 @@
         }
     ],
     "wof:id":1209256651,
-    "wof:lastmodified":1536292830,
+    "wof:lastmodified":1564131359,
     "wof:name":"Asio",
     "wof:parent_id":85632583,
     "wof:placetype":"locality",

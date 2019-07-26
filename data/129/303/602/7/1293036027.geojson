@@ -27,6 +27,21 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fohoren"
+    ],
+    "name:deu_x_preferred":[
+        "Fohoren"
+    ],
+    "name:msa_x_preferred":[
+        "Fohoren"
+    ],
+    "name:tet_x_preferred":[
+        "Fohor\u00e9n"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0648\u06c1\u0648\u0631\u06cc\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1293036027,
-    "wof:lastmodified":1537574438,
+    "wof:lastmodified":1564131249,
     "wof:name":"Fohoren",
     "wof:parent_id":85678975,
     "wof:placetype":"locality",

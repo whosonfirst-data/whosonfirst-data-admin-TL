@@ -27,11 +27,29 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Maubisse"
+    ],
+    "name:fra_x_preferred":[
+        "Maubisse"
+    ],
+    "name:msa_x_preferred":[
+        "Maubisse"
+    ],
+    "name:pol_x_preferred":[
+        "Maubisse"
+    ],
+    "name:tet_x_preferred":[
+        "Maubise"
+    ],
     "name:und_x_variant":[
         "Maubesse",
         "Maubise",
         "Maobisse",
         "Maubisse"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0648\u0628\u06cc\u0633\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1209746477,
-    "wof:lastmodified":1537706419,
+    "wof:lastmodified":1564131385,
     "wof:name":"Maubisse",
     "wof:parent_id":85678963,
     "wof:placetype":"locality",

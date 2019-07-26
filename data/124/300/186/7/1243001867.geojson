@@ -27,6 +27,30 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Vero"
+    ],
+    "name:fra_x_preferred":[
+        "Vero"
+    ],
+    "name:ita_x_preferred":[
+        "Vero"
+    ],
+    "name:por_x_preferred":[
+        "Vero"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Vero"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0440\u043e"
+    ],
+    "name:vec_x_preferred":[
+        "Vero"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1243001867,
-    "wof:lastmodified":1536949931,
+    "wof:lastmodified":1564131518,
     "wof:name":"Vero",
     "wof:parent_id":85678997,
     "wof:placetype":"locality",

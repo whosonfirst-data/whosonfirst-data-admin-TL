@@ -27,6 +27,36 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Same"
+    ],
+    "name:deu_x_preferred":[
+        "Same"
+    ],
+    "name:fin_x_preferred":[
+        "Same"
+    ],
+    "name:fra_x_preferred":[
+        "Same"
+    ],
+    "name:ita_x_preferred":[
+        "Same"
+    ],
+    "name:nld_x_preferred":[
+        "Same"
+    ],
+    "name:nno_x_preferred":[
+        "Same"
+    ],
+    "name:ron_x_preferred":[
+        "Same"
+    ],
+    "name:swe_x_preferred":[
+        "Same"
+    ],
+    "name:tet_x_preferred":[
+        "Same"
+    ],
     "name:und_x_variant":[
         "Vila Filomeno da C\u00e2mara",
         "Vila Filomena da Camara",
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":1310037161,
-    "wof:lastmodified":1537706418,
+    "wof:lastmodified":1564131464,
     "wof:name":"Same",
     "wof:parent_id":85678989,
     "wof:placetype":"locality",

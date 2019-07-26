@@ -27,8 +27,32 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tutuala"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u062a\u0648\u0627\u0644\u0627"
+    ],
+    "name:ind_x_preferred":[
+        "Tutuala"
+    ],
+    "name:msa_x_preferred":[
+        "Tutuala"
+    ],
+    "name:por_x_preferred":[
+        "Tutuala"
+    ],
+    "name:swe_x_preferred":[
+        "Tutuala"
+    ],
+    "name:tet_x_preferred":[
+        "Tutuala"
+    ],
     "name:und_x_variant":[
         "Nova Sagres"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0648\u062a\u0648\u0644\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1260220425,
-    "wof:lastmodified":1537706425,
+    "wof:lastmodified":1564131414,
     "wof:name":"Tutuala",
     "wof:parent_id":85678997,
     "wof:placetype":"locality",

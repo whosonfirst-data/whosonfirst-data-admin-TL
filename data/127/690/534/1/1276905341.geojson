@@ -27,6 +27,12 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:amh_x_preferred":[
+        "\u1309\u1218\u122d"
+    ],
+    "name:fra_x_preferred":[
+        "Gumer"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1276905341,
-    "wof:lastmodified":1537006534,
+    "wof:lastmodified":1564131314,
     "wof:name":"Gumer",
     "wof:parent_id":85678971,
     "wof:placetype":"locality",

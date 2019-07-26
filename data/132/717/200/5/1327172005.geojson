@@ -27,6 +27,36 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Hunda"
+    ],
+    "name:ceb_x_preferred":[
+        "Hunda"
+    ],
+    "name:fra_x_preferred":[
+        "Hunda"
+    ],
+    "name:gla_x_preferred":[
+        "Hunda"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05e0\u05d3\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Hunda"
+    ],
+    "name:nno_x_preferred":[
+        "Hunda"
+    ],
+    "name:spa_x_preferred":[
+        "Hunda"
+    ],
+    "name:swe_x_preferred":[
+        "Hunda"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ea8\u9054\u5cf6"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1327172005,
-    "wof:lastmodified":1537054399,
+    "wof:lastmodified":1564131155,
     "wof:name":"Hunda",
     "wof:parent_id":85678979,
     "wof:placetype":"locality",

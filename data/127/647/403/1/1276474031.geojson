@@ -28,6 +28,15 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Matai"
+    ],
+    "name:deu_x_preferred":[
+        "Matai"
+    ],
+    "name:swe_x_preferred":[
+        "Matai"
+    ],
     "name:und_x_variant":[
         "Monte Mataidiquin",
         "Matai"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1276474031,
-    "wof:lastmodified":1537706426,
+    "wof:lastmodified":1564131305,
     "wof:name":"Matai",
     "wof:parent_id":85678975,
     "wof:placetype":"locality",

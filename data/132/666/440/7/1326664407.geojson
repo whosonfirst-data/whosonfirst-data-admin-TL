@@ -27,6 +27,9 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Moko"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1326664407,
-    "wof:lastmodified":1536793800,
+    "wof:lastmodified":1564131127,
     "wof:name":"Moko",
     "wof:parent_id":85678971,
     "wof:placetype":"locality",

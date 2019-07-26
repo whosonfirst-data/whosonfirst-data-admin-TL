@@ -27,6 +27,15 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Fatubessi"
+    ],
+    "name:msa_x_preferred":[
+        "Fatubessi"
+    ],
+    "name:tet_x_preferred":[
+        "Fatubessi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1326861061,
-    "wof:lastmodified":1537006564,
+    "wof:lastmodified":1564131116,
     "wof:name":"Fatubessi",
     "wof:parent_id":85678971,
     "wof:placetype":"locality",

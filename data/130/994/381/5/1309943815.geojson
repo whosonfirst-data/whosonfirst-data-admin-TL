@@ -27,6 +27,45 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hauho"
+    ],
+    "name:deu_x_preferred":[
+        "Hauho"
+    ],
+    "name:est_x_preferred":[
+        "Hauho vald"
+    ],
+    "name:eus_x_preferred":[
+        "Hauho"
+    ],
+    "name:fin_x_preferred":[
+        "Hauho"
+    ],
+    "name:fra_x_preferred":[
+        "Hauho"
+    ],
+    "name:ita_x_preferred":[
+        "Hauho"
+    ],
+    "name:nld_x_preferred":[
+        "Hauho"
+    ],
+    "name:nor_x_preferred":[
+        "Hauho"
+    ],
+    "name:por_x_preferred":[
+        "Hauho"
+    ],
+    "name:ron_x_preferred":[
+        "Hauho"
+    ],
+    "name:sme_x_preferred":[
+        "Hauho"
+    ],
+    "name:swe_x_preferred":[
+        "Hauho"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +87,7 @@
         }
     ],
     "wof:id":1309943815,
-    "wof:lastmodified":1536732416,
+    "wof:lastmodified":1564131507,
     "wof:name":"Hauho",
     "wof:parent_id":85678979,
     "wof:placetype":"locality",

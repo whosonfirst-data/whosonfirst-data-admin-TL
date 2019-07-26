@@ -27,6 +27,24 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lahae"
+    ],
+    "name:deu_x_preferred":[
+        "Lahae"
+    ],
+    "name:msa_x_preferred":[
+        "Lahae"
+    ],
+    "name:por_x_preferred":[
+        "Lahae"
+    ],
+    "name:tet_x_preferred":[
+        "Lahae"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u06c1\u0627\u0626\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632583
@@ -45,7 +63,7 @@
         }
     ],
     "wof:id":1209137227,
-    "wof:lastmodified":1537574438,
+    "wof:lastmodified":1564131360,
     "wof:name":"Lahae",
     "wof:parent_id":85632583,
     "wof:placetype":"locality",

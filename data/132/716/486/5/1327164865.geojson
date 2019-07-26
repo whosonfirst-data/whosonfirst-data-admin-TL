@@ -27,6 +27,12 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0631\u0646"
+    ],
+    "name:oci_x_preferred":[
+        "Lurin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1327164865,
-    "wof:lastmodified":1537064362,
+    "wof:lastmodified":1564131157,
     "wof:name":"Lurin",
     "wof:parent_id":85678989,
     "wof:placetype":"locality",

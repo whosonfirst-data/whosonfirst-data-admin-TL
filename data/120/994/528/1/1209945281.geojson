@@ -27,6 +27,9 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nitibe"
+    ],
     "name:und_x_variant":[
         "N\u00edtibe",
         "Nitibe"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1209945281,
-    "wof:lastmodified":1537706419,
+    "wof:lastmodified":1564131378,
     "wof:name":"Nitibe",
     "wof:parent_id":85678953,
     "wof:placetype":"locality",

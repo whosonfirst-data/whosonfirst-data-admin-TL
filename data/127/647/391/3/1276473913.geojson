@@ -27,6 +27,21 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Betano"
+    ],
+    "name:msa_x_preferred":[
+        "Betano"
+    ],
+    "name:por_x_preferred":[
+        "Betano"
+    ],
+    "name:tet_x_preferred":[
+        "Betano"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u062a\u0627\u0646\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1276473913,
-    "wof:lastmodified":1537084604,
+    "wof:lastmodified":1564131301,
     "wof:name":"Betano",
     "wof:parent_id":85678989,
     "wof:placetype":"locality",

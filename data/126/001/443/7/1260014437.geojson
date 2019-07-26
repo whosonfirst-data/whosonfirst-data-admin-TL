@@ -27,6 +27,117 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Punu"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0443\u043d\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0443\u043d\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Puno"
+    ],
+    "name:ces_x_preferred":[
+        "Puno"
+    ],
+    "name:dan_x_preferred":[
+        "Puno"
+    ],
+    "name:deu_x_preferred":[
+        "Puno"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03cd\u03bd\u03bf"
+    ],
+    "name:epo_x_preferred":[
+        "Punjo"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0646\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Puno"
+    ],
+    "name:fra_x_preferred":[
+        "Puno"
+    ],
+    "name:hrv_x_preferred":[
+        "Puno"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0582\u0576\u0578"
+    ],
+    "name:ind_x_preferred":[
+        "Puno"
+    ],
+    "name:ita_x_preferred":[
+        "Puno"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30fc\u30ce"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e3\u10dc\u10dd"
+    ],
+    "name:lit_x_preferred":[
+        "Punas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0443\u043d\u043e"
+    ],
+    "name:nau_x_preferred":[
+        "Puno"
+    ],
+    "name:nld_x_preferred":[
+        "Puno"
+    ],
+    "name:nor_x_preferred":[
+        "Puno"
+    ],
+    "name:pol_x_preferred":[
+        "Puno"
+    ],
+    "name:por_x_preferred":[
+        "Puno"
+    ],
+    "name:que_x_preferred":[
+        "Punu"
+    ],
+    "name:ron_x_preferred":[
+        "Puno"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u043d\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Puno"
+    ],
+    "name:sqi_x_preferred":[
+        "Puno"
+    ],
+    "name:swe_x_preferred":[
+        "Puno"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0443\u043d\u043e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e39\u0e42\u0e19"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u043d\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0646\u0648"
+    ],
+    "name:vol_x_preferred":[
+        "Puno"
+    ],
+    "name:war_x_preferred":[
+        "Puno"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +159,7 @@
         }
     ],
     "wof:id":1260014437,
-    "wof:lastmodified":1537084219,
+    "wof:lastmodified":1564131422,
     "wof:name":"Puno",
     "wof:parent_id":85678997,
     "wof:placetype":"locality",

@@ -27,6 +27,12 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Duyung"
+    ],
+    "name:msa_x_preferred":[
+        "Duyung"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1259619505,
-    "wof:lastmodified":1536662787,
+    "wof:lastmodified":1564131593,
     "wof:name":"Duyung",
     "wof:parent_id":85678943,
     "wof:placetype":"locality",

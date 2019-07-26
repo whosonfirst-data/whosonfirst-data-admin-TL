@@ -27,6 +27,21 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fatubossa"
+    ],
+    "name:deu_x_preferred":[
+        "Fatubossa"
+    ],
+    "name:msa_x_preferred":[
+        "Fatubosa"
+    ],
+    "name:por_x_preferred":[
+        "Fatubossa"
+    ],
+    "name:tet_x_preferred":[
+        "Fatubossa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1326563501,
-    "wof:lastmodified":1537574438,
+    "wof:lastmodified":1564131122,
     "wof:name":"Fatubossa",
     "wof:parent_id":85678957,
     "wof:placetype":"locality",

@@ -27,11 +27,44 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Suai"
+    ],
+    "name:deu_x_preferred":[
+        "Suai"
+    ],
     "name:fra_x_preferred":[
+        "Suai"
+    ],
+    "name:ind_x_preferred":[
+        "Suai"
+    ],
+    "name:ita_x_preferred":[
+        "Suai"
+    ],
+    "name:kor_x_preferred":[
+        "\uc218\uc544\uc774"
+    ],
+    "name:nld_x_preferred":[
+        "Suai"
+    ],
+    "name:pol_x_preferred":[
+        "Suai"
+    ],
+    "name:por_x_preferred":[
         "Suai"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u0430\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Suai"
+    ],
+    "name:swe_x_preferred":[
+        "Suai"
+    ],
+    "name:tet_x_preferred":[
+        "Suai"
     ],
     "name:und_x_variant":[
         "Swai",
@@ -40,6 +73,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0627\u0626\u06cc"
+    ],
+    "name:war_x_preferred":[
+        "Suai"
     ],
     "name:zho_x_preferred":[
         "\u8607\u827e"
@@ -67,7 +103,7 @@
         }
     ],
     "wof:id":1276905873,
-    "wof:lastmodified":1537706418,
+    "wof:lastmodified":1564131315,
     "wof:name":"Suai",
     "wof:parent_id":85678975,
     "wof:placetype":"locality",
