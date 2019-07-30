@@ -27,6 +27,18 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fohorem"
+    ],
+    "name:deu_x_preferred":[
+        "Fohorem"
+    ],
+    "name:ind_x_preferred":[
+        "Fohorem"
+    ],
+    "name:tet_x_preferred":[
+        "Fohor\u00e9n"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1360322147,
-    "wof:lastmodified":1537574437,
+    "wof:lastmodified":1564131491,
     "wof:name":"Fohorem",
     "wof:parent_id":85678975,
     "wof:placetype":"locality",

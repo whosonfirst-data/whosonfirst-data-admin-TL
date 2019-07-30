@@ -27,6 +27,15 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:als_x_preferred":[
+        "Berau"
+    ],
+    "name:deu_x_preferred":[
+        "Berau"
+    ],
+    "name:ind_x_preferred":[
+        "Berau"
+    ],
     "name:und_x_variant":[
         "Maquedade",
         "Makadade",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1293323255,
-    "wof:lastmodified":1537706420,
+    "wof:lastmodified":1564131255,
     "wof:name":"Berau",
     "wof:parent_id":85678943,
     "wof:placetype":"locality",

@@ -27,6 +27,24 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tepa"
+    ],
+    "name:deu_x_preferred":[
+        "Tepa"
+    ],
+    "name:fin_x_preferred":[
+        "Tepa"
+    ],
+    "name:fra_x_preferred":[
+        "Tepa"
+    ],
+    "name:pol_x_preferred":[
+        "Tepa"
+    ],
+    "name:swe_x_preferred":[
+        "Tepa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1360321035,
-    "wof:lastmodified":1536602094,
+    "wof:lastmodified":1564131490,
     "wof:name":"Tepa",
     "wof:parent_id":85678971,
     "wof:placetype":"locality",

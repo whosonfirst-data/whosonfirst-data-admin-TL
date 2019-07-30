@@ -27,6 +27,15 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mape"
+    ],
+    "name:msa_x_preferred":[
+        "Mape"
+    ],
+    "name:tet_x_preferred":[
+        "Mape"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1259617115,
-    "wof:lastmodified":1537574438,
+    "wof:lastmodified":1564131596,
     "wof:name":"Mape",
     "wof:parent_id":85678975,
     "wof:placetype":"locality",

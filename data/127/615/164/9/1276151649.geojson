@@ -27,6 +27,72 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Trans"
+    ],
+    "name:ces_x_preferred":[
+        "Trans"
+    ],
+    "name:dan_x_preferred":[
+        "Trans"
+    ],
+    "name:deu_x_preferred":[
+        "Trans"
+    ],
+    "name:fra_x_preferred":[
+        "Trans"
+    ],
+    "name:isl_x_preferred":[
+        "Trans"
+    ],
+    "name:ita_x_preferred":[
+        "Trans"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30e9\u30f3\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2b8\ub79c\uc2a4"
+    ],
+    "name:lit_x_preferred":[
+        "Trans"
+    ],
+    "name:nld_x_preferred":[
+        "Trans"
+    ],
+    "name:nor_x_preferred":[
+        "Trans"
+    ],
+    "name:oci_x_preferred":[
+        "Trans"
+    ],
+    "name:pms_x_preferred":[
+        "Trans"
+    ],
+    "name:pol_x_preferred":[
+        "Trans"
+    ],
+    "name:por_x_preferred":[
+        "Trans"
+    ],
+    "name:ron_x_preferred":[
+        "Trans"
+    ],
+    "name:spa_x_preferred":[
+        "Trans"
+    ],
+    "name:swe_x_preferred":[
+        "Trans"
+    ],
+    "name:tur_x_preferred":[
+        "Trans"
+    ],
+    "name:vie_x_preferred":[
+        "Trans"
+    ],
+    "name:zho_x_preferred":[
+        "Trans"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +114,7 @@
         }
     ],
     "wof:id":1276151649,
-    "wof:lastmodified":1537021316,
+    "wof:lastmodified":1564131309,
     "wof:name":"Trans",
     "wof:parent_id":85678951,
     "wof:placetype":"locality",

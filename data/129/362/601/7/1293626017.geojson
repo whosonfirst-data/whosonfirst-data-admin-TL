@@ -27,6 +27,12 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c1\u03af\u03ba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u06cc\u06a9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1293626017,
-    "wof:lastmodified":1537081242,
+    "wof:lastmodified":1564131221,
     "wof:name":"Barique",
     "wof:parent_id":85678985,
     "wof:placetype":"locality",

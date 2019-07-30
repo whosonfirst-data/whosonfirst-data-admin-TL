@@ -27,6 +27,51 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Vilanova"
+    ],
+    "name:bre_x_preferred":[
+        "Vilanova"
+    ],
+    "name:cat_x_preferred":[
+        "Vilanova"
+    ],
+    "name:ceb_x_preferred":[
+        "Vilanova"
+    ],
+    "name:deu_x_preferred":[
+        "Vilanova"
+    ],
+    "name:eus_x_preferred":[
+        "Vilanova"
+    ],
+    "name:fra_x_preferred":[
+        "Vilanova"
+    ],
+    "name:glg_x_preferred":[
+        "Vilanova"
+    ],
+    "name:ita_x_preferred":[
+        "Vilanova"
+    ],
+    "name:nld_x_preferred":[
+        "Vilanova"
+    ],
+    "name:oci_x_preferred":[
+        "Vilanova"
+    ],
+    "name:sco_x_preferred":[
+        "Vilanova"
+    ],
+    "name:spa_x_preferred":[
+        "Vilanova"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u043b\u0430\u043d\u043e\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Vilanova"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +93,7 @@
         }
     ],
     "wof:id":1360222499,
-    "wof:lastmodified":1536747154,
+    "wof:lastmodified":1564131477,
     "wof:name":"Vilanova",
     "wof:parent_id":85678957,
     "wof:placetype":"locality",

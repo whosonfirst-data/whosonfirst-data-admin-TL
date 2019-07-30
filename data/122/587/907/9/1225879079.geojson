@@ -27,6 +27,30 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Raca"
+    ],
+    "name:deu_x_preferred":[
+        "Raca"
+    ],
+    "name:hsb_x_preferred":[
+        "Raca"
+    ],
+    "name:ita_x_preferred":[
+        "Raca"
+    ],
+    "name:nld_x_preferred":[
+        "Raca"
+    ],
+    "name:spa_x_preferred":[
+        "Raca"
+    ],
+    "name:sqi_x_preferred":[
+        "Ra\u00e7a"
+    ],
+    "name:swe_x_preferred":[
+        "Raca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1225879079,
-    "wof:lastmodified":1536965398,
+    "wof:lastmodified":1564131631,
     "wof:name":"Raca",
     "wof:parent_id":85678997,
     "wof:placetype":"locality",

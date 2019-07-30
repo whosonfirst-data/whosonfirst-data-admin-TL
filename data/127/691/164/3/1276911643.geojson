@@ -27,6 +27,9 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Laclubar"
+    ],
     "name:und_x_variant":[
         "Vila de Ourique",
         "Laklubar",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276911643,
-    "wof:lastmodified":1537706421,
+    "wof:lastmodified":1564131325,
     "wof:name":"Laclubar",
     "wof:parent_id":85678985,
     "wof:placetype":"locality",

@@ -27,6 +27,18 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Maucatar"
+    ],
+    "name:deu_x_preferred":[
+        "Maucatar"
+    ],
+    "name:ind_x_preferred":[
+        "Maucatar"
+    ],
+    "name:tet_x_preferred":[
+        "Maukatar"
+    ],
     "name:und_x_variant":[
         "Mauc\u00e1tar"
     ],
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1225979171,
-    "wof:lastmodified":1537706419,
+    "wof:lastmodified":1564131639,
     "wof:name":"Maucatar",
     "wof:parent_id":85678975,
     "wof:placetype":"locality",

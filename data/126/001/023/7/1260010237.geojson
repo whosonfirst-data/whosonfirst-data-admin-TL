@@ -27,6 +27,15 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Daule"
+    ],
+    "name:spa_x_preferred":[
+        "Daule"
+    ],
+    "name:swe_x_preferred":[
+        "Daule"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1260010237,
-    "wof:lastmodified":1537090320,
+    "wof:lastmodified":1564131418,
     "wof:name":"Daule",
     "wof:parent_id":85678967,
     "wof:placetype":"locality",

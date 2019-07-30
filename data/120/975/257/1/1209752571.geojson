@@ -27,8 +27,23 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lifau"
+    ],
+    "name:msa_x_preferred":[
+        "Lifau"
+    ],
+    "name:por_x_preferred":[
+        "Lifau"
+    ],
+    "name:tet_x_preferred":[
+        "Lifau"
+    ],
     "name:und_x_variant":[
         "Sifaoe"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0641\u0627\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1209752571,
-    "wof:lastmodified":1537706420,
+    "wof:lastmodified":1564131393,
     "wof:name":"Lifau",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -27,14 +27,32 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bobonaro"
+    ],
+    "name:fra_x_preferred":[
+        "Bobonaro"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Bobonaro"
+    ],
+    "name:msa_x_preferred":[
+        "Bobonaro"
+    ],
+    "name:pol_x_preferred":[
+        "Bobonaro"
+    ],
+    "name:por_x_preferred":[
+        "Bobonaro"
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0431\u043e\u043d\u0430\u0440\u0443"
     ],
     "name:tet_x_preferred":[
         "Bobonaru"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0628\u0648\u0646\u0627\u0631\u0648"
     ],
     "name:zho_x_preferred":[
         "\u535a\u535a\u7d0d\u7f85\u7e23"
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1193054637,
-    "wof:lastmodified":1537706426,
+    "wof:lastmodified":1564131405,
     "wof:name":"Bobonaro",
     "wof:parent_id":85678971,
     "wof:placetype":"locality",

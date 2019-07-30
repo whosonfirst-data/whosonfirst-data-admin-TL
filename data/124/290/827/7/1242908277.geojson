@@ -27,6 +27,12 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Kemerdekaan"
+    ],
+    "name:msa_x_preferred":[
+        "Merdeka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1242908277,
-    "wof:lastmodified":1537081238,
+    "wof:lastmodified":1564131557,
     "wof:name":"Merdeka",
     "wof:parent_id":85678971,
     "wof:placetype":"locality",

@@ -27,6 +27,12 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Correio"
+    ],
+    "name:ltz_x_preferred":[
+        "Correio"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632583
@@ -36,7 +42,7 @@
         "gn:id":8693268
     },
     "wof:country":"TL",
-    "wof:geomhash":"d7515d42563b6dc9247a842f69f0ec8d",
+    "wof:geomhash":"516e9aa656adbf356f4d3322edff6a6c",
     "wof:hierarchy":[
         {
             "country_id":85632583,
@@ -44,7 +50,7 @@
         }
     ],
     "wof:id":1209645935,
-    "wof:lastmodified":1536280736,
+    "wof:lastmodified":1564131340,
     "wof:name":"Correio",
     "wof:parent_id":85632583,
     "wof:placetype":"locality",
@@ -55,9 +61,9 @@
 },
   "bbox": [
     125.5804,
-    -8.560880000000001,
+    -8.56088,
     125.5804,
-    -8.560880000000001
+    -8.56088
 ],
   "geometry": {"coordinates":[125.5804,-8.56088],"type":"Point"}
 }

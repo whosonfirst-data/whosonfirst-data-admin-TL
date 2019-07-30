@@ -27,6 +27,21 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Sou"
+    ],
+    "name:ceb_x_preferred":[
+        "Sou"
+    ],
+    "name:fra_x_preferred":[
+        "Sou"
+    ],
+    "name:spa_x_preferred":[
+        "Sou"
+    ],
+    "name:swe_x_preferred":[
+        "Sou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1326563635,
-    "wof:lastmodified":1536939489,
+    "wof:lastmodified":1564131119,
     "wof:name":"Sou",
     "wof:parent_id":85678975,
     "wof:placetype":"locality",

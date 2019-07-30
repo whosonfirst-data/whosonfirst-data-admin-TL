@@ -27,6 +27,9 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Oesilo"
+    ],
     "name:und_x_variant":[
         "Oessilo",
         "Oesilo"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226476829,
-    "wof:lastmodified":1537706418,
+    "wof:lastmodified":1564131644,
     "wof:name":"Oesilo",
     "wof:parent_id":85678953,
     "wof:placetype":"locality",

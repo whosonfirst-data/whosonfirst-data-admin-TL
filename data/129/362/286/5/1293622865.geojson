@@ -27,6 +27,18 @@
     "iso:country":"TL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Fot"
+    ],
+    "name:ita_x_preferred":[
+        "Fotr"
+    ],
+    "name:spa_x_preferred":[
+        "Fot"
+    ],
+    "name:swe_x_preferred":[
+        "Fot"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1293622865,
-    "wof:lastmodified":1537085918,
+    "wof:lastmodified":1564131218,
     "wof:name":"Fot",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
