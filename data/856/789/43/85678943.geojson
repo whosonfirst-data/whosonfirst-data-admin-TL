@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DL"
+    ],
     "lbl:latitude":-8.559183,
     "lbl:longitude":125.639539,
     "mps:latitude":-8.559183,
@@ -277,9 +280,6 @@
         }
     ],
     "wof:id":85678943,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tet",
         "por"
@@ -288,7 +288,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1563317600,
+    "wof:lastmodified":1565737300,
     "wof:name":"Dili",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

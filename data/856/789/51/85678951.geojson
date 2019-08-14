@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LQ"
+    ],
     "lbl:latitude":-8.672385,
     "lbl:longitude":125.241237,
     "mps:latitude":-8.672385,
@@ -294,9 +297,6 @@
         }
     ],
     "wof:id":85678951,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tet",
         "por"
@@ -305,7 +305,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1563317598,
+    "wof:lastmodified":1565737299,
     "wof:name":"Liquica",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

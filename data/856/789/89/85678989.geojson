@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MF"
+    ],
     "lbl:latitude":-9.004995,
     "lbl:longitude":125.783131,
     "mps:latitude":-9.004995,
@@ -290,9 +293,6 @@
         }
     ],
     "wof:id":85678989,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tet",
         "por"
@@ -301,7 +301,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1563317599,
+    "wof:lastmodified":1565737300,
     "wof:name":"Manufahi",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

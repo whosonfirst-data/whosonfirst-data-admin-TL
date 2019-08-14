@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BT"
+    ],
     "lbl:latitude":-8.497526,
     "lbl:longitude":126.969414,
     "mps:latitude":-8.497526,
@@ -291,9 +294,6 @@
         }
     ],
     "wof:id":85678997,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tet",
         "por"
@@ -302,7 +302,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1563317600,
+    "wof:lastmodified":1565737300,
     "wof:name":"Lautem",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

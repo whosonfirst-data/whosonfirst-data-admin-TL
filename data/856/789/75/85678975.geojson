@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CL"
+    ],
     "lbl:latitude":-9.308256,
     "lbl:longitude":125.14638,
     "mps:latitude":-9.308256,
@@ -285,9 +288,6 @@
         }
     ],
     "wof:id":85678975,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tet",
         "por"
@@ -296,7 +296,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1563317599,
+    "wof:lastmodified":1565737300,
     "wof:name":"Cova Lima",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

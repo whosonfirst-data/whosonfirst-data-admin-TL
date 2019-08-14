@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ER"
+    ],
     "lbl:latitude":-8.82346,
     "lbl:longitude":125.355357,
     "mps:latitude":-8.82346,
@@ -284,9 +287,6 @@
         }
     ],
     "wof:id":85678979,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tet",
         "por"
@@ -295,7 +295,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1563317601,
+    "wof:lastmodified":1565737300,
     "wof:name":"Ermera",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

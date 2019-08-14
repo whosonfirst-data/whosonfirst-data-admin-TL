@@ -15,6 +15,9 @@
     "itu:country_code":[
         "670"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TL"
+    ],
     "lbl:latitude":-8.801828,
     "lbl:longitude":125.866054,
     "mps:latitude":-8.801828,
@@ -1008,9 +1011,6 @@
         }
     ],
     "wof:id":85632583,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tet",
         "por"
@@ -1019,7 +1019,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1563317597,
+    "wof:lastmodified":1565737299,
     "wof:name":"East Timor",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

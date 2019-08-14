@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AN"
+    ],
     "lbl:latitude":-9.020041,
     "lbl:longitude":125.506168,
     "mps:latitude":-9.020041,
@@ -291,9 +294,6 @@
         }
     ],
     "wof:id":85678963,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tet",
         "por"
@@ -302,7 +302,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1563317601,
+    "wof:lastmodified":1565737300,
     "wof:name":"Ainaro",
     "wof:parent_id":85632583,
     "wof:placetype":"region",
