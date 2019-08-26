@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"126.54667,-8.65333,126.58667,-8.61333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Abo"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1343989285,
-    "wof:lastmodified":1564131163,
+    "wof:lastmodified":1566666643,
     "wof:name":"Abo",
     "wof:parent_id":85678967,
     "wof:placetype":"locality",

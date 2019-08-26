@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.57183,-9.13946,125.61183,-9.09946",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nova-Luso",
         "Hatu-Udo",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1277019683,
-    "wof:lastmodified":1537706421,
+    "wof:lastmodified":1566666725,
     "wof:name":"Hatoudo",
     "wof:parent_id":85678963,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.62806,-8.66825,125.66806,-8.62825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260320363,
-    "wof:lastmodified":1536662509,
+    "wof:lastmodified":1566666820,
     "wof:name":"Berlorai",
     "wof:parent_id":85678957,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"TL",
     "lbl:latitude":-8.55861,
     "lbl:longitude":125.57361,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -374,7 +376,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0456\u043b\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nova Dili"
     ],
     "name:urd_x_preferred":[
@@ -544,7 +546,7 @@
         "gn:id":1645457,
         "gp:id":1047376,
         "loc:id":"n89177980",
-        "qs:id":774463,
+        "qs_pg:id":774463,
         "wd:id":"Q9310",
         "wk:page":"Dili"
     },
@@ -560,7 +562,7 @@
         }
     ],
     "wof:id":421196557,
-    "wof:lastmodified":1563317874,
+    "wof:lastmodified":1566666873,
     "wof:name":"Dili",
     "wof:parent_id":85678943,
     "wof:placetype":"locality",

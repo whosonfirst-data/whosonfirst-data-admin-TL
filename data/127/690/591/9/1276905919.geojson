@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.77694,-8.67417,125.81694,-8.63417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276905919,
-    "wof:lastmodified":1537005716,
+    "wof:lastmodified":1566666748,
     "wof:name":"Fahilacor",
     "wof:parent_id":85678985,
     "wof:placetype":"locality",

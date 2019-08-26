@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.49639,-8.99722,125.53639,-8.95722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242708899,
-    "wof:lastmodified":1536873741,
+    "wof:lastmodified":1566666898,
     "wof:name":"Mantelau",
     "wof:parent_id":85678963,
     "wof:placetype":"locality",

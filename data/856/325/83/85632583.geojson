@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":-8.801828,
     "lbl:longitude":125.866054,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-8.801828,
     "mps:longitude":125.866054,
     "mz:hierarchy_label":1,
@@ -791,11 +793,7 @@
         "\u0422\u0456\u043c\u043e\u0440-\u041b\u0435\u0448\u0442\u0456"
     ],
     "name:und_x_variant":[
-        "Republik Demokratik Timor Timur",
-        "Timor Timur"
-    ],
-    "name:unk_x_variant":[
-        "Rep\u00fablica Democr\u00e1tica de Timor-Leste"
+        "Republik Demokratik Timor Timur"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0634\u0631\u0642\u06cc \u062a\u06cc\u0645\u0648\u0631"
@@ -952,7 +950,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"670",
     "statoids:ds":"RI",
@@ -995,7 +993,7 @@
         "mzb:id":"east-timor",
         "ne:adm0_a3":"TLS",
         "nyt:id":"N76550444295982757091",
-        "qs:id":1087775,
+        "qs_pg:id":1087775,
         "uncrt:id":"RI",
         "wd:id":"Q574",
         "wk:page":"East Timor",
@@ -1019,7 +1017,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1565737299,
+    "wof:lastmodified":1566666680,
     "wof:name":"East Timor",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.16703,-9.04361,125.20703,-9.00361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293724241,
-    "wof:lastmodified":1536943633,
+    "wof:lastmodified":1566666720,
     "wof:name":"Pipgalak",
     "wof:parent_id":85678971,
     "wof:placetype":"locality",

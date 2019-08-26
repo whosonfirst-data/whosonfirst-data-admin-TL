@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.11342,-9.2697,125.15342,-9.2297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310535271,
-    "wof:lastmodified":1536873012,
+    "wof:lastmodified":1566666830,
     "wof:name":"Dato Tolu",
     "wof:parent_id":85678975,
     "wof:placetype":"locality",

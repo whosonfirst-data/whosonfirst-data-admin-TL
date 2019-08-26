@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.58861,-9.02611,125.62861,-8.98611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632583
@@ -36,7 +40,7 @@
         "gn:id":1936985
     },
     "wof:country":"TL",
-    "wof:geomhash":"cdc1b4f8e7a58171211a571077e687e1",
+    "wof:geomhash":"9f0bc969aee16154e8968e0f59b884f7",
     "wof:hierarchy":[
         {
             "country_id":85632583,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209345335,
-    "wof:lastmodified":1536289931,
+    "wof:lastmodified":1566666787,
     "wof:name":"Riatu",
     "wof:parent_id":85632583,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     125.60861,
-    -9.006110000000003,
+    -9.00611,
     125.60861,
-    -9.006110000000003
+    -9.00611
 ],
   "geometry": {"coordinates":[125.60861,-9.00611],"type":"Point"}
 }

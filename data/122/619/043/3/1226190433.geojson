@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.37806,-8.945,125.41806,-8.905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Atsabe"
     ],
@@ -35,8 +39,7 @@
     ],
     "name:und_x_variant":[
         "Nova Our\u00e9m",
-        "Batuane",
-        "Atsabe"
+        "Batuane"
     ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u062a\u0633\u06cc\u0628"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1226190433,
-    "wof:lastmodified":1564131610,
+    "wof:lastmodified":1566666939,
     "wof:name":"Atsabe",
     "wof:parent_id":85678979,
     "wof:placetype":"locality",

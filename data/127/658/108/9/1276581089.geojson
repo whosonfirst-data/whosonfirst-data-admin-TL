@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.94111,-8.77583,125.98111,-8.73583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0435\u0438"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1276581089,
-    "wof:lastmodified":1564131297,
+    "wof:lastmodified":1566666737,
     "wof:name":"Lei",
     "wof:parent_id":85678985,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-8.82346,
     "lbl:longitude":125.355357,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-8.82346,
     "mps:longitude":125.355357,
     "mz:hierarchy_label":1,
@@ -137,7 +138,7 @@
         "Ermera"
     ],
     "name:tam_x_preferred":[
-        "\u0b8f\u0bb0\u0bcd\u0bae\u0bc6\u0bb0\u0bbe  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0b8f\u0bb0\u0bcd\u0bae\u0bc6\u0bb0\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c0e\u0c30\u0c4d\u0c2e\u0c46\u0c30\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -156,9 +157,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0415\u0440\u043c\u0435\u0440\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Kabupaten Ermera"
     ],
     "name:urd_x_preferred":[
         "\u0639\u0631\u0645\u06cc\u0631\u0627 \u0636\u0644\u0639"
@@ -245,9 +243,9 @@
     "qs:type":"District|Regencies",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-11",
+    "src:population_date":"2010-07-11",
     "statoids:area_km":"746",
     "statoids:area_mi":"288",
     "statoids:as_of_date":"2010-07-11",
@@ -272,7 +270,7 @@
         "gp:id":24549895,
         "hasc:id":"TL.ER",
         "iso:id":"TL-ER",
-        "qs:id":892956,
+        "qs_pg:id":892956,
         "unlc:id":"TL-ER",
         "wd:id":"Q668171",
         "wk:page":"Ermera District"
@@ -295,11 +293,10 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1565737300,
+    "wof:lastmodified":1566666681,
     "wof:name":"Ermera",
     "wof:parent_id":85632583,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":114635,
     "wof:population_rank":9,

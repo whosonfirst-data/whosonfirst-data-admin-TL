@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"126.49528,-8.70111,126.53528,-8.66111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326966923,
-    "wof:lastmodified":1536853666,
+    "wof:lastmodified":1566666632,
     "wof:name":"Ateuaissi",
     "wof:parent_id":85678967,
     "wof:placetype":"locality",

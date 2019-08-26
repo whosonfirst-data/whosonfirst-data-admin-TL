@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"126.95278,-8.56944,126.99278,-8.52944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chaivacha",
         "Chaiuacha Lama"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343992249,
-    "wof:lastmodified":1537706426,
+    "wof:lastmodified":1566666649,
     "wof:name":"Chaiuacha Lama",
     "wof:parent_id":85678997,
     "wof:placetype":"locality",

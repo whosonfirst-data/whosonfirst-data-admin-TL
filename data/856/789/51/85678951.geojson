@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-8.672385,
     "lbl:longitude":125.241237,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-8.672385,
     "mps:longitude":125.241237,
     "mz:hierarchy_label":1,
@@ -170,9 +171,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0438\u043a\u0456\u0441\u0430"
     ],
-    "name:unk_x_variant":[
-        "Circunscri\u00e7\u00e3o Civil de Liqui\u00e7\u00e1"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u06a9\u06cc\u0633\u0627 \u0636\u0644\u0639"
     ],
@@ -255,9 +253,9 @@
     "qs:type":"District|Regencies",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-11",
+    "src:population_date":"2010-07-11",
     "statoids:area_km":"543",
     "statoids:area_mi":"210",
     "statoids:as_of_date":"2010-07-11",
@@ -282,7 +280,7 @@
         "gp:id":24549897,
         "hasc:id":"TL.LQ",
         "iso:id":"TL-LI",
-        "qs:id":1062992,
+        "qs_pg:id":1062992,
         "unlc:id":"TL-LI",
         "wd:id":"Q860897",
         "wk:page":"Liqui\u00e7\u00e1 District"
@@ -305,11 +303,10 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1565737299,
+    "wof:lastmodified":1566666680,
     "wof:name":"Liquica",
     "wof:parent_id":85632583,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":63329,
     "wof:population_rank":8,

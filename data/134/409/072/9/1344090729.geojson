@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.69439,-8.54295,125.73439,-8.50295",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1344090729,
-    "wof:lastmodified":1536830998,
+    "wof:lastmodified":1566666653,
     "wof:name":"Pasir Putih",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

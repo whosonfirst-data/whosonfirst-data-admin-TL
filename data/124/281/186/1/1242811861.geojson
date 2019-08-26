@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"124.93444,-8.97694,124.97444,-8.93694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mota\u2019ain"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242811861,
-    "wof:lastmodified":1564131531,
+    "wof:lastmodified":1566666884,
     "wof:name":"Motaain",
     "wof:parent_id":85678971,
     "wof:placetype":"locality",

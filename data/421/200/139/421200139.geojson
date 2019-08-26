@@ -10,8 +10,12 @@
     "geom:latitude":-9.2,
     "geom:longitude":124.38333,
     "iso:country":"TL",
+    "lbl:bbox":"124.36333,-9.22,124.40333,-9.18",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u062a \u0645\u0627\u0643\u0627\u0633\u0627\u0631"
@@ -44,7 +48,7 @@
         "\u0aaa\u0ac7\u0aa8\u0acd\u0a9f\u0ac7 \u0aae\u0ac7\u0a95\u0ab8\u0acd\u0ab8\u0ab0"
     ],
     "name:hin_x_preferred":[
-        "\u092a\u0948\u0902\u091f  \u092e\u0915\u093e\u0938\u094d\u0938\u0930"
+        "\u092a\u0948\u0902\u091f \u092e\u0915\u093e\u0938\u094d\u0938\u0930"
     ],
     "name:ind_x_preferred":[
         "Pante Makasar"
@@ -118,7 +122,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043d\u0442\u0435-\u041c\u0430\u043a\u0430\u0441\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vila Taveiro"
     ],
     "name:urd_x_preferred":[
@@ -157,7 +161,7 @@
     "wof:concordances":{
         "gn:id":1632533,
         "gp:id":1048089,
-        "qs:id":1289381,
+        "qs_pg:id":1289381,
         "wd:id":"Q263005",
         "wk:page":"Pante Macassar"
     },
@@ -171,7 +175,7 @@
         }
     ],
     "wof:id":421200139,
-    "wof:lastmodified":1563317877,
+    "wof:lastmodified":1566666874,
     "wof:name":"Pante Macassar",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

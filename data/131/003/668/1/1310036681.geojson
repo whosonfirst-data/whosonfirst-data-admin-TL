@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.79833,-8.60361,125.83833,-8.56361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bua"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1310036681,
-    "wof:lastmodified":1564131462,
+    "wof:lastmodified":1566666839,
     "wof:name":"Bua",
     "wof:parent_id":85678985,
     "wof:placetype":"locality",

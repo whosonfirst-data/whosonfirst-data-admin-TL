@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.63642,-9.01256,125.67642,-8.97256",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309748629,
-    "wof:lastmodified":1537012785,
+    "wof:lastmodified":1566666871,
     "wof:name":"Marimata",
     "wof:parent_id":85678989,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-9.004995,
     "lbl:longitude":125.783131,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-9.004995,
     "mps:longitude":125.783131,
     "mz:hierarchy_label":1,
@@ -146,7 +147,7 @@
         "Manufahi"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0ba9\u0bc1\u0baa\u0bbe\u0bb9\u0bbf  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+        "\u0bae\u0ba9\u0bc1\u0baa\u0bbe\u0bb9\u0bbf \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c28\u0c41\u0c2b\u0c3e\u0c39\u0c3f \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
@@ -166,7 +167,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043d\u0443\u0444\u0430\u0433\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Same"
     ],
     "name:urd_x_preferred":[
@@ -251,9 +252,9 @@
     "qs:type":"District|Regencies",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-11",
+    "src:population_date":"2010-07-11",
     "statoids:area_km":"1,325",
     "statoids:area_mi":"512",
     "statoids:as_of_date":"2010-07-11",
@@ -278,7 +279,7 @@
         "gp:id":24549901,
         "hasc:id":"TL.MF",
         "iso:id":"TL-MF",
-        "qs:id":911156,
+        "qs_pg:id":911156,
         "unlc:id":"TL-MF",
         "wd:id":"Q629934",
         "wk:page":"Manufahi District"
@@ -301,11 +302,10 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1565737300,
+    "wof:lastmodified":1566666681,
     "wof:name":"Manufahi",
     "wof:parent_id":85632583,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":48894,
     "wof:population_rank":7,

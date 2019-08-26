@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.49172,-8.68496,125.53172,-8.64496",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259928203,
-    "wof:lastmodified":1536715201,
+    "wof:lastmodified":1566666930,
     "wof:name":"Eraulo",
     "wof:parent_id":85678957,
     "wof:placetype":"locality",

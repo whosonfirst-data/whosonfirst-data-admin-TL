@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.04667,-9.33667,125.08667,-9.29667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327367473,
-    "wof:lastmodified":1536775280,
+    "wof:lastmodified":1566666599,
     "wof:name":"Beiseuc",
     "wof:parent_id":85678975,
     "wof:placetype":"locality",
