@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.23167,-9.33444,125.27167,-9.29444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Debos"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1242713939,
-    "wof:lastmodified":1564131553,
+    "wof:lastmodified":1566666900,
     "wof:name":"Debos",
     "wof:parent_id":85678975,
     "wof:placetype":"locality",

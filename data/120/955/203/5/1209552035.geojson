@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.31167,-8.68444,125.35167,-8.64444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632583
@@ -36,7 +40,7 @@
         "gn:id":1943631
     },
     "wof:country":"TL",
-    "wof:geomhash":"2964427d4abc21aadabd20e09f2ef0d7",
+    "wof:geomhash":"f74aefef58ee35f7e8c01ca0f21ca1dc",
     "wof:hierarchy":[
         {
             "country_id":85632583,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209552035,
-    "wof:lastmodified":1536283663,
+    "wof:lastmodified":1566666765,
     "wof:name":"Vazetida Algar",
     "wof:parent_id":85632583,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     125.33167,
-    -8.664439999999999,
+    -8.66444,
     125.33167,
-    -8.664439999999999
+    -8.66444
 ],
   "geometry": {"coordinates":[125.33167,-8.66444],"type":"Point"}
 }

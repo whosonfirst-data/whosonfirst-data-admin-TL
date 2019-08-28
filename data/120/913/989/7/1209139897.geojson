@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"126.8025,-8.73944,126.8425,-8.69944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632583
@@ -36,7 +40,7 @@
         "gn:id":1945183
     },
     "wof:country":"TL",
-    "wof:geomhash":"5983e829aa7aecf0883440cd08fc5199",
+    "wof:geomhash":"40dde7fbca6e5cc888b11a4d5e7bf987",
     "wof:hierarchy":[
         {
             "country_id":85632583,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209139897,
-    "wof:lastmodified":1536296538,
+    "wof:lastmodified":1566666775,
     "wof:name":"Ossoira",
     "wof:parent_id":85632583,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     126.8225,
-    -8.719439999999999,
+    -8.71944,
     126.8225,
-    -8.719439999999999
+    -8.71944
 ],
   "geometry": {"coordinates":[126.82250000000001,-8.71944],"type":"Point"}
 }

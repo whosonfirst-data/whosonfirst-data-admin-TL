@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.84528,-8.60444,125.88528,-8.56444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632583
@@ -36,7 +40,7 @@
         "gn:id":1944935
     },
     "wof:country":"TL",
-    "wof:geomhash":"dd9cac940111d9a9a8de048bb1d36cde",
+    "wof:geomhash":"6338a63b4d4728dadb78c5092dbe2c71",
     "wof:hierarchy":[
         {
             "country_id":85632583,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209348335,
-    "wof:lastmodified":1536289833,
+    "wof:lastmodified":1566666788,
     "wof:name":"Maloroc",
     "wof:parent_id":85632583,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     125.86528,
-    -8.584439999999999,
+    -8.58444,
     125.86528,
-    -8.584439999999999
+    -8.58444
 ],
   "geometry": {"coordinates":[125.86528,-8.58444],"type":"Point"}
 }

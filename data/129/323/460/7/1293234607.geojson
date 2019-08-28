@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.93944,-9.06278,125.97944,-9.02278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293234607,
-    "wof:lastmodified":1536654717,
+    "wof:lastmodified":1566666699,
     "wof:name":"Caicasa",
     "wof:parent_id":85678989,
     "wof:placetype":"locality",

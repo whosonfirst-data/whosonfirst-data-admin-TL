@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"126.51722,-8.75389,126.55722,-8.71389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632583
@@ -36,7 +40,7 @@
         "gn:id":1943536
     },
     "wof:country":"TL",
-    "wof:geomhash":"ff95816b208ef64f93d6d6b6afc478b3",
+    "wof:geomhash":"4cdac376b9e921cf7d6ca666c8670144",
     "wof:hierarchy":[
         {
             "country_id":85632583,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209250927,
-    "wof:lastmodified":1536293007,
+    "wof:lastmodified":1566666774,
     "wof:name":"Samadare",
     "wof:parent_id":85632583,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     126.53722,
-    -8.733889999999999,
+    -8.73389,
     126.53722,
-    -8.733889999999999
+    -8.73389
 ],
   "geometry": {"coordinates":[126.53722,-8.73389],"type":"Point"}
 }

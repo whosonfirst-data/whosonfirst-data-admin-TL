@@ -11,10 +11,14 @@
     "geom:longitude":125.6375,
     "gn:country":"TL",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"TL",
+    "lbl:bbox":"125.6175,-8.68778,125.6575,-8.64778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Ritutu",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -28,7 +32,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1943121,
-        "qs:id":569615
+        "qs_pg:id":569615
     },
     "wof:country":"TL",
     "wof:created":1469050981,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":890412907,
-    "wof:lastmodified":1505343411,
+    "wof:lastmodified":1566666874,
     "wof:name":"Ritutu",
     "wof:parent_id":85678957,
     "wof:placetype":"locality",

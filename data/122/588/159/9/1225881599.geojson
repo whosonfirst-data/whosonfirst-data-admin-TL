@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"124.32722,-9.39139,124.36722,-9.35139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0646\u0648"
     ],
@@ -234,7 +238,7 @@
         }
     ],
     "wof:id":1225881599,
-    "wof:lastmodified":1564131629,
+    "wof:lastmodified":1566666951,
     "wof:name":"Bono",
     "wof:parent_id":85678953,
     "wof:placetype":"locality",

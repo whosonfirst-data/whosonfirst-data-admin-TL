@@ -25,8 +25,12 @@
     "gn:population":21539,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.23648,-9.33286,125.27648,-9.29286",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Suai"
     ],
@@ -68,8 +72,7 @@
     ],
     "name:und_x_variant":[
         "Swai",
-        "Soeai",
-        "Suai"
+        "Soeai"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0627\u0626\u06cc"
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1276905873,
-    "wof:lastmodified":1564131315,
+    "wof:lastmodified":1566666748,
     "wof:name":"Suai",
     "wof:parent_id":85678975,
     "wof:placetype":"locality",

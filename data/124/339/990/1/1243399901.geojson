@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.17944,-9.10778,125.21944,-9.06778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243399901,
-    "wof:lastmodified":1536871597,
+    "wof:lastmodified":1566666880,
     "wof:name":"Hoololo",
     "wof:parent_id":85678971,
     "wof:placetype":"locality",

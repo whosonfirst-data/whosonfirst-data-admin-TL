@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.08778,-8.72056,125.12778,-8.68056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Flarsima",
         "Flarsirna"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209043009,
-    "wof:lastmodified":1537706425,
+    "wof:lastmodified":1566666784,
     "wof:name":"Flarsirna",
     "wof:parent_id":85632583,
     "wof:placetype":"locality",

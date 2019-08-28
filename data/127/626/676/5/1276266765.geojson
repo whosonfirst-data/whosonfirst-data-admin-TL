@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"126.68139,-8.53389,126.72139,-8.49389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Beli Uali",
         "Beliwale"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276266765,
-    "wof:lastmodified":1537706427,
+    "wof:lastmodified":1566666728,
     "wof:name":"Beliwale",
     "wof:parent_id":85678967,
     "wof:placetype":"locality",

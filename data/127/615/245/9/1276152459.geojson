@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.64545,-8.58374,125.68545,-8.54374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276152459,
-    "wof:lastmodified":1537020228,
+    "wof:lastmodified":1566666743,
     "wof:name":"Caremon",
     "wof:parent_id":85678943,
     "wof:placetype":"locality",

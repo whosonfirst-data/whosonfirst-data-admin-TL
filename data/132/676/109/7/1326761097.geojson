@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"127.12583,-8.44361,127.16583,-8.40361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Purus"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326761097,
-    "wof:lastmodified":1564131142,
+    "wof:lastmodified":1566666627,
     "wof:name":"Purus",
     "wof:parent_id":85678997,
     "wof:placetype":"locality",

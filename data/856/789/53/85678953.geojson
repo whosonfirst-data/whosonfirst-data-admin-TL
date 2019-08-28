@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":-9.320215,
     "lbl:longitude":124.281095,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-9.320215,
     "mps:longitude":124.281095,
     "mz:hierarchy_label":1,
@@ -176,9 +177,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u043a\u0443\u0441\u0456-\u0410\u043c\u0431\u0435\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "Kabupaten Ambeno"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u06cc\u06a9\u0648\u0633\u06cc \u0636\u0644\u0639"
     ],
@@ -261,9 +259,9 @@
     "qs:type":"District|Regencies",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-11",
+    "src:population_date":"2010-07-11",
     "statoids:area_km":"815",
     "statoids:area_mi":"315",
     "statoids:as_of_date":"2010-07-11",
@@ -289,7 +287,7 @@
         "gp:id":24549906,
         "hasc:id":"TL.AM",
         "iso:id":"TL-OE",
-        "qs:id":1018756,
+        "qs_pg:id":1018756,
         "unlc:id":"TL-OE",
         "wd:id":"Q860639",
         "wk:page":"Oecusse District"
@@ -312,11 +310,10 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1565737300,
+    "wof:lastmodified":1566666681,
     "wof:name":"Ambeno",
     "wof:parent_id":85632583,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":65524,
     "wof:population_rank":8,

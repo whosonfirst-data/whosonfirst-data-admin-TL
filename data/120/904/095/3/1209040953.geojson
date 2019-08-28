@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.19806,-8.68528,125.23806,-8.64528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632583
@@ -36,7 +40,7 @@
         "gn:id":1943424
     },
     "wof:country":"TL",
-    "wof:geomhash":"a1eddf1bfd8c81f231c7202814691331",
+    "wof:geomhash":"dd634fcd7e615cd8dabc193069911a8b",
     "wof:hierarchy":[
         {
             "country_id":85632583,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209040953,
-    "wof:lastmodified":1536299548,
+    "wof:lastmodified":1566666785,
     "wof:name":"Darulema",
     "wof:parent_id":85632583,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     125.21806,
-    -8.665280000000001,
+    -8.66528,
     125.21806,
-    -8.665280000000001
+    -8.66528
 ],
   "geometry": {"coordinates":[125.21805999999999,-8.66528],"type":"Point"}
 }

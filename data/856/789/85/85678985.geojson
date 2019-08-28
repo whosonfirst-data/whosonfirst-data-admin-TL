@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-8.653199,
     "lbl:longitude":125.941838,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-8.653199,
     "mps:longitude":125.941838,
     "mz:hierarchy_label":1,
@@ -71,7 +72,7 @@
         "\u05de\u05e0\u05d8\u05d5\u05d8\u05d5"
     ],
     "name:hin_x_preferred":[
-        "\u092e\u0928\u093e\u0924\u0941\u0924\u094b  \u091c\u093f\u0932\u093e"
+        "\u092e\u0928\u093e\u0924\u0941\u0924\u094b \u091c\u093f\u0932\u093e"
     ],
     "name:ind_x_preferred":[
         "Kabupaten Manatuto"
@@ -137,7 +138,7 @@
         "Manatutodistriktet"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bc1\u0ba4\u0bcb  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bc1\u0ba4\u0bcb \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c28\u0c3e\u0c1f\u0c41\u0c1f\u0c4b \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -156,9 +157,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043d\u0430\u0442\u0443\u0442\u0443"
-    ],
-    "name:unk_x_variant":[
-        "Kabupaten Manatuto"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0646\u0627\u062a\u0648\u062a\u0648 \u0636\u0644\u0639"
@@ -245,9 +243,9 @@
     "qs:type":"District|Regencies",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-11",
+    "src:population_date":"2010-07-11",
     "statoids:area_km":"1,706",
     "statoids:area_mi":"658",
     "statoids:as_of_date":"2010-07-11",
@@ -272,7 +270,7 @@
         "gp:id":24549902,
         "hasc:id":"TL.MT",
         "iso:id":"TL-MT",
-        "qs:id":354742,
+        "qs_pg:id":354742,
         "unlc:id":"TL-MT",
         "wd:id":"Q860630",
         "wk:page":"Manatuto District"
@@ -295,11 +293,10 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1565737300,
+    "wof:lastmodified":1566666682,
     "wof:name":"Manatuto",
     "wof:parent_id":85632583,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":43246,
     "wof:population_rank":7,

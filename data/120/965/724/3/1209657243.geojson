@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.3725,-8.75111,125.4125,-8.71111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632583
@@ -36,7 +40,7 @@
         "gn:id":1942782
     },
     "wof:country":"TL",
-    "wof:geomhash":"47be0eca8e3d836abd63fb9030cd2f92",
+    "wof:geomhash":"ce6f2d146b69b5c0e2dd5c35d368cc46",
     "wof:hierarchy":[
         {
             "country_id":85632583,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209657243,
-    "wof:lastmodified":1536280387,
+    "wof:lastmodified":1566666762,
     "wof:name":"Lekese",
     "wof:parent_id":85632583,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     125.3925,
-    -8.731110000000001,
+    -8.73111,
     125.3925,
-    -8.731110000000001
+    -8.73111
 ],
   "geometry": {"coordinates":[125.3925,-8.73111],"type":"Point"}
 }

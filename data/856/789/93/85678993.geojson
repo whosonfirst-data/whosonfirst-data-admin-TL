@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-8.82207,
     "lbl:longitude":126.32338,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-8.82207,
     "mps:longitude":126.32338,
     "mz:hierarchy_label":1,
@@ -161,7 +162,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043a\u0435\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kabupaten Vikeke"
     ],
     "name:urd_x_preferred":[
@@ -249,9 +250,9 @@
     "qs:type":"District|Regencies",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-11",
+    "src:population_date":"2010-07-11",
     "statoids:area_km":"1,781",
     "statoids:area_mi":"687",
     "statoids:as_of_date":"2010-07-11",
@@ -276,7 +277,7 @@
         "gp:id":24549903,
         "hasc:id":"TL.VQ",
         "iso:id":"TL-VI",
-        "qs:id":268703,
+        "qs_pg:id":268703,
         "unlc:id":"TL-VI",
         "wd:id":"Q610726",
         "wk:page":"Viqueque District"
@@ -299,11 +300,10 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1565737300,
+    "wof:lastmodified":1566666680,
     "wof:name":"Viqueque",
     "wof:parent_id":85632583,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":70177,
     "wof:population_rank":8,

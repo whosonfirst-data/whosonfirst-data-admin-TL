@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dili",
     "iso:country":"TL",
+    "lbl:bbox":"125.25056,-9.18722,125.29056,-9.14722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Lolotoe"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260111649,
-    "wof:lastmodified":1564131427,
+    "wof:lastmodified":1566666817,
     "wof:name":"Lolotoe",
     "wof:parent_id":85678971,
     "wof:placetype":"locality",
