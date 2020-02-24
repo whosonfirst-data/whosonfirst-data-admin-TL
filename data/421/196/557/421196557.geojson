@@ -552,6 +552,9 @@
     },
     "wof:country":"TL",
     "wof:created":1459009885,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"979866fc641a48c466861207fc87fa2a",
     "wof:hierarchy":[
         {
@@ -562,7 +565,7 @@
         }
     ],
     "wof:id":421196557,
-    "wof:lastmodified":1566666873,
+    "wof:lastmodified":1582331162,
     "wof:name":"Dili",
     "wof:parent_id":85678943,
     "wof:placetype":"locality",
