@@ -1001,6 +1001,10 @@
     },
     "wof:country":"TL",
     "wof:country_alpha3":"TLS",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"0461b525cf17c49d4bd336e3fd8f5479",
     "wof:hierarchy":[
         {
@@ -1017,7 +1021,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1566666680,
+    "wof:lastmodified":1582331159,
     "wof:name":"East Timor",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
