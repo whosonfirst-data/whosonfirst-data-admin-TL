@@ -979,9 +979,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"East_Timor",
-        "digitalenvoy:country_code":[
-            626
-        ],
+        "digitalenvoy:country_code":626,
         "fb:id":"en.east_timor",
         "fifa:id":"TLS",
         "fips:code":"TT",
@@ -1024,7 +1022,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1583529233,
+    "wof:lastmodified":1583797442,
     "wof:name":"East Timor",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
