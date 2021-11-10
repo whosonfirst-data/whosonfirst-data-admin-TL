@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Liqui\u00e7\u00e1"
     ],
+    "name:hun_x_preferred":[
+        "Liqui\u00e7\u00e1"
+    ],
     "name:und_x_variant":[
         "Vila de Liqui\u00e7\u00e1",
         "Liquissa",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1276581381,
-    "wof:lastmodified":1566666737,
+    "wof:lastmodified":1636497444,
     "wof:name":"Liquica",
     "wof:parent_id":85678951,
     "wof:placetype":"locality",

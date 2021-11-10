@@ -53,7 +53,16 @@
         "M\u00e9ta"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05d8\u05d4 \u05d0\u05d9\u05e0\u05e7\u05d5\u05d2\u05e0\u05d9\u05d8\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05d8\u05d0"
+    ],
+    "name:hun_x_preferred":[
+        "Meta"
+    ],
+    "name:ind_x_preferred":[
+        "Meta"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d4\u10e2\u10d0..."
@@ -79,6 +88,12 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e17\u0e32"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0679\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Meta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569
@@ -88,7 +103,7 @@
         "gn:id":1944461
     },
     "wof:country":"TL",
-    "wof:geomhash":"400b8ed3501dd3950f6c0d445c67edf9",
+    "wof:geomhash":"0efaa3167b09af47e7cdcf4dfe1be535",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +113,7 @@
         }
     ],
     "wof:id":1326660529,
-    "wof:lastmodified":1566666615,
+    "wof:lastmodified":1636497441,
     "wof:name":"Meta",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -108,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.33693999999998,
+    124.33694,
     -9.455,
-    124.33693999999998,
+    124.33694,
     -9.455
 ],
-  "geometry": {"coordinates":[124.33693999999998,-9.455],"type":"Point"}
+  "geometry": {"coordinates":[124.33694,-9.455],"type":"Point"}
 }

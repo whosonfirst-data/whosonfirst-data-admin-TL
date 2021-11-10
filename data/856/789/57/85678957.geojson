@@ -81,6 +81,9 @@
     "name:hin_x_preferred":[
         "\u090f\u0907\u0932\u0942 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
+    "name:hun_x_preferred":[
+        "Aileu"
+    ],
     "name:ind_x_preferred":[
         "Kabupaten Aileu"
     ],
@@ -300,7 +303,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1614893747,
+    "wof:lastmodified":1636497441,
     "wof:name":"Aileu",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

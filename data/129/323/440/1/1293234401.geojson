@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Viqueque"
     ],
+    "name:hun_x_preferred":[
+        "Viqueque"
+    ],
     "name:ind_x_preferred":[
         "Viqueque"
     ],
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1293234401,
-    "wof:lastmodified":1566666697,
+    "wof:lastmodified":1636497443,
     "wof:name":"Viqueque",
     "wof:parent_id":85678993,
     "wof:placetype":"locality",

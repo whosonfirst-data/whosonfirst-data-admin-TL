@@ -75,6 +75,9 @@
     "name:hin_x_preferred":[
         "\u0915\u094b\u0935\u093e \u0932\u0940\u092e\u093e \u0928\u0917\u0930 \u092a\u093e\u0932\u093f\u0915\u093e"
     ],
+    "name:hun_x_preferred":[
+        "Cova Lima"
+    ],
     "name:ind_x_preferred":[
         "Kabupaten Kovalima"
     ],
@@ -294,7 +297,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1614893747,
+    "wof:lastmodified":1636497442,
     "wof:name":"Cova Lima",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

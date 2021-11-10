@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Bobonaro"
     ],
+    "name:hun_x_preferred":[
+        "Bobonaro"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Bobonaro"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1193054637,
-    "wof:lastmodified":1566666803,
+    "wof:lastmodified":1636497445,
     "wof:name":"Bobonaro",
     "wof:parent_id":85678971,
     "wof:placetype":"locality",

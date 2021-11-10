@@ -77,6 +77,9 @@
     "name:hin_x_preferred":[
         "\u0921\u093f\u0932\u0940 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
+    "name:hun_x_preferred":[
+        "Dili"
+    ],
     "name:ind_x_preferred":[
         "Kabupaten Dili"
     ],
@@ -291,7 +294,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1614893748,
+    "wof:lastmodified":1636497442,
     "wof:name":"Dili",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

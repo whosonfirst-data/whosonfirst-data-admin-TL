@@ -50,6 +50,9 @@
     "name:heb_x_preferred":[
         "\u05d0\u05d9\u05dc\u05d0\u05d5"
     ],
+    "name:hun_x_preferred":[
+        "Aileu"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u056b\u056c\u0565\u0578\u0582"
     ],
@@ -109,7 +112,7 @@
         "wk:page":"Aileu"
     },
     "wof:country":"TL",
-    "wof:geomhash":"6e60ff0344601641fab9d5229313f61d",
+    "wof:geomhash":"1aee4fae056273cbfd1de57265df4966",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1293920261,
-    "wof:lastmodified":1566666705,
+    "wof:lastmodified":1636497443,
     "wof:name":"Aileu",
     "wof:parent_id":85678957,
     "wof:placetype":"locality",
@@ -131,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    125.56638999999998,
+    125.56639,
     -8.72806,
-    125.56638999999998,
+    125.56639,
     -8.72806
 ],
-  "geometry": {"coordinates":[125.56638999999998,-8.72806],"type":"Point"}
+  "geometry": {"coordinates":[125.56639,-8.72806],"type":"Point"}
 }

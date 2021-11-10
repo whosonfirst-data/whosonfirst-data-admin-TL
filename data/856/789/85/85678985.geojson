@@ -74,6 +74,9 @@
     "name:hin_x_preferred":[
         "\u092e\u0928\u093e\u0924\u0941\u0924\u094b \u091c\u093f\u0932\u093e"
     ],
+    "name:hun_x_preferred":[
+        "Manatuto"
+    ],
     "name:ind_x_preferred":[
         "Kabupaten Manatuto"
     ],
@@ -293,7 +296,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1614893748,
+    "wof:lastmodified":1636497443,
     "wof:name":"Manatuto",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

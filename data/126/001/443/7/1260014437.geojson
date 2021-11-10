@@ -37,6 +37,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0443\u043d\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c1\u09a8\u09cb"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0443\u043d\u043e"
     ],
@@ -67,7 +70,16 @@
     "name:fra_x_preferred":[
         "Puno"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0941\u0928\u094b"
+    ],
     "name:hrv_x_preferred":[
+        "Puno"
+    ],
+    "name:hun_x_preferred":[
         "Puno"
     ],
     "name:hye_x_preferred":[
@@ -163,7 +175,7 @@
         }
     ],
     "wof:id":1260014437,
-    "wof:lastmodified":1566666814,
+    "wof:lastmodified":1636497445,
     "wof:name":"Puno",
     "wof:parent_id":85678997,
     "wof:placetype":"locality",
