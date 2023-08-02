@@ -31,11 +31,23 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0644\u064a"
     ],
+    "name:ary_x_preferred":[
+        "\u062f\u064a\u0644\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0644\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Dili"
+    ],
     "name:aze_x_preferred":[
         "Dili"
     ],
     "name:bak_x_preferred":[
         "\u0414\u0438\u043b\u0438"
+    ],
+    "name:ban_x_preferred":[
+        "Dili"
     ],
     "name:bar_x_preferred":[
         "Dili"
@@ -133,6 +145,9 @@
     "name:gla_x_preferred":[
         "Dili"
     ],
+    "name:gle_x_preferred":[
+        "Dili"
+    ],
     "name:glg_x_preferred":[
         "Dili"
     ],
@@ -184,6 +199,9 @@
     "name:ita_x_preferred":[
         "Dili"
     ],
+    "name:jav_x_preferred":[
+        "Dili"
+    ],
     "name:jpn_x_preferred":[
         "\u30c7\u30a3\u30ea"
     ],
@@ -199,6 +217,9 @@
     "name:kaz_x_preferred":[
         "\u0414\u0438\u043b\u0438"
     ],
+    "name:khm_x_preferred":[
+        "\u178c\u17b8\u179b\u17b8"
+    ],
     "name:kir_x_preferred":[
         "\u0414\u0438\u043b\u0438"
     ],
@@ -208,6 +229,9 @@
     "name:lad_x_preferred":[
         "Dili"
     ],
+    "name:lao_x_preferred":[
+        "\u0e94\u0eb4\u0ea5\u0eb5"
+    ],
     "name:lat_x_preferred":[
         "Dili"
     ],
@@ -215,6 +239,9 @@
         "Dilium"
     ],
     "name:lav_x_preferred":[
+        "Dili"
+    ],
+    "name:lfn_x_preferred":[
         "Dili"
     ],
     "name:lij_x_preferred":[
@@ -252,6 +279,12 @@
     ],
     "name:mya_x_preferred":[
         "\u1012\u102e\u101c\u102e\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062f\u06cc\u0644\u06cc"
+    ],
+    "name:nah_x_preferred":[
+        "Dili"
     ],
     "name:nan_x_preferred":[
         "Dili"
@@ -313,6 +346,9 @@
     "name:rus_x_preferred":[
         "\u0414\u0438\u043b\u0438"
     ],
+    "name:sat_x_preferred":[
+        "\u1c70\u1c64\u1c5e\u1c64"
+    ],
     "name:scn_x_preferred":[
         "Dili"
     ],
@@ -331,6 +367,9 @@
     "name:sna_x_preferred":[
         "Dili"
     ],
+    "name:snd_x_preferred":[
+        "\u062f\u0644\u064a"
+    ],
     "name:spa_x_preferred":[
         "Dili"
     ],
@@ -343,6 +382,9 @@
     "name:srp_x_preferred":[
         "\u0414\u0438\u043b\u0438"
     ],
+    "name:sun_x_preferred":[
+        "Dili"
+    ],
     "name:swa_x_preferred":[
         "Dili"
     ],
@@ -351,6 +393,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bbf\u0bb2\u0bbf"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u0438\u043b\u0438"
     ],
     "name:tel_x_preferred":[
         "\u0c26\u0c3f\u0c32\u0c3f"
@@ -367,8 +412,14 @@
     "name:tha_x_preferred":[
         "\u0e14\u0e34\u0e25\u0e35"
     ],
+    "name:tpi_x_preferred":[
+        "Dili"
+    ],
     "name:tur_x_preferred":[
         "Dili"
+    ],
+    "name:udm_x_preferred":[
+        "\u0414\u0438\u043b\u0438"
     ],
     "name:uig_x_preferred":[
         "\u062f\u0649\u0644\u0649"
@@ -383,6 +434,9 @@
         "\u062f\u06cc\u0644\u06cc"
     ],
     "name:uzb_x_preferred":[
+        "Dili"
+    ],
+    "name:vec_x_preferred":[
         "Dili"
     ],
     "name:vep_x_preferred":[
@@ -567,7 +621,7 @@
         }
     ],
     "wof:id":421196557,
-    "wof:lastmodified":1607390887,
+    "wof:lastmodified":1690874636,
     "wof:name":"Dili",
     "wof:parent_id":85678943,
     "wof:placetype":"locality",

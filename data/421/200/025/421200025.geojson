@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0644\u064a\u0627\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0644\u064a\u0627\u0646\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Maliana"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b2\u09bf\u09af\u09bc\u09be\u09a8\u09be"
     ],
@@ -178,7 +184,7 @@
         }
     ],
     "wof:id":421200025,
-    "wof:lastmodified":1566666873,
+    "wof:lastmodified":1690874636,
     "wof:name":"Maliana",
     "wof:parent_id":85678971,
     "wof:placetype":"locality",
