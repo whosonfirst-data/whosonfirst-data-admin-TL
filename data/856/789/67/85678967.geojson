@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0628\u0648\u0643\u0627\u0648"
     ],
+    "name:aze_x_preferred":[
+        "Baukau b\u0259l\u0259diyy\u0259si"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0989\u0995\u09be\u0989 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:ceb_x_preferred":[
         "Baucau"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Baucau"
     ],
     "name:dan_x_preferred":[
         "Baucau Municipality"
@@ -59,6 +65,9 @@
     "name:eng_x_variant":[
         "Baucau District",
         "Baucau Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0628\u0627\u0648\u06a9\u0648"
     ],
     "name:fin_x_preferred":[
         "Baucaun alue"
@@ -105,6 +114,9 @@
     "name:kor_x_preferred":[
         "\ubc14\uc6b0\uce74\uc6b0 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ubc14\uc6b0\uce74\uc6b0\ud604"
+    ],
     "name:lav_x_preferred":[
         "Baukau pa\u0161vald\u012bba"
     ],
@@ -114,8 +126,14 @@
     "name:mar_x_preferred":[
         "\u092c\u0915\u093e\u0909 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0443\u043a\u0430\u0443"
+    ],
     "name:msa_x_preferred":[
         "Baucau Municipality"
+    ],
+    "name:nan_x_preferred":[
+        "Baucau Ch\u016b-t\u012b-th\u00e9"
     ],
     "name:nld_x_preferred":[
         "Baucau"
@@ -303,7 +321,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1636497441,
+    "wof:lastmodified":1690874631,
     "wof:name":"Baucau",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

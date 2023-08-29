@@ -105,6 +105,9 @@
     "name:kor_x_preferred":[
         "\uc544\uc77c\ub808\uc6b0 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uc544\uc77c\ub808\uc6b0\ud604"
+    ],
     "name:lav_x_preferred":[
         "Aileu pa\u0161vald\u012bba"
     ],
@@ -114,8 +117,14 @@
     "name:mar_x_preferred":[
         "\u0906\u092f\u093f\u0932\u0941 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0458\u043b\u0435\u0443"
+    ],
     "name:msa_x_preferred":[
         "Aileu municipality"
+    ],
+    "name:nan_x_preferred":[
+        "Aileu Ch\u016b-t\u012b-th\u00e9"
     ],
     "name:nld_x_preferred":[
         "Aileu"
@@ -303,7 +312,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1636497441,
+    "wof:lastmodified":1690874631,
     "wof:name":"Aileu",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

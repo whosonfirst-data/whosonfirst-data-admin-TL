@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u062a \u0645\u0627\u0643\u0627\u0633\u0627\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0646\u062a \u0645\u0627\u0643\u0627\u0633\u0627\u0631"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09a8\u09cd\u09a4\u09c7 \u09ae\u09cd\u09af\u09be\u0995\u09be\u09b8\u09be\u09b0"
     ],
@@ -47,8 +50,14 @@
     "name:guj_x_preferred":[
         "\u0aaa\u0ac7\u0aa8\u0acd\u0a9f\u0ac7 \u0aae\u0ac7\u0a95\u0ab8\u0acd\u0ab8\u0ab0"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e0\u05d8\u05d4 \u05de\u05e7\u05d0\u05e1\u05d0\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u0948\u0902\u091f \u092e\u0915\u093e\u0938\u094d\u0938\u0930"
+    ],
+    "name:hin_x_variant":[
+        "\u092a\u0948\u0902\u091f  \u092e\u0915\u093e\u0938\u094d\u0938\u0930"
     ],
     "name:ind_x_preferred":[
         "Pante Makasar"
@@ -64,6 +73,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud310\ud2b8\ub9c8\uce74\uc0ac\ub974"
+    ],
+    "name:kor_x_variant":[
+        "\ud310\ud14c\ub9c8\uce74\uc0ac\ub974"
     ],
     "name:lav_x_preferred":[
         "Pante Makasara"
@@ -134,6 +146,9 @@
     "name:war_x_preferred":[
         "Pante Macassar"
     ],
+    "name:zho_x_preferred":[
+        "\u4f69\u7279\u00b7\u9ea5\u5361\u745f"
+    ],
     "qs:gn_country":"TL",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":1632533,
@@ -175,7 +190,7 @@
         }
     ],
     "wof:id":421200139,
-    "wof:lastmodified":1566666874,
+    "wof:lastmodified":1690874637,
     "wof:name":"Pante Macassar",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

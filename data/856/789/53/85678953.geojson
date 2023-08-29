@@ -75,6 +75,9 @@
     "name:eus_x_preferred":[
         "Oecusse Barrutia"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06a9\u0648\u0633"
+    ],
     "name:fin_x_preferred":[
         "Oecussen alue"
     ],
@@ -83,6 +86,9 @@
     ],
     "name:fra_x_variant":[
         "Oe-Cusse Ambeno"
+    ],
+    "name:frr_x_preferred":[
+        "Oecusse"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab8\u0a95\u0acd\u0aaf\u0ac1\u0ab8 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -117,6 +123,9 @@
     "name:kor_x_preferred":[
         "\uc624\uc5d0\ucfe0\uc2dc \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uc624\uc5d0\ucfe0\uc2dc\ud604"
+    ],
     "name:lav_x_preferred":[
         "Okussi pa\u0161vald\u012bba"
     ],
@@ -126,8 +135,14 @@
     "name:mar_x_preferred":[
         "\u0913\u0938\u0915\u0947\u0938 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043a\u0443\u0441\u0438"
+    ],
     "name:msa_x_preferred":[
         "Oecusse Municipality"
+    ],
+    "name:nan_x_preferred":[
+        "Oecusse"
     ],
     "name:nld_x_preferred":[
         "Oecusse"
@@ -147,14 +162,23 @@
     "name:por_x_variant":[
         "Distrito Oecussi-Ambeno"
     ],
+    "name:ron_x_preferred":[
+        "Oecusse"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u043a\u0443\u0441\u0438-\u0410\u043c\u0431\u0435\u043d\u043e"
     ],
     "name:sin_x_preferred":[
         "\u0d94\u0d91\u0d9a\u0dd4\u0dc3\u0dda \u0dc3\u0db7\u0dcf\u0dc0"
     ],
+    "name:snd_x_preferred":[
+        "\u0627\u0648\u0626\u064a\u06aa\u0633 \u067e\u0631\u06b3\u06bb\u0648"
+    ],
     "name:spa_x_preferred":[
         "Oecussi-Ambeno"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043a\u0443\u0441\u0438-\u0410\u043c\u0431\u0435\u043d\u043e"
     ],
     "name:swe_x_preferred":[
         "Oecusse"
@@ -313,7 +337,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1636497442,
+    "wof:lastmodified":1690874633,
     "wof:name":"Ambeno",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

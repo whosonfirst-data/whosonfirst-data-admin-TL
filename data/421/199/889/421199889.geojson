@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0645"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0645"
+    ],
+    "name:ast_x_preferred":[
+        "Same"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u0987\u09ae"
     ],
@@ -191,7 +197,7 @@
         }
     ],
     "wof:id":421199889,
-    "wof:lastmodified":1636497446,
+    "wof:lastmodified":1690874636,
     "wof:name":"Same",
     "wof:parent_id":85678989,
     "wof:placetype":"locality",

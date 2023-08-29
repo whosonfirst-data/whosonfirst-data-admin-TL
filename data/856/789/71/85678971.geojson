@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Bobonaro"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Bobonaro"
+    ],
     "name:dan_x_preferred":[
         "Bobonaro Municipality"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:eng_x_variant":[
         "Bobonaro Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0628\u0648\u0628\u0648\u0646\u0627\u0631\u0648"
     ],
     "name:fin_x_preferred":[
         "Bobonaron alue"
@@ -98,6 +104,9 @@
     "name:kor_x_preferred":[
         "\ubcf4\ubcf4\ub098\ub8e8 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ubcf4\ubcf4\ub098\ub8e8\ud604"
+    ],
     "name:lav_x_preferred":[
         "Bobonaro pa\u0161vald\u012bba"
     ],
@@ -107,8 +116,14 @@
     "name:mar_x_preferred":[
         "\u092c\u0949\u092c\u094b\u0928\u093e\u0930\u094b \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
+    "name:mkd_x_preferred":[
+        "\u0411\u043e\u0431\u043e\u043d\u0430\u0440\u0443"
+    ],
     "name:msa_x_preferred":[
         "Bobonaro Municipality"
+    ],
+    "name:nan_x_preferred":[
+        "Bobonaro Ch\u016b-t\u012b-th\u00e9"
     ],
     "name:nld_x_preferred":[
         "Bobonaro"
@@ -300,7 +315,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1636497443,
+    "wof:lastmodified":1690874634,
     "wof:name":"Bobonaro",
     "wof:parent_id":85632583,
     "wof:placetype":"region",
