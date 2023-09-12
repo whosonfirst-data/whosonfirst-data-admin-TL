@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.229029,
-    "geom:area_square_m":15017303644.427286,
+    "geom:area_square_m":15017303644.429789,
     "geom:bbox":"124.041738,-9.504195,127.345728,-8.134583",
     "geom:latitude":-8.820426,
     "geom:longitude":125.853832,
@@ -14,6 +14,9 @@
     "iso:country":"TL",
     "itu:country_code":[
         "670"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "TL"
@@ -1148,7 +1151,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"670",
     "statoids:ds":"RI",
     "statoids:fifa":"TLS",
@@ -1204,7 +1208,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"d21c35bb4b0f7e3cf34dc47904a4daed",
+    "wof:geomhash":"02febb322ceef0e835053c4f9a936429",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1220,12 +1224,12 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1690874630,
+    "wof:lastmodified":1694492068,
     "wof:name":"East Timor",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":1180069,
-    "wof:population_rank":12,
+    "wof:population":1293119,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:shortcode":"TL",
     "wof:superseded_by":[],

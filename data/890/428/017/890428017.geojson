@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":10587,
     "iso:country":"TL",
+    "label:eng_x_preferred_longname":[
+        "Ainaro Subdistrict"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subdistrict"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -173,7 +179,7 @@
     },
     "wof:country":"TL",
     "wof:created":1469051732,
-    "wof:geomhash":"2d05b349cb2f7b23503a6bb6db5356c7",
+    "wof:geomhash":"122d6ecfa3e91f04281f5dcae38ad7ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":890428017,
-    "wof:lastmodified":1690874637,
+    "wof:lastmodified":1694498103,
     "wof:name":"Ainaro",
     "wof:parent_id":85678963,
     "wof:placetype":"county",
