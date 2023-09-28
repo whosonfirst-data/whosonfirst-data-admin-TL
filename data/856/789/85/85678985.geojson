@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144486,
-    "geom:area_square_m":1765940932.659779,
+    "geom:area_square_m":1765940959.053399,
     "geom:bbox":"125.757523,-9.057306,126.179203,-8.481134",
     "geom:latitude":-8.718755,
     "geom:longitude":125.96695,
@@ -285,14 +285,16 @@
         "gn:id":1636525,
         "gp:id":24549902,
         "hasc:id":"TL.MT",
+        "iso:code":"TL-MT",
         "iso:id":"TL-MT",
         "qs_pg:id":354742,
         "unlc:id":"TL-MT",
         "wd:id":"Q860630",
         "wk:page":"Manatuto District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TL",
-    "wof:geomhash":"b325d1205b00a172530c8d622600b8b1",
+    "wof:geomhash":"777e2fa9902455c5f6a62a3b37dd6d48",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -309,7 +311,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1690874634,
+    "wof:lastmodified":1695884852,
     "wof:name":"Manatuto",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

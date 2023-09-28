@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.155242,
-    "geom:area_square_m":1896965783.885099,
+    "geom:area_square_m":1896966739.760098,
     "geom:bbox":"126.033682,-8.999906,126.738962,-8.607175",
     "geom:latitude":-8.807169,
     "geom:longitude":126.347439,
@@ -295,14 +295,16 @@
         "gn:id":1622470,
         "gp:id":24549903,
         "hasc:id":"TL.VQ",
+        "iso:code":"TL-VI",
         "iso:id":"TL-VI",
         "qs_pg:id":268703,
         "unlc:id":"TL-VI",
         "wd:id":"Q610726",
         "wk:page":"Viqueque District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TL",
-    "wof:geomhash":"a2a4b78f46926f294964484f2a575d1b",
+    "wof:geomhash":"25d301f72466c4f8f27ece6a4318a84c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -319,7 +321,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1690874632,
+    "wof:lastmodified":1695884852,
     "wof:name":"Viqueque",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

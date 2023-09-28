@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058224,
-    "geom:area_square_m":711431784.148234,
+    "geom:area_square_m":711431440.386423,
     "geom:bbox":"125.179212,-8.991441,125.509476,-8.648516",
     "geom:latitude":-8.820358,
     "geom:longitude":125.37162,
@@ -288,14 +288,16 @@
         "gn:id":1644865,
         "gp:id":24549895,
         "hasc:id":"TL.ER",
+        "iso:code":"TL-ER",
         "iso:id":"TL-ER",
         "qs_pg:id":892956,
         "unlc:id":"TL-ER",
         "wd:id":"Q668171",
         "wk:page":"Ermera District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TL",
-    "wof:geomhash":"bb0349000ef43574e209082c9e8503dd",
+    "wof:geomhash":"2343fbe3d8341c6bc95a7ebeaa4625d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -312,7 +314,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1690874633,
+    "wof:lastmodified":1695884851,
     "wof:name":"Ermera",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

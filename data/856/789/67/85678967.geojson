@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129013,
-    "geom:area_square_m":1577463376.86301,
+    "geom:area_square_m":1577462012.044901,
     "geom:bbox":"126.140032,-8.706393,126.811722,-8.419122",
     "geom:latitude":-8.570043,
     "geom:longitude":126.464902,
@@ -297,14 +297,16 @@
         "gn:id":1649538,
         "gp:id":24549905,
         "hasc:id":"TL.BC",
+        "iso:code":"TL-BA",
         "iso:id":"TL-BA",
         "qs_pg:id":1062994,
         "unlc:id":"TL-BA",
         "wd:id":"Q811132",
         "wk:page":"Baucau District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TL",
-    "wof:geomhash":"14b75d1d1ec2f340b959aec0a96ba429",
+    "wof:geomhash":"61b927e7f50c8f8edfaa3846f0ad2177",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -321,7 +323,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1690874631,
+    "wof:lastmodified":1695884851,
     "wof:name":"Baucau",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.104066,
-    "geom:area_square_m":1270022163.745434,
+    "geom:area_square_m":1270021808.908375,
     "geom:bbox":"124.954109,-9.485765,125.51113,-9.033815",
     "geom:latitude":-9.262396,
     "geom:longitude":125.220249,
@@ -288,14 +288,16 @@
         "gn:id":1639462,
         "gp:id":24549894,
         "hasc:id":"TL.CL",
+        "iso:code":"TL-CO",
         "iso:id":"TL-CO",
         "qs_pg:id":502859,
         "unlc:id":"TL-CO",
         "wd:id":"Q165575",
         "wk:page":"Cova Lima District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TL",
-    "wof:geomhash":"0c0908cfbb9ce244017e576ba53620bc",
+    "wof:geomhash":"8b5adfd250c11b7015fb0e6fb5d70c49",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -312,7 +314,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1690874632,
+    "wof:lastmodified":1695884851,
     "wof:name":"Cova Lima",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

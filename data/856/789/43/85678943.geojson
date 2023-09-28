@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032914,
-    "geom:area_square_m":402575169.95308,
+    "geom:area_square_m":402575321.31219,
     "geom:bbox":"125.489831,-8.627018,125.845993,-8.135024",
     "geom:latitude":-8.438543,
     "geom:longitude":125.62817,
@@ -286,13 +286,15 @@
         "gn:id":1645456,
         "gp:id":24549898,
         "hasc:id":"TL.DL",
+        "iso:code":"TL-DI",
         "iso:id":"TL-DI",
         "qs_pg:id":1062993,
         "wd:id":"Q860901",
         "wk:page":"Dili District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TL",
-    "wof:geomhash":"1283796899e4c8568173c9056e341016",
+    "wof:geomhash":"6eb3f9fe52c689549e42438d866ed350",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -309,7 +311,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1690874632,
+    "wof:lastmodified":1695884851,
     "wof:name":"Dili",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044219,
-    "geom:area_square_m":540549958.479231,
+    "geom:area_square_m":540549737.953306,
     "geom:bbox":"125.102942,-8.756209,125.511853,-8.568212",
     "geom:latitude":-8.65808,
     "geom:longitude":125.292354,
@@ -295,14 +295,16 @@
         "gn:id":1637729,
         "gp:id":24549897,
         "hasc:id":"TL.LQ",
+        "iso:code":"TL-LI",
         "iso:id":"TL-LI",
         "qs_pg:id":1062992,
         "unlc:id":"TL-LI",
         "wd:id":"Q860897",
         "wk:page":"Liqui\u00e7\u00e1 District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TL",
-    "wof:geomhash":"fc7dda178a7313cd3e98cd884262674e",
+    "wof:geomhash":"5159a80af1eeba0733d3fbb831b97a21",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -319,7 +321,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1690874631,
+    "wof:lastmodified":1695884851,
     "wof:name":"Liquica",
     "wof:parent_id":85632583,
     "wof:placetype":"region",
