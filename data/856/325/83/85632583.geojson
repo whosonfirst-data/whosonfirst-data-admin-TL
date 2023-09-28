@@ -1189,6 +1189,7 @@
         "gp:id":23424968,
         "hasc:id":"TL",
         "ioc:id":"TLS",
+        "iso:code":"TL",
         "itu:id":"TLS",
         "m49:code":"626",
         "marc:id":"em",
@@ -1202,6 +1203,7 @@
         "wk:page":"East Timor",
         "wmo:id":"TM"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TL",
     "wof:country_alpha3":"TLS",
     "wof:geom_alt":[
@@ -1224,7 +1226,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1694639522,
+    "wof:lastmodified":1695881177,
     "wof:name":"East Timor",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
