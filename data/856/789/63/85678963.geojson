@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069793,
-    "geom:area_square_m":852355450.797768,
+    "geom:area_square_m":852354583.910198,
     "geom:bbox":"125.410619,-9.2408,125.691377,-8.767992",
     "geom:latitude":-9.008539,
     "geom:longitude":125.554836,
@@ -294,14 +294,16 @@
         "gn:id":1651809,
         "gp:id":24549900,
         "hasc:id":"TL.AN",
+        "iso:code":"TL-AN",
         "iso:id":"TL-AN",
         "qs_pg:id":1287911,
         "unlc:id":"TL-AN",
         "wd:id":"Q405926",
         "wk:page":"Ainaro District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TL",
-    "wof:geomhash":"3280ac6e2aa8c9153ba9a54dd94f35fc",
+    "wof:geomhash":"5ae982d9daa58dd3a8dff16fcb25c28d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -318,7 +320,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1690874633,
+    "wof:lastmodified":1695884851,
     "wof:name":"Ainaro",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

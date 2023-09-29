@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15322,
-    "geom:area_square_m":1873720274.369059,
+    "geom:area_square_m":1873720854.688298,
     "geom:bbox":"126.688197,-8.760989,127.313243,-8.309015",
     "geom:latitude":-8.512615,
     "geom:longitude":126.969449,
@@ -289,14 +289,16 @@
         "gn:id":1638294,
         "gp:id":24549904,
         "hasc:id":"TL.BT",
+        "iso:code":"TL-LA",
         "iso:id":"TL-LA",
         "qs_pg:id":354743,
         "unlc:id":"TL-LA",
         "wd:id":"Q686554",
         "wk:page":"Laut\u00e9m District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TL",
-    "wof:geomhash":"e1164b0d17cfcbbb40773c7898afe139",
+    "wof:geomhash":"a181c3e48b706e6c2f2552c53e85b8ba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -313,7 +315,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1690874633,
+    "wof:lastmodified":1695884504,
     "wof:name":"Lautem",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

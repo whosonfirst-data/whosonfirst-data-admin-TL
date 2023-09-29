@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063501,
-    "geom:area_square_m":776144421.825117,
+    "geom:area_square_m":776144621.782782,
     "geom:bbox":"125.433615,-8.855635,125.805221,-8.565007",
     "geom:latitude":-8.708243,
     "geom:longitude":125.622187,
@@ -288,14 +288,16 @@
         "gn:id":1651815,
         "gp:id":24549899,
         "hasc:id":"TL.AL",
+        "iso:code":"TL-AL",
         "iso:id":"TL-AL",
         "qs_pg:id":219961,
         "unlc:id":"TL-AL",
         "wd:id":"Q405100",
         "wk:page":"Aileu District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TL",
-    "wof:geomhash":"b3b4f2332cbbc720f68f3c6410919c67",
+    "wof:geomhash":"b2f0b308f778b6c509f7263bdde12354",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -312,7 +314,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1690874631,
+    "wof:lastmodified":1695884851,
     "wof:name":"Aileu",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

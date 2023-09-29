@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106257,
-    "geom:area_square_m":1297725635.669419,
+    "geom:area_square_m":1297726677.925468,
     "geom:bbox":"125.578929,-9.193272,126.047537,-8.751042",
     "geom:latitude":-8.995662,
     "geom:longitude":125.786669,
@@ -294,14 +294,16 @@
         "gn:id":1636309,
         "gp:id":24549901,
         "hasc:id":"TL.MF",
+        "iso:code":"TL-MF",
         "iso:id":"TL-MF",
         "qs_pg:id":911156,
         "unlc:id":"TL-MF",
         "wd:id":"Q629934",
         "wk:page":"Manufahi District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TL",
-    "wof:geomhash":"f199979b8bee6914d181d8c75c201f54",
+    "wof:geomhash":"5a2def674799c4f01958ef18580488e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -318,7 +320,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1690874632,
+    "wof:lastmodified":1695884851,
     "wof:name":"Manufahi",
     "wof:parent_id":85632583,
     "wof:placetype":"region",

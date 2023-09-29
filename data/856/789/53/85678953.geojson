@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060853,
-    "geom:area_square_m":742512222.342903,
+    "geom:area_square_m":742512478.199764,
     "geom:bbox":"124.03004,-9.501228,124.451504,-9.18019",
     "geom:latitude":-9.327379,
     "geom:longitude":124.266737,
@@ -313,14 +313,16 @@
         "gn:id":1651539,
         "gp:id":24549906,
         "hasc:id":"TL.AM",
+        "iso:code":"TL-OE",
         "iso:id":"TL-OE",
         "qs_pg:id":1018756,
         "unlc:id":"TL-OE",
         "wd:id":"Q860639",
         "wk:page":"Oecusse District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TL",
-    "wof:geomhash":"8c141c170bc3957917f61d7b66cf3c4b",
+    "wof:geomhash":"511735252a64a81ffc04681ed8d93599",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -337,7 +339,7 @@
         "tet",
         "por"
     ],
-    "wof:lastmodified":1690874633,
+    "wof:lastmodified":1695884851,
     "wof:name":"Ambeno",
     "wof:parent_id":85632583,
     "wof:placetype":"region",
