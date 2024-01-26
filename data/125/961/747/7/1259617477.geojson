@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1622867
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1943844
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"333deea67d6e847082fe2d89d03d84fd",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1259617477,
-    "wof:lastmodified":1566666928,
+    "wof:lastmodified":1706240690,
     "wof:name":"Uatocarabau",
     "wof:parent_id":85678993,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326660719
+    ],
     "wof:tags":[]
 },
   "bbox": [

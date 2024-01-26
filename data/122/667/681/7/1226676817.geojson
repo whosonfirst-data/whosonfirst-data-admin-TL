@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1945616
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1937079
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"c6463b31fa6014d43f65e1aee4aa6a31",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1226676817,
-    "wof:lastmodified":1566666944,
+    "wof:lastmodified":1706240689,
     "wof:name":"Holba",
     "wof:parent_id":85678975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276909219
+    ],
     "wof:tags":[]
 },
   "bbox": [

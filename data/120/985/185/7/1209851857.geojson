@@ -41,8 +41,13 @@
     "wof:concordances":{
         "gn:id":1936885
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1945395
+        ]
+    },
     "wof:country":"TL",
-    "wof:geomhash":"afc0dc16c12ea9494705932d59ead455",
+    "wof:geomhash":"5945f8d17683f20079c2d517b020de3e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,20 +57,22 @@
         }
     ],
     "wof:id":1209851857,
-    "wof:lastmodified":1566666772,
+    "wof:lastmodified":1706240688,
     "wof:name":"Munobol",
     "wof:parent_id":85678963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326564209
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    125.53943999999998,
+    125.53944,
     -9.13167,
-    125.53943999999998,
+    125.53944,
     -9.13167
 ],
-  "geometry": {"coordinates":[125.53943999999998,-9.13167],"type":"Point"}
+  "geometry": {"coordinates":[125.53944,-9.13167],"type":"Point"}
 }

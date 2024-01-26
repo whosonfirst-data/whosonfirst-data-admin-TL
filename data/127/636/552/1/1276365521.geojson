@@ -83,6 +83,11 @@
     "wof:concordances":{
         "gn:id":1944958
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1937123
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"a53f4b7a33b7d14884c6e967c3d4eaad",
     "wof:hierarchy":[
@@ -94,13 +99,15 @@
         }
     ],
     "wof:id":1276365521,
-    "wof:lastmodified":1566666755,
+    "wof:lastmodified":1706240691,
     "wof:name":"Beko",
     "wof:parent_id":85678989,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360120657
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":1945390
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1936884
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"5f15776680abce3106444fa63bf53302",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1225979189,
-    "wof:lastmodified":1566666957,
+    "wof:lastmodified":1706240689,
     "wof:name":"Maununo",
     "wof:parent_id":85678963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310042093
+    ],
     "wof:tags":[]
 },
   "bbox": [

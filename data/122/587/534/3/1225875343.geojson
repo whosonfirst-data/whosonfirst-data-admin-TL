@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":1937119
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1944961
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"6351bb160ddf76a404ce69730735c227",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1225875343,
-    "wof:lastmodified":1566666952,
+    "wof:lastmodified":1706240688,
     "wof:name":"Kaisera",
     "wof:parent_id":85678989,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327168861
+    ],
     "wof:tags":[]
 },
   "bbox": [

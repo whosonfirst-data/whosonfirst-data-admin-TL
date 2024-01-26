@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":1943270
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1651630
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"88626f8661d557dca8f7fd42f6790de8",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1225879437,
-    "wof:lastmodified":1566666955,
+    "wof:lastmodified":1706240689,
     "wof:name":"Aliambata",
     "wof:parent_id":85678993,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242808231
+    ],
     "wof:tags":[]
 },
   "bbox": [

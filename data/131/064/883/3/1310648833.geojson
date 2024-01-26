@@ -76,6 +76,11 @@
         "gn:id":1644866,
         "wk:page":"Ermera"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8617707
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"4ba9344c12e4d65b255cf4b8371dd5b1",
     "wof:hierarchy":[
@@ -87,13 +92,15 @@
         }
     ],
     "wof:id":1310648833,
-    "wof:lastmodified":1566666834,
+    "wof:lastmodified":1706240691,
     "wof:name":"Ulmera",
     "wof:parent_id":85678979,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344195289
+    ],
     "wof:tags":[]
 },
   "bbox": [

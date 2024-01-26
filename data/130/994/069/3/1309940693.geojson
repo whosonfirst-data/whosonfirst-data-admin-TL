@@ -31,6 +31,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Mau Mata",
+        "Mau Metan",
+        "Mau Meta",
+        "Atauro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -40,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1944139
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1635814
+        ]
     },
     "wof:country":"TL",
     "wof:geomhash":"5053a10323d95b12e83a4fb14fb46d78",
@@ -52,13 +63,15 @@
         }
     ],
     "wof:id":1309940693,
-    "wof:lastmodified":1566666868,
+    "wof:lastmodified":1706240691,
     "wof:name":"Atauro",
     "wof:parent_id":85678943,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360021607
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -39,6 +39,11 @@
     "wof:concordances":{
         "gn:id":1937124
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1944955
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"4a375bcd7ec71f599fe7272d587670e6",
     "wof:hierarchy":[
@@ -48,13 +53,15 @@
         }
     ],
     "wof:id":1209142405,
-    "wof:lastmodified":1566666778,
+    "wof:lastmodified":1706240688,
     "wof:name":"Kulolola",
     "wof:parent_id":85632583,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226571581
+    ],
     "wof:tags":[]
 },
   "bbox": [

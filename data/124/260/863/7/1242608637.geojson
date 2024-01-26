@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":1936744
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1945498
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"141b0801f532f3512bb1da2de14fbff9",
     "wof:hierarchy":[
@@ -52,13 +57,22 @@
         }
     ],
     "wof:id":1242608637,
-    "wof:lastmodified":1566666890,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1706240689,
     "wof:name":"Raifusa",
     "wof:parent_id":85678989,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293015147
+    ],
     "wof:tags":[]
 },
   "bbox": [

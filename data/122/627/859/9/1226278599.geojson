@@ -40,6 +40,12 @@
     "name:ind_x_preferred":[
         "Berau"
     ],
+    "name:und_x_variant":[
+        "Maquedade",
+        "Makadade",
+        "Mascadade",
+        "Macadade"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,6 +55,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1944132
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1636965
+        ]
     },
     "wof:country":"TL",
     "wof:geomhash":"b151620c8b33b4b172f1e2929510d7c7",
@@ -61,13 +72,15 @@
         }
     ],
     "wof:id":1226278599,
-    "wof:lastmodified":1566666940,
+    "wof:lastmodified":1706240689,
     "wof:name":"Berau",
     "wof:parent_id":85678943,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293323255
+    ],
     "wof:tags":[]
 },
   "bbox": [

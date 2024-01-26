@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":1940413
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1943723
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"42a87a45a3815d15392e9b2bb3edca20",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1277105515,
-    "wof:lastmodified":1566666755,
+    "wof:lastmodified":1706240691,
     "wof:name":"Banegoa",
     "wof:parent_id":85678979,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310241329
+    ],
     "wof:tags":[]
 },
   "bbox": [

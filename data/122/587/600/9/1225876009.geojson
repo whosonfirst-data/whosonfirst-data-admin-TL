@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":1945588
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1937236
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"f5d7d50228d2ccfa5c9fa0dc498c8706",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1225876009,
-    "wof:lastmodified":1566666955,
+    "wof:lastmodified":1706240688,
     "wof:name":"Nularan",
     "wof:parent_id":85678975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276264317
+    ],
     "wof:tags":[]
 },
   "bbox": [

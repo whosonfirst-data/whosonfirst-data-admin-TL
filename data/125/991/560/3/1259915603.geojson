@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":1942994
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1945347
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"d4cb2d0e075fae56f796952eb12c3ec6",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1259915603,
-    "wof:lastmodified":1566666915,
+    "wof:lastmodified":1706240690,
     "wof:name":"Muapitine",
     "wof:parent_id":85678997,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327368091
+    ],
     "wof:tags":[]
 },
   "bbox": [
