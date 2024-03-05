@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":1936942
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1945524
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"8dedb4376fe6f53876b9b3546da4de56",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1260220107,
-    "wof:lastmodified":1566666810,
+    "wof:lastmodified":1706240690,
     "wof:name":"Raibere",
     "wof:parent_id":85678963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360321495
+    ],
     "wof:tags":[]
 },
   "bbox": [

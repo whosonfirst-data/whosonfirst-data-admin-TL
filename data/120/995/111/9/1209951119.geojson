@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":1937096
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1937095
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"7ba145b7b94da3f8954ad53ee372ac86",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1209951119,
-    "wof:lastmodified":1566666779,
+    "wof:lastmodified":1706240688,
     "wof:name":"Asumaten",
     "wof:parent_id":85678975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309939727
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":1945610
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1937080
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"ab2809fd52a6416f65bef1642e155d20",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1259619857,
-    "wof:lastmodified":1566666928,
+    "wof:lastmodified":1706240690,
     "wof:name":"Hasain",
     "wof:parent_id":85678975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326563921
+    ],
     "wof:tags":[]
 },
   "bbox": [

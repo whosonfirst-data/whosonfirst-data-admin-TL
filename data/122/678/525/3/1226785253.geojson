@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":1946135
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1946119
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"1478b5cbfde3ff8196340515df95bdde",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1226785253,
-    "wof:lastmodified":1566666964,
+    "wof:lastmodified":1706240689,
     "wof:name":"Iraosso",
     "wof:parent_id":85678967,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242908665
+    ],
     "wof:tags":[]
 },
   "bbox": [

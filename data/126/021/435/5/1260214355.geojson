@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":1937092
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1945600
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"96e4a1224b0097caf7710dba83c00dd9",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1260214355,
-    "wof:lastmodified":1566666819,
+    "wof:lastmodified":1706240690,
     "wof:name":"Manikin",
     "wof:parent_id":85678975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327370235
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -42,6 +42,7 @@
         "Vila Vi\u00e7osa"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191569,
         85632583,
@@ -50,6 +51,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1622480
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1943235
+        ]
     },
     "wof:country":"TL",
     "wof:geomhash":"211a9a1b9467f9fdfa3d8b8656192694",
@@ -62,13 +68,17 @@
         }
     ],
     "wof:id":1226276623,
-    "wof:lastmodified":1566666941,
+    "wof:lastmodified":1706240689,
     "wof:name":"Venilale",
     "wof:parent_id":85678967,
     "wof:placetype":"locality",
+    "wof:population":16000,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226778743
+    ],
     "wof:tags":[]
 },
   "bbox": [

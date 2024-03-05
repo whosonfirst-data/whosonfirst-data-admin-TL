@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":1945436
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1942814
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"41fd71aee3f21c3738e1d9ff91cc8364",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1293136931,
-    "wof:lastmodified":1566666702,
+    "wof:lastmodified":1706240691,
     "wof:name":"Kartini 1",
     "wof:parent_id":85678997,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343895215
+    ],
     "wof:tags":[]
 },
   "bbox": [

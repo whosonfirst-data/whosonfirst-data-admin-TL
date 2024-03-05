@@ -59,6 +59,11 @@
     "wof:concordances":{
         "gn:id":1936813
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1945522
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"9171a2b80b1c015c08475ee7576acc37",
     "wof:hierarchy":[
@@ -70,13 +75,15 @@
         }
     ],
     "wof:id":1243298495,
-    "wof:lastmodified":1566666912,
+    "wof:lastmodified":1706240690,
     "wof:name":"Lale",
     "wof:parent_id":85678963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276580303
+    ],
     "wof:tags":[]
 },
   "bbox": [

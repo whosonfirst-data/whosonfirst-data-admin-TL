@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":1945603
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1937102
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"050d19145c434327c19ba7d41edee9ac",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1226477575,
-    "wof:lastmodified":1566666961,
+    "wof:lastmodified":1706240689,
     "wof:name":"Loharai",
     "wof:parent_id":85678975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276260267
+    ],
     "wof:tags":[]
 },
   "bbox": [

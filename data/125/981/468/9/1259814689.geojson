@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":1943351
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8629123
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"6d787875ccd92e6fb69c5bf208d0f33b",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1259814689,
-    "wof:lastmodified":1566666935,
+    "wof:lastmodified":1706240690,
     "wof:name":"Neolidae",
     "wof:parent_id":85678967,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293624987
+    ],
     "wof:tags":[]
 },
   "bbox": [

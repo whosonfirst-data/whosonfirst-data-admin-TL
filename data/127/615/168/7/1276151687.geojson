@@ -41,8 +41,13 @@
     "wof:concordances":{
         "gn:id":1622481
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1943540
+        ]
+    },
     "wof:country":"TL",
-    "wof:geomhash":"3c299548890485b939a5c376974b83d6",
+    "wof:geomhash":"90fcb88ff3cdc832cd358293f23e4d66",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,20 +57,22 @@
         }
     ],
     "wof:id":1276151687,
-    "wof:lastmodified":1566666742,
+    "wof:lastmodified":1706240690,
     "wof:name":"Vemasse",
     "wof:parent_id":85678967,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360115617
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    126.21056000000002,
+    126.21056,
     -8.51056,
-    126.21056000000002,
+    126.21056,
     -8.51056
 ],
-  "geometry": {"coordinates":[126.21056000000002,-8.51056],"type":"Point"}
+  "geometry": {"coordinates":[126.21056,-8.51056],"type":"Point"}
 }

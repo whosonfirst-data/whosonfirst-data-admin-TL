@@ -43,6 +43,9 @@
     "name:swe_x_preferred":[
         "Ossu"
     ],
+    "name:tet_x_preferred":[
+        "Ossu"
+    ],
     "name:und_x_variant":[
         "Belas",
         "Osu"
@@ -55,7 +58,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1633534
+        "gn:id":1633534,
+        "wk:page":"Ossu_%28East_Timor%29"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1943164
+        ]
     },
     "wof:country":"TL",
     "wof:geomhash":"7557530d404733207b9461903773aaab",
@@ -68,13 +77,15 @@
         }
     ],
     "wof:id":1209746289,
-    "wof:lastmodified":1566666790,
+    "wof:lastmodified":1706240688,
     "wof:name":"Ossu",
     "wof:parent_id":85678993,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293037023
+    ],
     "wof:tags":[]
 },
   "bbox": [

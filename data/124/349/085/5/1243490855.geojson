@@ -65,6 +65,11 @@
     "wof:concordances":{
         "gn:id":1937245
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1945565
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"15e3a59cf9c29b0eb9c5a557af08cfc0",
     "wof:hierarchy":[
@@ -76,13 +81,15 @@
         }
     ],
     "wof:id":1243490855,
-    "wof:lastmodified":1566666893,
+    "wof:lastmodified":1706240690,
     "wof:name":"Loo",
     "wof:parent_id":85678975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343894433
+    ],
     "wof:tags":[]
 },
   "bbox": [

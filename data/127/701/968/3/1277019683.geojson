@@ -51,6 +51,11 @@
         "gn:id":1643272,
         "wk:page":"Hato-Udo"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1945484
+        ]
+    },
     "wof:country":"TL",
     "wof:geomhash":"6d4b34ea91bee66edc6d7fa042d9660d",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1277019683,
-    "wof:lastmodified":1566666725,
+    "wof:lastmodified":1706240691,
     "wof:name":"Hatoudo",
     "wof:parent_id":85678963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327467813
+    ],
     "wof:tags":[]
 },
   "bbox": [

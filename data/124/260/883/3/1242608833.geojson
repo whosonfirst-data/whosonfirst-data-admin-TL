@@ -43,6 +43,9 @@
     "name:por_x_preferred":[
         "Bazartete"
     ],
+    "name:und_x_variant":[
+        "Vila Eduardo Marques"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,6 +55,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1943075
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1649467
+        ]
     },
     "wof:country":"TL",
     "wof:geomhash":"c21729d6f26a36998144c60145170478",
@@ -64,13 +72,15 @@
         }
     ],
     "wof:id":1242608833,
-    "wof:lastmodified":1566666889,
+    "wof:lastmodified":1706240689,
     "wof:name":"Bazartete",
     "wof:parent_id":85678951,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260220089
+    ],
     "wof:tags":[]
 },
   "bbox": [
